@@ -198,7 +198,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 14f44235-2a5c-4a2a-8fb4-2c79befa27a5,Regulus,Allen,Regulus Allen,ENGL,53,1.89,2.34,1.77,ENGL 205; ENGL 230; ENGL 303; ENGL 305; ENGL 332; ENGL 333; ENGL 347; PSC 395; ENGL 439; ENGL 512,Zoom Office Hours:1; Fast Response Time:1; Inflexible Attendance Policy:2; Pop Quizzes:1; No Breaks During Lecture:1,10,5
 150fb413-06db-4f26-8aae-b352818a3363,Anthony,Buffa,Anthony Buffa,PHYS,53,2.63,2.57,2.57,PHYS 121; PHYS 122; PHYS 123; PHYS 131; PHYS 132; PHYS 133,Inflexible Grading Policy:1; Does Not Use Canvas:2; No Breaks During Lecture:1; High In-Person Availability:2; Supplemental Study Material:1; Flexible Attendance Policy:1; Honor DRC Accommodations:1,6,7
 15212162-eb5c-494d-8a1f-b34eaab94bb2,David,Keeling,David Keeling,CHEM,87,3.28,3.5,3.13,BIO 111; CHEM 127; CHEM 128; CHEM 129; CHEM 231,,5,0
-1547bea3-a6d4-424b-9068-abf91529f64a,Paris,Kalathas,Paris Kalathas,CSC,1,1,0,0,CSC,Zoom Office Hours:1; Flexible Attendance Policy:1,1,2
+1547bea3-a6d4-424b-9068-abf91529f64a,Paris,Kalathas,Paris Kalathas,CSC,2,2.5,2,2,CSC 203,,1,0
 15489148-f387-4527-a289-99330477453e,Samuel,Tiscareno,Samuel Tiscareno,MATH,3,0,0,0.33,MATH 118,No Breaks During Lecture:1,1,1
 1560360c-4c66-48a6-83e0-6bec9b350288,Payam,Nayeri,Payam Nayeri,EE,2,4,4,4,EE 504; EE 335,Fast Response Time:1; Flexible Grading Policy:1; Uploads Slides:1,2,3
 1591b1c2-9ff3-4bf9-82c6-30fa4e7b4289,Charmaine,Martinez,Charmaine Martinez,ART,10,1.94,2.22,2.14,ART 237; ART 260; ART 333; ART 338,Inflexible Attendance Policy:1; Inflexible Deadline Policy:1,4,2
@@ -314,7 +314,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 229ec9f1-51fe-41ff-a699-9b6817ce892e,Javier,de la Fuente,Javier de la Fuente,ITP,1,4,4,4,ITP,,1,0
 22c2456d-8540-4574-ac27-499d65a4caef,John,Crandall,John Crandall,AGED,1,1,2,2,AGED 202,,1,0
 22c892b8-5d81-4b7d-b190-ead6dbd978ef,Ryan,Miller,Ryan Miller,CRP,2,4,4,4,CRP 213,Fast Response Time:1; Flexible Deadline Policy:1; Uploads Slides:1,1,3
-230e41d2-4897-4820-becb-7803ecfa2ccd,Paul,Choboter,Paul Choboter,MATH,97,3.55,3.54,3.55,MATH 141; MATH 142; MATH 143; MATH 241; MATH 244; MATH 344,,6,0
+230e41d2-4897-4820-becb-7803ecfa2ccd,Paul,Choboter,Paul Choboter,MATH,97,3.55,3.54,3.55,MATH 141; MATH 142; MATH 143; MATH 241; MATH 244; MATH 344,Supplemental Study Material:8; Uploads Slides:9; Fast Response Time:8; High In-Person Availability:4; Flexible Attendance Policy:2; Flexible Deadline Policy:3; Flexible Grading Policy:1,6,7
 232418f4-56c0-40af-8c87-eecb4a104a3e,Courtney,Brogno,Courtney Brogno,ENGL,162,2.32,2.39,2.4,ENGL 134; ENGL 145,Flexible Attendance Policy:4; Pop Quizzes:7; Inflexible Grading Policy:9; Zoom Office Hours:2; Fast Response Time:6; Recorded Lectures:2; Inflexible Attendance Policy:1; Inflexible Deadline Policy:3; Hybrid Option:2; Does Not Use Canvas:4,2,10
 2344db9d-a770-4f00-baac-4a0241ccfe9a,Donna,Langston,Donna Langston,ES,1,1.5,2.5,0.5,ES 321,,1,0
 236a442b-cc30-4648-a6a5-ae086b1f6df5,Fred,DePiero,Fred DePiero,EE,32,3.57,3.67,3.52,EE 112; EE 201; EE 219; EE 228; EE 251; EE 302; CPE 330; EE 368; EE 419; EE 515; EE 525; CPE 133,Supplemental Study Material:1; Flexible Attendance Policy:1; Flexible Deadline Policy:1,12,3
@@ -625,11 +625,11 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 46ba1deb-e8de-4d3c-8629-29aafb562db6,Nathan,Keim,Nathan Keim,PHYS,18,2.05,1.86,1.95,PHYS 132; PHYS 133; PHYS 206,,3,0
 46bb0366-5299-4e25-a8dd-338e3e75d8ce,Gary,Laver,Gary Laver,PSY,48,2.62,2.69,2.48,PSY 201; PSY 202; PSY 210; PSY 333; PSY 432; PSY 457,Honor DRC Accommodations:2; High In-Person Availability:1; Supplemental Study Material:1; Uploads Slides:1; Flexible Attendance Policy:1; Zoom Office Hours:1; Inflexible Attendance Policy:1,6,7
 47161e99-0ea5-4373-bbfa-5501cc4e70bb,Craig,Arceneaux,Craig Arceneaux,POLS,56,3.2,3.25,2.89,POLS 215; POLS 225; POLS 229; POLS 285; POLS 308; POLS 324; POLS 325; POLS 328; POLS 338; POLS 339; POLS 381; POLS 482,Inflexible Grading Policy:1; No Breaks During Lecture:1; Fast Response Time:4; Flexible Attendance Policy:3; High In-Person Availability:3; Supplemental Study Material:1,12,6
-4730925a-34d3-47b9-b66c-4efbb6f070c6,John,Planck,John Planck,CPE,46,2.78,2.58,2.92,CPE 225; CSC 225; CPE 315; EE 449; CPE 357,Class Handouts:5; Uploads Slides:11; Fast Response Time:6; Zoom Office Hours:2; Flexible Attendance Policy:3; Supplemental Study Material:1; Flexible Grading Policy:1; High In-Person Availability:1; Honor DRC Accommodations:1,5,9
+4730925a-34d3-47b9-b66c-4efbb6f070c6,John,Planck,John Planck,CPE,47,2.72,2.53,2.86,CPE 225; CSC 225; CPE 315; EE 449; CPE 357,,5,0
 47876259-968b-4e66-bd7f-5a91d9c20160,Matt,White,Matt White,MATH,107,3.39,3.35,3.42,MATH 141; MATH 142; MATH 143; MATH 144; MATH 161; MATH 162; MATH 206; MATH 241; MATH 242; MATH 244; MATH 248; MATH 304; MATH 306; MATH 317; MATH 318; MATH 344; MATH 406,,17,0
 47945cd0-54af-44b0-bf4c-10bdd53b084f,Robert,Easton,Robert Easton,MATH,77,3.82,3.8,3.81,MATH 141; MATH 142; MATH 143; MATH 206; MATH 241; MATH 244; MATH 306; MATH 341; MATH 344; MATH 481,High In-Person Availability:2; Flexible Grading Policy:2; Flexible Attendance Policy:1; Supplemental Study Material:2; No Breaks During Lecture:2,10,5
 47a02aba-0492-4f2f-9bb7-07dde9074df8,William,Amspacher,William Amspacher,AGB,22,2.42,2.33,2.38,AGB 212; AGB 213; AGB 313; AGB 421; AGB 422; AGB 423; WS 423; AGB 435; AGB 444; AGB 450; AGB 463; EDUC 498,,12,0
-47dbf43d-97ca-4d62-baf8-3696b3a9f4ab,James,Burleson,James Burleson,BUS,25,3.22,3.33,2.78,BUS 291; BUS 391; BUS 394,,3,0
+47dbf43d-97ca-4d62-baf8-3696b3a9f4ab,James,Burleson,James Burleson,BUS,26,3.13,3.32,2.71,BUS 291; BUS 391; BUS 394,Inflexible Grading Policy:1,3,1
 480d5a00-8603-4ac6-a7cc-17be945f6bf7,Daniel,Kirk,Daniel Kirk,ENGL,43,2.85,2.91,2.49,ENGL 114; ENGL 134; ENGL 145,,3,0
 48607cff-a451-41ad-9243-1e76f5fc2437,Joshua,Losoya,Joshua Losoya,COMS,18,3.9,3.89,3.9,COMS 101; COMS 205,Zoom Office Hours:5; Inflexible Attendance Policy:1; Fast Response Time:5; Flexible Grading Policy:5; No Breaks During Lecture:3; High In-Person Availability:1; Class Handouts:4; Inflexible Deadline Policy:1; Uploads Slides:2; Supplemental Study Material:1; Honor DRC Accommodations:1; Flexible Attendance Policy:3,2,12
 48694161-a64d-4a31-896c-3303b140603f,Nicole,Jacobs,Nicole Jacobs,ENGL,20,2.75,2.87,2.51,WGS 201; ENGL 230; ENGL 231; WGS 301; ENGL 339; ENGL 145; ENGL 380,Fast Response Time:2; Inflexible Deadline Policy:1; Zoom Office Hours:1; Inflexible Grading Policy:1; Flexible Attendance Policy:1; Honor DRC Accommodations:1,7,6
@@ -1965,7 +1965,7 @@ e5b287eb-c0dd-420f-a019-62e78fa52bf0,Donald,Chivens,Donald Chivens,ME,10,2.25,1.
 e5baf558-722f-40cb-8c0c-c141bd415293,Mitch,Wolf,Mitch Wolf,BUS,38,2.84,2.79,2.53,BUS 346; BUS 356; BUS 446; BUS 450; BUS 451; BUS 488,,6,0
 e5c9c7cf-9b70-4b1e-81c3-101034098c06,Matthew,Crockett,Matthew Crockett,NR,2,4,4,4,NR 218,,1,0
 e61914d9-00ff-4462-95f3-95e85adbddd2,Mark,Shelton,Mark Shelton,AGED,15,3.53,3.67,3.27,AGED 110; AG 452,,2,0
-e61d4ec3-b3d3-43cb-9560-b9d17fda7593,Brett,Clark,Brett Clark,PHYS,3,3,3.33,3,PHYS 141,,1,0
+e61d4ec3-b3d3-43cb-9560-b9d17fda7593,Brett,Clark,Brett Clark,PHYS,3,3,3.33,3,PHYS 141,High In-Person Availability:2; Fast Response Time:1; Flexible Grading Policy:1; Recorded Lectures:1,1,4
 e655320f-4664-4bf0-bd02-4771aa8f0a63,Ana,Hartig-Ferrer,Ana Hartig-Ferrer,SPAN,51,2.76,2.76,2.67,SPAN 101; SPAN 102; SPAN 103; SPAN 121; SPAN 122; SPAN 124; SPAN 201; SPAN 203; SPAN 233; SPAN 301,,10,0
 e6ab5bd5-cec6-4bdb-a475-bfb67c621508,Jacob,Clark,Jacob Clark,CM,2,4,4,4,CM 280,Recorded Lectures:1; Fast Response Time:2; Flexible Attendance Policy:1,1,3
 e6b6f0b2-c2e8-4b68-9225-6d46fe38c1bb,Leanna,Schulte,Leanna Schulte,CHEM,17,3.7,3.71,3.71,CHEM 127; CHEM 125; CHEM 129; CHEM 351,Supplemental Study Material:5; Honor DRC Accommodations:1; Uploads Slides:11; Zoom Office Hours:2; Fast Response Time:1; Flexible Attendance Policy:3; Flexible Grading Policy:1; High In-Person Availability:1; Flexible Deadline Policy:1; No Breaks During Lecture:1; Inflexible Deadline Policy:1; Inflexible Grading Policy:1,4,12
