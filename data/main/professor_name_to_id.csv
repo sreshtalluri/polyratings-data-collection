@@ -135,7 +135,7 @@ ansgar killing,ansgar,killing,0e40a11d-1bea-4b7b-8c4e-448bff923221,ARCH,2.14,20
 Elizabeth Sperow,Elizabeth,Sperow,0e52c8d0-7cb9-40b2-95bf-1ebe5015964b,BUS,3.61,41
 Jonathan Fernsler,Jonathan,Fernsler,0e57ba06-6072-4ece-be65-1ee996222bb6,PHYS,2.64,53
 Mark Miller,Mark,Miller,0e6234e5-0e12-4e97-8a88-9b199ec391ee,MU,2,1
-Jared Van Ramshorst,Jared,Van Ramshorst,0e7837e3-9449-424b-af24-9d11f2809e63,POLS,4,19
+Jared Van Ramshorst,Jared,Van Ramshorst,0e7837e3-9449-424b-af24-9d11f2809e63,POLS,4,20
 Robert Brown,Robert,Brown,0e89e675-8084-4fa5-b14e-47405ddc25af,BIO,2.07,45
 Tony Frazier,Tony,Frazier,0e9198bf-415d-4faf-acfa-d4b16280aba8,BIO,3.67,17
 Patricia Mulligan,Patricia,Mulligan,0e91caac-ade0-428a-ac1d-21396ef307b4,EDUC,3.2,4
@@ -370,7 +370,7 @@ Heather DeBruhl,Heather,DeBruhl,2925eb44-17c0-4e35-931d-23c67d25052d,BIO,3.33,3
 Brian Bates,Brian,Bates,2930aa76-ee14-4d73-b9e3-82f26e0f7944,ENGL,3.3,41
 Blasius Ngayakamo,Blasius,Ngayakamo,29b50a10-669f-4322-889f-3d01796b7d6c,MATE,2,1
 India D'Vignon,India,D'Vignon,29dd52de-264f-45b0-b72c-2dff53657c76,MU,2.56,6
-Patricia Kuznetsoff,Patricia,Kuznetsoff,2a4d41e5-b54e-4098-80f5-93e03dffb7db,ENGL,2.22,102
+Patricia Kuznetsoff,Patricia,Kuznetsoff,2a4d41e5-b54e-4098-80f5-93e03dffb7db,ENGL,2.2,103
 Caleb Fink,Caleb,Fink,2a7abbff-f3f6-4837-87e6-0d72e8b7c1c0,BRAE,3,1
 David Niebuhr,David,Niebuhr,2a9a925e-6305-4546-957b-b10b78f95f9d,MATE,2.36,90
 Sonja Schuster,Sonja,Schuster,2ad4d2bf-8e85-4859-90ea-73bdfe1fcfb3,BUS,3.73,31
@@ -581,7 +581,7 @@ David Marshall,David,Marshall,41c3a5ba-b96b-40a6-ad55-69a9d7e39a27,AERO,2.06,17
 Sema Alptekin,Sema,Alptekin,41cf5aef-34b0-4a9b-82a8-6230f1d461a2,IME,1.88,8
 Tom DiSanto,Tom,DiSanto,41d846e9-0a1c-4629-914e-5e85c1b0dd75,ARCH,3.11,16
 Laura Backus,Laura,Backus,41dafa23-0af0-4540-807d-66e7f34e18cd,ASCI,4,12
-Afshin Montakhab,Afshin,Montakhab,41dd766d-fa70-42b6-946e-28fdca35ae9a,PHYS,2.32,44
+Afshin Montakhab,Afshin,Montakhab,41dd766d-fa70-42b6-946e-28fdca35ae9a,PHYS,2.36,45
 Themistoklis Mastoridis,Themistoklis,Mastoridis,41ea6378-4ef5-4b5b-b102-6cf410ab933b,PHYS,3.25,14
 Michael Multari,Michael,Multari,42193aec-91ea-462d-8ca0-f5fd25a0d81c,CRP,3.43,6
 Coleen M. Carrigan,Coleen M.,Carrigan,421f213c-ef45-44c9-a5a6-25392d4faac3,SOC,2.83,22
@@ -835,7 +835,7 @@ Ashley Greco,Ashley,Greco,5ebff33a-0bd6-4589-b5b4-72574382de4b,COMS,0.72,17
 Robert D. Clark,Robert D.,Clark,5ecdc4dc-963a-4e50-805c-9bba8e3b4da4,KINE,2.67,28
 Matt Carlton,Matt,Carlton,5ee6091b-e25c-487a-8149-36cdf141d0ce,STAT,3.68,118
 Adam Scattini,Adam,Scattini,5ee9328b-7ce7-498b-95fa-bbef957b2529,BRAE,4,3
-Nicholas Babin,Nicholas,Babin,5f222ad7-6348-4f20-9920-76d084dbdf5b,NR,4,2
+Nicholas Babin,Nicholas,Babin,5f222ad7-6348-4f20-9920-76d084dbdf5b,NR,3.33,3
 Bret Holladay,Bret,Holladay,5f23f167-0efc-4999-94eb-64d5843592ea,STAT,3.25,4
 Yarrow Nelson,Yarrow,Nelson,5f80e9c1-fe15-46bd-9242-11c5ebd30fde,CE,3.48,21
 sasha poma,sasha,poma,5f83d3bd-7ffe-4568-b4b8-389d838a409e,ENGL,4,5
@@ -904,7 +904,7 @@ Antonio Prado,Antonio,Prado,66487daf-e026-4c0b-b2e4-2d0abe1a22f7,JOUR,3.4,18
 jhon nirmal,jhon,nirmal,664b614e-22f8-49de-a1b8-4d454687f685,AERO,2,1
 Carl Lutrin,Carl,Lutrin,664d6558-0b77-45d2-90f7-595c11c25a99,POLS,1.52,59
 Dennis Derickson,Dennis,Derickson,664fa4fa-9156-4af2-a43a-ca951955ee27,EE,2.47,27
-Travis Neel,Travis,Neel,6658da01-5d60-40a2-b0df-b33b81c6023e,ART,3.67,3
+Travis Neel,Travis,Neel,6658da01-5d60-40a2-b0df-b33b81c6023e,ART,3.25,4
 Kirk Duran,Kirk,Duran,665ba44f-b7db-43b8-931f-8d79953e1284,CSC,2.96,25
 Jonathan James,Jonathan,James,66a8823c-ede7-41a2-b783-d36796fefe65,ECON,1.33,139
 Michael Morrow,Michael,Morrow,66bf4033-7ea7-449b-9619-474f35f9970c,LA,1.69,12
@@ -1186,7 +1186,7 @@ Karen Vaughan,Karen,Vaughan,861bce0b-f67c-45a8-bd7b-c345b9c14ea8,SS,3.75,4
 Leonard Deaton,Leonard,Deaton,864ea00e-ca18-49b2-925d-a7b4a2d8db07,MATH,1.8,71
 Madeline Schroth-Glanz,Madeline,Schroth-Glanz,868794af-4ad8-4edc-9374-e05de9a7caf7,STAT,1.96,56
 Corinne Lehr,Corinne,Lehr,868c827b-6fa4-4255-9b55-03b154160b74,CHEM,1.94,47
-Aubrey Davis,Aubrey,Davis,869c0e34-fe4b-4e79-8853-42e71202fe1c,BIO,2,1
+Aubrey Davis,Aubrey,Davis,869c0e34-fe4b-4e79-8853-42e71202fe1c,BIO,1,2
 Andrew Houghtelin,Andrew,Houghtelin,86c38458-c6cf-4258-a0f1-17c635221ab5,CRP,3.67,5
 Shannon Pileggi,Shannon,Pileggi,86ce7096-5a4d-44d4-aa72-85182252f8a7,STAT,2.78,9
 Kenneth Griggs,Kenneth,Griggs,86eb15cc-f021-4a29-bb18-81ddc2dbde26,BUS,1.64,72
