@@ -133,7 +133,7 @@ Paul Redden,Paul,Redden,0e0c4ab2-c7a2-4aca-a996-258971819f45,CM,2.25,4
 Lane Fronczek,Lane,Fronczek,0e37c220-c5cb-43a2-adea-69eb1eb6d778,BUS,4,6
 ansgar killing,ansgar,killing,0e40a11d-1bea-4b7b-8c4e-448bff923221,ARCH,2.14,20
 Elizabeth Sperow,Elizabeth,Sperow,0e52c8d0-7cb9-40b2-95bf-1ebe5015964b,BUS,3.61,41
-Jonathan Fernsler,Jonathan,Fernsler,0e57ba06-6072-4ece-be65-1ee996222bb6,PHYS,2.64,53
+Jonathan Fernsler,Jonathan,Fernsler,0e57ba06-6072-4ece-be65-1ee996222bb6,PHYS,2.67,54
 Mark Miller,Mark,Miller,0e6234e5-0e12-4e97-8a88-9b199ec391ee,MU,2,1
 Jared Van Ramshorst,Jared,Van Ramshorst,0e7837e3-9449-424b-af24-9d11f2809e63,POLS,4,20
 Robert Brown,Robert,Brown,0e89e675-8084-4fa5-b14e-47405ddc25af,BIO,2.07,45
@@ -219,7 +219,7 @@ Alan Zhang,Alan,Zhang,16eb0060-6be7-466a-8459-082f7f640e4c,ME,3.83,6
 Aaron Kline,Aaron,Kline,17029dff-69dd-4344-bed9-83c69f1288d3,MU,4,4
 Joseph Castro,Joseph,Castro,17054b84-bb40-466e-beac-d5779f5738e8,BUS,2,2
 William Pendergast,William,Pendergast,171d9525-7da2-4b8f-848d-dcd25583ad82,BUS,2.29,38
-Dean Arakaki,Dean,Arakaki,173a6d6e-0279-4cc8-8a8f-9091a6afd7c8,EE,1.75,82
+Dean Arakaki,Dean,Arakaki,173a6d6e-0279-4cc8-8a8f-9091a6afd7c8,EE,1.78,83
 Micheal Costello,Micheal,Costello,17571b99-6cc9-437a-a173-29ac30f20861,AEPS,2.76,28
 Catherine Waitinas,Catherine,Waitinas,177105b8-0eff-4fdd-8592-f8fc78413445,ENGL,2.77,35
 Morgan Sherman,Morgan,Sherman,17c66353-0157-4dc3-90b8-b3d7415f646f,MATH,3.34,69
@@ -329,7 +329,7 @@ Ken Brown,Ken,Brown,24608631-aa86-4a29-adfb-31cb8315f75a,ENGL,1.92,9
 Jim Doerfler,Jim,Doerfler,2461d9a2-2e40-438d-9874-9f294f59f646,ARCH,3.3,9
 Kara Jew,Kara,Jew,24aa71f9-24ef-4e3d-b2fd-134a56ba797b,BIO,4,2
 John Perrine,John,Perrine,24bea13c-356a-4399-9f7f-0a7bddb4f797,BIO,3.27,14
-Soinbhe Nic Dhonncha,Soinbhe,Nic Dhonncha,24f60825-60ad-4d81-9848-a0f8afb34f5c,MATH,0.7,69
+Soinbhe Nic Dhonncha,Soinbhe,Nic Dhonncha,24f60825-60ad-4d81-9848-a0f8afb34f5c,MATH,0.69,70
 Christian Eckhardt,Christian,Eckhardt,24f82516-14fe-4893-955e-7963d5292f14,CSC,4,7
 Aurora Matzke,Aurora,Matzke,25012776-78bf-44ab-b9d7-877443eeccdd,ENGL,3.33,2
 Michael Black,Michael,Black,251d57e5-7838-4752-88a6-12d4300e6a68,BIO,3.32,75
@@ -355,7 +355,7 @@ Jane Lehr,Jane,Lehr,2718964c-a9e8-4ed1-93c5-0517d45355de,WGS,3.07,48
 Calvin Stevens,Calvin,Stevens,2732903f-be16-4993-9559-1b6e71129a09,BUS,3.4,20
 Ignatios Vakalis,Ignatios,Vakalis,277a4463-2a97-425e-91b9-50a3ad695a33,CSC,3.71,27
 James Zetzsche,James,Zetzsche,2794c88f-efb2-4091-a104-ea8bde1d46b8,BRAE,3.27,11
-Lisa Kawamura,Lisa,Kawamura,27cad8e3-4c88-4e9a-a9e2-fa74681a2360,COMS,1.64,329
+Lisa Kawamura,Lisa,Kawamura,27cad8e3-4c88-4e9a-a9e2-fa74681a2360,COMS,1.65,330
 Elizabeth Jeffery,Elizabeth,Jeffery,27e56290-278a-40fa-a4a5-b5dd8b1eca7c,PHYS,4,3
 Emily Hickman,Emily,Hickman,27f53828-8c54-45bd-a75c-312a894061fe,AEPS,2,7
 Scott Ferree,Scott,Ferree,27f7ec39-5049-4b6d-8fc8-b88dab313c9d,ENGL,3.2,5
@@ -1693,7 +1693,7 @@ Christopher Culbreath,Christopher,Culbreath,c5f5604d-0c1b-449d-82dd-29384091128a
 Christine Strand,Christine,Strand,c5fdc21b-77d4-48ee-a092-7a3829326698,BIO,3.46,12
 Kristen Meisenheimer,Kristen,Meisenheimer,c6006a44-3986-4fab-b22b-abc820597e96,CHEM,3.6,22
 Elizabeth Barrett,Elizabeth,Barrett,c646f0c1-b2f5-4b2a-bd4a-8899ed31749d,PSY,3.3,58
-Lawrence Sze,Lawrence,Sze,c6496a9b-8ea8-498d-9662-9b8a478fafe0,MATH,2.46,174
+Lawrence Sze,Lawrence,Sze,c6496a9b-8ea8-498d-9662-9b8a478fafe0,MATH,2.45,175
 Elmo Keller,Elmo,Keller,c6507394-22ba-4583-9063-e28e627edc4b,CSC,3.54,13
 Max Roberts,Max,Roberts,c69821e4-b3a3-4879-9ccb-eeea24644fe5,BIO,2,1
 Mike Butler,Mike,Butler,c6ada32e-e90d-4567-abbc-b126f3357325,BOT,3,1
@@ -2094,7 +2094,7 @@ Linda Patton,Linda,Patton,f4bdbdfc-1735-4157-9d77-8bc255832337,MATH,3.69,118
 Joseph Montecalvo,Joseph,Montecalvo,f4d09a0b-53c9-497d-ac06-3fdb25696473,FSN,2.96,22
 Daniel Biezad,Daniel,Biezad,f4d2e246-5487-4c15-96f7-20f18a0c7617,AERO,2.32,15
 Noelle LaBrie,Noelle,LaBrie,f4e2392d-4633-4c2b-be00-82fc2bfc2b54,MATH,3,1
-Dwight Harvey,Dwight,Harvey,f5116717-edc2-4e4a-8bbc-3aac794c8d3e,ME,2.89,10
+Dwight Harvey,Dwight,Harvey,f5116717-edc2-4e4a-8bbc-3aac794c8d3e,ME,2.63,11
 Ying Leighton,Ying,Leighton,f52bee40-d2d2-42a3-bcd6-cc64ba900d45,EE,1.55,11
 David Houghton,David,Houghton,f5567855-a840-4fd8-9d3d-9300b8175738,CE,3.41,9
 Kris Hamann,Kris,Hamann,f55e5e70-6b9e-4733-aac3-0429e44f325b,IME,3.69,8
