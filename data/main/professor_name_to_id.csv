@@ -573,7 +573,7 @@ William Plummer,William,Plummer,41532f7f-c8cb-4634-8acc-035bd5d56f25,ASCI,1.32,3
 Stephen Ball,Stephen,Ball,415ace0c-a4f2-4c98-929f-09ab58ec7b8a,PHIL,2.88,108
 John Belsher,John,Belsher,4160c217-67a5-4fd0-8825-f75491a2a899,BUS,3,2
 Sean Green,Sean,Green,41651929-d98d-4d7f-9271-ca439b2dfa4e,ENGL,3.47,42
-Grant Holder,Grant,Holder,4168b45e-8d7e-4226-83e7-af457421acf3,CHEM,1.15,7
+Grant Holder,Grant,Holder,4168b45e-8d7e-4226-83e7-af457421acf3,CHEM,1.01,8
 Andrew Davol,Andrew,Davol,41a17d34-d84a-4416-a710-63676c87c682,ME,3.61,38
 Brent Freeby,Brent,Freeby,41a81595-1da8-4925-b22d-da290d2a16fd,ARCH,3.32,30
 Justin Russak,Justin,Russak,41ad5dd2-12c6-4923-9fbe-a1a417b1396b,CHEM,1.86,20
@@ -1204,7 +1204,7 @@ Robert Howell,Robert,Howell,8851ad02-9baa-42e9-94b6-c2b0b6482a0d,ART,2.45,10
 Joshua Pearson,Joshua,Pearson,88584d42-97de-4a43-92f9-b84b2b388572,ENGL,3,4
 Ronald De Yong,Ronald,De Yong,8867ad30-40a4-4c25-84e6-2dc5d12c9851,AGB,3.4,9
 Nancy Stauch,Nancy,Stauch,886e0b1d-ceac-4d3b-b995-aa0f61df9269,PHYS,3.9,17
-Masoud Yekanifard,Masoud,Yekanifard,88896161-665a-4a85-8a5e-b6f1f21a4d6e,ME,4,2
+Masoud Yekanifard,Masoud,Yekanifard,88896161-665a-4a85-8a5e-b6f1f21a4d6e,ME,4,3
 Gene Fisher,Gene,Fisher,888dd333-f690-4ed5-b068-733b38c98d02,CSC,3.52,61
 Carmen Navarro,Carmen,Navarro,889cd777-e896-4169-9b6b-a96627c17b73,COMS,4,18
 Cristopher Pascual,Cristopher,Pascual,88d70b62-a7ac-41a1-89e8-30202e7a1b56,ME,3.79,43
@@ -1364,7 +1364,7 @@ Shohreh Niku,Shohreh,Niku,9b341731-7a00-4838-adce-9c8e0b631897,FSN,4,1
 William L. Ahlgren,William L.,Ahlgren,9b4b605b-d19a-4f70-a7ec-2b6ba670505d,EE,1.87,62
 Tammy Campbell,Tammy,Campbell,9b5b3acc-98e7-414d-94cd-3aa65b269dc8,CHEM,1.33,46
 Henry Downey,Henry,Downey,9b665b95-6736-414f-9b7c-21851a95dfc2,ARCE,0.78,13
-Michael Heying,Michael,Heying,9b907391-d5b3-42bf-ab96-9e7616ecf4cd,CHEM,2.4,45
+Michael Heying,Michael,Heying,9b907391-d5b3-42bf-ab96-9e7616ecf4cd,CHEM,2.39,46
 Majid Poshtan,Majid,Poshtan,9bd459d5-e415-4b54-9b32-dd55363aaa90,EE,3.22,27
 Erma Stauffer,Erma,Stauffer,9be90a86-7cc2-40f5-8b81-cb4261f7202d,COMS,3.86,137
 Timothy Hawkins,Timothy,Hawkins,9c51eb33-1e9a-41b6-8cd9-3feda3ad41bf,CPE,3.13,40
@@ -2066,7 +2066,7 @@ Kenneth Brown,Kenneth,Brown,f1b066ec-a0b0-40e2-b5e8-726df2b85b16,IME,3.17,7
 Lynne Slivovsky,Lynne,Slivovsky,f20cc7c5-e033-49cc-96b1-13f7e2846265,EE,1.96,21
 Dan Villegas,Dan,Villegas,f249fd1d-c5c5-4292-aa74-614fca5085ba,ECON,1.47,187
 Rouxi Wang,Rouxi,Wang,f24b3bdb-0465-438f-8915-a144fd914c17,CHEM,3.29,7
-Debora Schwartz,Debora,Schwartz,f25c98db-1c3b-4f46-a476-1908630c7c6a,ENGL,1.65,149
+Debora Schwartz,Debora,Schwartz,f25c98db-1c3b-4f46-a476-1908630c7c6a,ENGL,1.64,150
 Maria Subert,Maria,Subert,f2633611-976b-424a-954f-8c2649da095b,COMS,3.27,30
 Hillary Lynne,Hillary,Lynne,f267c186-db77-4eb5-a671-791250401c98,ARCE,3.4,4
 Joydeep Mukherjee,Joydeep,Mukherjee,f2a432cf-3536-4254-857a-8ca69d3f2cdb,CSC,3.84,12
