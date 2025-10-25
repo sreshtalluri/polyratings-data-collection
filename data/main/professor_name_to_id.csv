@@ -815,7 +815,7 @@ Kurt Behpour,Kurt,Behpour,5bfd4591-3978-4bb6-8f86-afb312200cbb,EE,1.91,60
 Shanju Zhang,Shanju,Zhang,5c1558ba-12fd-451e-998d-d2779ec9b483,CHEM,2.88,26
 Eduardo Zambrano,Eduardo,Zambrano,5c22771b-6cfb-478a-bedc-5a5e748f9a84,ECON,2.97,45
 Unique Shaw,Unique,Shaw,5c2c1396-f7d2-4ee6-8589-efb79e1189fa,SOC,3.75,16
-Moses Mike,Moses,Mike,5c407cab-8ce4-4bd6-b3d0-1ebd501be814,AGC,2.67,6
+Moses Mike,Moses,Mike,5c407cab-8ce4-4bd6-b3d0-1ebd501be814,AGC,2.86,7
 Alejandra Yep-Rodriguez,Alejandra,Yep-Rodriguez,5c469df1-96ce-47cb-a099-22d35a5c52b6,BIO,3.44,4
 Joseph Coates,Joseph,Coates,5cc6a6d5-fc9d-44ed-9835-9482a7d6ac0d,ART,0,2
 Andrew Maness,Andrew,Maness,5ccf6cbf-7f94-4e83-9c9f-24f8d439fe4b,ENGL,2.79,106
@@ -843,7 +843,7 @@ Autumn Qiu,Autumn,Qiu,5f8d4f84-7166-4be5-a140-e7fc4273a439,AGB,3.5,2
 Raymond Brennan,Raymond,Brennan,5ffe95db-d4fe-421b-ae2a-5d9cc644dd49,ENGL,3.94,15
 Laurene Lee,Laurene,Lee,600bf0e1-c334-45d4-b7ac-c9e6c51ecd20,MATH,3.19,15
 Franklin Paul Gaudi,Franklin Paul,Gaudi,601d0178-a2eb-45fe-aafe-98e2da12f3a4,BRAE,3.33,24
-Matthew Cole,Matthew,Cole,601f0947-f83a-4f52-a6c1-ef1e7a4f1283,ECON,2.55,24
+Matthew Cole,Matthew,Cole,601f0947-f83a-4f52-a6c1-ef1e7a4f1283,ECON,2.57,25
 William Walters,William,Walters,6035d6a8-0ab4-4894-8713-222eb891b7fe,ENGL,2.66,80
 Maya Seagraves,Maya,Seagraves,6056f3a3-9ea2-4eed-9d98-e1baa36c2e41,MATH,4,2
 Daniel Story,Daniel,Story,607e061a-8b61-4697-a373-a778800a82a0,PHIL,3.51,12
@@ -1429,7 +1429,7 @@ Daniel Kauffman,Daniel,Kauffman,a2cc069b-f89d-43fc-96df-392b8ff9d492,CSC,3.05,21
 Loren Kline,Loren,Kline,a2d5f0f0-e394-47f2-9b4b-106e8e8953ab,EE,1.4,4
 Melissa Cline,Melissa,Cline,a2d71929-6476-488f-af24-846e9331fbcb,HLTH,3.79,9
 Debora Humphreys,Debora,Humphreys,a2fd21ba-2d38-4b1e-8754-8b0eb01bf391,BUS,1.5,4
-Zoe Nepsa,Zoe,Nepsa,a311b098-c030-4f44-8faa-37f36ba5b422,MATH,1.73,31
+Zoe Nepsa,Zoe,Nepsa,a311b098-c030-4f44-8faa-37f36ba5b422,MATH,1.68,32
 Thomas Crooke,Thomas,Crooke,a331163b-3a8c-40e5-8eaf-3b51e2e438e1,BUS,2.5,6
 Robert Reyes,Robert,Reyes,a343cf60-7979-4421-8f6a-a9b17f02e160,POLS,4,1
 Rene Carrasco,Rene,Carrasco,a36ef6a4-8001-4564-ae1e-639dbc6622cd,SPAN,4,6
@@ -1620,7 +1620,7 @@ David Carleton,David,Carleton,bc30dcb4-fc5a-43f4-8d72-5dd56421611c,MATH,1.8,4
 Dylan Retsek,Dylan,Retsek,bc48b82c-c3f3-4025-865c-83f6286664fb,MATH,3.89,133
 Patrick McCleskey,Patrick,McCleskey,bc578426-c964-40d6-a016-7e7bae627aa1,ITP,2.57,6
 Lucy McGowan,Lucy,McGowan,bc612d3b-2f51-4ad6-99ff-eaf54d176254,AGB,4,5
-Ian Powell,Ian,Powell,bc6cf593-6ab0-4730-8a03-170e89a52af5,PHYS,3.74,24
+Ian Powell,Ian,Powell,bc6cf593-6ab0-4730-8a03-170e89a52af5,PHYS,3.59,25
 Norm Borin,Norm,Borin,bc813f7a-f19b-4ed1-b80d-88163a4b8539,BUS,1.52,44
 Rebecca Ellis,Rebecca,Ellis,bcab26b3-de9c-48f1-bedb-2979806f4951,BUS,2.91,20
 Cynthia Breaux,Cynthia,Breaux,bcb9f9d5-6a1b-4987-836b-5a12646710fe,PSY,3.84,56
@@ -1745,7 +1745,7 @@ Daniel Krieger,Daniel,Krieger,cc61f9b2-3c78-467f-904b-861b1091f00e,HIST,3.11,96
 Don Choi,Don,Choi,cc843e67-7271-47eb-af41-521338be0424,ARCH,3.16,73
 James Bagnall,James,Bagnall,cca9fd72-71ea-4a7a-9100-6877c7890b8a,ARCH,2.33,15
 Darren Huang,Darren,Huang,ccd2dcda-e836-4fd1-9682-b4ffac7ee1e6,CSC,1.3,7
-Wilson Kang,Wilson,Kang,cd227521-472d-48e1-9ba3-80a1e9145d3a,ECON,3.79,14
+Wilson Kang,Wilson,Kang,cd227521-472d-48e1-9ba3-80a1e9145d3a,ECON,3.81,16
 Larry Gorman,Larry,Gorman,cd4c2d14-900b-47a3-8eee-880dce44e303,BUS,2.94,216
 Justin Swanson,Justin,Swanson,cd65ad29-ec13-4d1c-9c03-ed4276368c6e,ENGL,2.73,37
 Hans Mayer,Hans,Mayer,cd6ff2a6-44c8-4f2c-a2a6-03e9d1e3a0a3,ME,2.79,59
@@ -1794,7 +1794,7 @@ Tatiana Kuriabova,Tatiana,Kuriabova,d2f1154d-fdb9-4312-b462-4d9e3d371d90,PHYS,2.
 Heidi Keas,Heidi,Keas,d3003d9f-1907-49d0-8c52-b90d1217877a,MATH,2.38,7
 Humberto Norman,Humberto,Norman,d3678087-4d79-4deb-9466-57bd55f514e7,ARCH,3.76,15
 Michael Bordbar,Michael,Bordbar,d3725081-3f53-4823-b2d9-4551418ba729,CHEM,3,6
-Lisa Anderson,Lisa,Anderson,d374fb10-5e2a-4363-9ee3-991f7280eeed,BUS,4,5
+Lisa Anderson,Lisa,Anderson,d374fb10-5e2a-4363-9ee3-991f7280eeed,BUS,4,6
 Nishanta Rajakaruna,Nishanta,Rajakaruna,d38d3f0e-43ad-4719-bccd-2bb5629ee19a,BIO,0,2
 Jacob Odisho,Jacob,Odisho,d3bd93d4-5180-4843-9e5d-f0337618fc71,IME,3,1
 Elisabeth Deswart,Elisabeth,Deswart,d3cf264d-e7cb-48ec-a66d-40eef389da6c,FSN,2,1
