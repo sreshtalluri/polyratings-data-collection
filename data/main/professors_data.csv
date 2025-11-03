@@ -385,7 +385,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 2bbeb337-1a46-45ee-9571-ceba5314bef5,Ronald,Taskey,Ronald Taskey,SS,15,1.88,1.88,1.19,SS 120; SS 121; GEOL 201; SS 321; SS 440; SS 501,,6,0
 2bc91266-9b2e-43bd-898a-6536b71d7082,Theodore,Foster,Theodore Foster,PHYS,45,2.95,2.77,2.74,PSC 103; PHYS 104; PHYS 121; PHYS 122; PHYS 123; PHYS 131; PHYS 132; PHYS 313,,8,0
 2bca8654-c149-4a7c-81af-0c620d9e67f9,Keith,Abney,Keith Abney,PHIL,140,2.33,2.63,2.07,PHIL 124; PHIL 125; PHIL 126; PHIL 145; PHIL 201; PHIL 230; PHIL 231; PHIL 251; PHIL 300; PHIL 327; PHIL 331; PHIL 332; PHIL 335; PHIL 336; PHIL 337; PHIL 339,Recorded Lectures:3; Hybrid Option:1; Inflexible Deadline Policy:1; Inflexible Grading Policy:1; Zoom Office Hours:1; Flexible Attendance Policy:1; Honor DRC Accommodations:1; Uploads Slides:1,16,8
-2be673cc-d6b8-483b-a02f-aba184b86a4d,Elena,Dimitrova,Elena Dimitrova,MATH,15,3.86,3.86,3.93,MATH 142; MATH 206; MATH 202; MATH 248; MATH 143; MATH 241,High In-Person Availability:7; Fast Response Time:6; Supplemental Study Material:4; Flexible Attendance Policy:4; Class Handouts:3; Flexible Grading Policy:2; Flexible Deadline Policy:1,6,7
+2be673cc-d6b8-483b-a02f-aba184b86a4d,Elena,Dimitrova,Elena Dimitrova,MATH,16,3.87,3.87,3.93,MATH 142; MATH 206; MATH 202; MATH 248; MATH 143; MATH 241,,6,0
 2bfc3bc9-5343-43c1-9439-49ff05c066dd,James,Bermann,James Bermann,BRAE,1,2.5,3,3,BRAE 301,,1,0
 2c0920ba-6188-41b8-83a8-41e2c513494f,Blair,London,Blair London,MATE,102,0.99,1.44,0.97,MATE 111; MATE 210; MATE 211; MATE 215; MATE 220; MATE 225; MATE 300; MATE 310; MATE 330; MATE 340; MATE 350; MATE 360; MATE 405; MATE 440; MATE 481; MATE 482; MATE 510,,17,0
 2c4dc1e6-effa-436f-940a-0ab50532fc32,Ryan,Jenkins,Ryan Jenkins,PHIL,35,3.76,3.83,3.86,PHIL 126; PHIL 231; PHIL 322; PHIL 323; PHIL 342; PHIL 101,Zoom Office Hours:1; Flexible Attendance Policy:3; Uploads Slides:3; Flexible Deadline Policy:1; Class Handouts:1; High In-Person Availability:2; Fast Response Time:3,6,7
@@ -778,7 +778,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 589d2759-0e80-4e10-8321-3482b3f21826,Brad,Campbell,Brad Campbell,ENGL,53,3.74,3.78,3.71,ENGL 203; ENGL 204; ENGL 240; ENGL 242; ENGL 305; ENGL 310; ENGL 340; ENGL 347; ENGL 449; ENGL 202,Fast Response Time:2; Uploads Slides:3; Pop Quizzes:3; Does Not Use Canvas:1; Inflexible Grading Policy:1; No Breaks During Lecture:1; Flexible Attendance Policy:2,10,7
 58a346b7-3147-4bdf-b8af-846d4341243f,McFarlane,Zach,McFarlane Zach,ASCI,8,3.5,3.62,3.62,AEPS 221; ASCI 112; ASCI 221,Uploads Slides:4; Supplemental Study Material:1; Flexible Deadline Policy:1; Pop Quizzes:1,3,4
 58be5600-2ea1-4a61-974d-1c5d156bdf47,Mira,Rosenthal,Mira Rosenthal,ENGL,1,4,4,4,ENGL,Recorded Lectures:1; Fast Response Time:1,1,2
-58d70b62-cfbc-4873-b3d8-d3a7df0ec2ce,Marshall,Ford,Marshall Ford,ARCH,1,4,4,3,ARCH,High In-Person Availability:1; Fast Response Time:1; Uploads Slides:1,1,3
+58d70b62-cfbc-4873-b3d8-d3a7df0ec2ce,Marshall,Ford,Marshall Ford,ARCH,2,4,4,3.5,ARCH 133; ARCH 251,,2,0
 58e20dec-dd3a-4ec3-baaa-ba3efeeb94ad,Reza,Eslami,Reza Eslami,CE,3,3.33,2.33,3.67,CE 207; CE 208; CE 259,Hybrid Option:1; Uploads Slides:1; No Breaks During Lecture:1,3,3
 58e4c662-f3b8-437c-9b6b-7e8c90913104,Barbara,Turner,Barbara Turner,CHEM,20,3.48,3.52,3.48,CHEM 110; CHEM 312; CHEM 313,,3,0
 58ea5dbc-d90e-4bec-8c1a-65e4096fc066,Ryan,Perry,Ryan Perry,PSC,2,4,4,4,PSC 110; AEPS 313,High In-Person Availability:2; Fast Response Time:2; Flexible Grading Policy:1; Uploads Slides:1,2,4
