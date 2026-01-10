@@ -71,7 +71,7 @@ David Retz,David,Retz,0739f636-6b9e-4f95-b76e-035a1ddf4bfd,EE,3.07,14
 Abby Lentz,Abby,Lentz,076d4e80-f2d6-4616-8134-fde24bebd509,ARCE,4,1
 Mark Rawson,Mark,Rawson,077cbcb5-1a4d-48b6-9fd6-20026ede92bb,ARCH,4,1
 Alyson McLamore,Alyson,McLamore,07981647-93a0-4830-87f1-060c7cf52ba3,MU,3.15,27
-Mona El Helbawy,Mona,El Helbawy,079f32e1-579c-44a2-b50f-b187193b7314,CPE,2.32,470
+Mona El Helbawy,Mona,El Helbawy,079f32e1-579c-44a2-b50f-b187193b7314,CPE,2.32,473
 Shashika Hewavitharana,Shashika,Hewavitharana,07ba8e38-adca-4f5b-8f7e-d47473b3afd8,PSC,4,2
 Amy Ward,Amy,Ward,07c3256b-a9a8-4ac8-8c58-c26187e5e758,COMS,2.9,44
 Skip Moses,Skip,Moses,07d95960-f1e6-47d2-9805-95eb2aed9d8b,MATH,2.67,6
@@ -157,7 +157,7 @@ Shoreh Niku,Shoreh,Niku,0fc0a136-2bff-4d1f-a003-5f1d6f94845d,FSN,2.42,39
 Meredith Brammeier,Meredith,Brammeier,0fc8a543-9cf0-4d0e-bd10-7aaba5d33a0e,MU,3.46,20
 Daniel Malone,Daniel,Malone,0fcaee7e-6d90-4a2e-a4fa-b781c3f6534d,MATH,2.81,19
 jnan blau,jnan,blau,0fd39f4b-897b-442c-a521-4e8ca2ac8aa4,COMS,3.59,33
-April Grow,April,Grow,0fe890dd-4fe2-4909-8b1a-72a371721672,CSC,1.36,11
+April Grow,April,Grow,0fe890dd-4fe2-4909-8b1a-72a371721672,CSC,1.25,12
 Robert Szlavik,Robert,Szlavik,1039e65f-6c4a-4283-92dd-853d3d9ae861,BMED,3.06,17
 John Haley,John,Haley,104a99ba-287c-4ef7-add5-e67827bee1c7,POLS,1.67,2
 Chris Carr,Chris,Carr,10566fa1-e8c6-419c-967a-68057f2643f8,BUS,3.53,215
@@ -952,7 +952,7 @@ Xi Wu,Xi,Wu,69152fa3-c1d2-438b-8cae-320836a85cf6,ME,2.21,24
 William Feldman,William,Feldman,692ed73d-d2f2-4152-83ef-c97faf64cec2,ENGL,2.5,32
 Vladimir Prodanov,Vladimir,Prodanov,693a2dcf-6faf-4065-bdc2-2a664a9482b1,EE,3.63,43
 Christine Shea,Christine,Shea,6954d890-80fb-4979-bc08-63a97160331a,COMS,2.94,95
-Austin Christian,Austin,Christian,69cc75ee-260a-478d-a31d-67e6aab43beb,MATH,3.66,28
+Austin Christian,Austin,Christian,69cc75ee-260a-478d-a31d-67e6aab43beb,MATH,3.67,29
 Alex Flores,Alex,Flores,69cee8f9-2b35-4adf-8d6c-d384d2863732,SPAN,1.9,10
 Jeffrey Liese,Jeffrey,Liese,69dca2d3-8387-49e5-a912-b07ac1827a07,MATH,2.93,80
 David King,David,King,69f01610-4da9-440b-a7af-2cbd995d904d,PHIL,2.89,10
@@ -1337,7 +1337,7 @@ Joseph Kuehn,Joseph,Kuehn,9426f0cb-0740-43c2-a873-8e957ff54873,ECON,3.78,13
 Thomas Fowler,Thomas,Fowler,94549e5e-ad62-4305-81c9-72559c50ea2a,ARCH,3.33,14
 Michael Haungs,Michael,Haungs,9464fe34-82f7-458a-8ee7-280b5a33fb52,CSC,3.26,38
 Brooke Muller,Brooke,Muller,946dd21e-9535-4e3b-b386-6776c2d838d5,ARCH,3.38,7
-Anu Aggarwal,Anu,Aggarwal,94803593-5bb7-4778-a758-a554481f6281,EE,1.5,4
+Anu Aggarwal,Anu,Aggarwal,94803593-5bb7-4778-a758-a554481f6281,EE,1.2,5
 Alicia Gauch,Alicia,Gauch,94aeaa18-8585-42ec-95ea-1f718f22a5b9,POLS,2,2
 Garland Durham,Garland,Durham,94b8e8f7-cd3a-461a-9d83-2b503a3d9cb1,BUS,2.7,9
 Katherine Chen,Katherine,Chen,94f3aee0-31fc-41d8-9bde-b0cef2d5b294,MATE,1.96,23
@@ -1795,7 +1795,7 @@ Christian Anderson,Christian,Anderson,ce80dd58-5909-441d-8e8b-7823a3a8e18d,GER,3
 Thomas Kommer,Thomas,Kommer,cea267da-8467-4a72-a6a3-cdf6a899fe81,CM,4,3
 Tanya Flushman,Tanya,Flushman,ceaa73ef-63da-469c-8926-ab6674008041,LS,1.67,2
 Priscilla Nguyen,Priscilla,Nguyen,cf024aaa-5b1e-47e8-af48-07023fdd1587,ME,2.5,1
-Todd Long,Todd,Long,cf14b30f-57e9-41d6-830c-b9a1846f5da9,PHIL,2.94,62
+Todd Long,Todd,Long,cf14b30f-57e9-41d6-830c-b9a1846f5da9,PHIL,2.96,63
 Sadie Johann,Sadie,Johann,cf3c33ad-f893-4419-81d8-14e15b811d93,ENGL,3.52,45
 Juleen Packard,Juleen,Packard,cf80f1d9-8104-489a-81db-88db0b866175,LS,4,1
 Brian Greenwood,Brian,Greenwood,cf8a7def-9502-45e7-8ee7-40f85c4da2a8,NR,2.58,15
@@ -1864,7 +1864,7 @@ Michael Fahs,Michael,Fahs,d660ecf2-63a6-447d-a3c5-e8e4ff54d832,COMS,2.14,47
 Oscar Gutierrez,Oscar,Gutierrez,d67bcde0-efec-43bd-9cb0-432e9eb11bb6,ES,4,1
 Derik Birdsall,Derik,Birdsall,d67bf2e9-1746-4a5a-bf50-2e43658b3a1f,MATH,3.33,2
 Chris Nelson,Chris,Nelson,d6944c40-4f96-4eb4-9c61-b4ae421247c8,POLS,4,2
-Hiren Trada,Hiren,Trada,d6989d6e-4fe7-4d47-b978-76e28b3566e9,EE,3.13,15
+Hiren Trada,Hiren,Trada,d6989d6e-4fe7-4d47-b978-76e28b3566e9,EE,3,16
 Mt Vallarta,Mt,Vallarta,d6a776ca-500b-4a88-8aac-c2fa71efa4b2,ES,1.87,21
 Mark Cabrinha,Mark,Cabrinha,d6ab623d-8a70-4c4a-bd59-9bde20405c68,ARCH,3,7
 Cynthia Moyer,Cynthia,Moyer,d6afd9aa-d56b-48ea-a36e-6e4d6128421a,AGED,1.75,15
