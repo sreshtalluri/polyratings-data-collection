@@ -173,7 +173,7 @@ Hugh Smith,Hugh,Smith,11dd04c5-c04d-41fc-9aac-b337c6794c6a,CSC,3.32,33
 Lonny Simonian,Lonny,Simonian,11de1dbc-9a07-4f80-9c16-892cd72e1dbe,CM,3.25,4
 Michael Boswell,Michael,Boswell,11eddcb6-d9a9-4cc9-8a7d-f69d40b64cfb,CRP,3.2,19
 Tanner Treece,Tanner,Treece,11eec8b9-fcf9-44e6-9f58-f39e72da948e,CHEM,3.82,11
-James Crew,James,Crew,11efec99-0614-49b8-9189-bf871ce14fe5,MATH,3.79,33
+James Crew,James,Crew,11efec99-0614-49b8-9189-bf871ce14fe5,MATH,3.8,34
 John George Coroneus,John George,Coroneus,11f1cf28-f2f5-4fa0-a284-66e051467e70,PHYS,2.65,20
 Rudy Schalk,Rudy,Schalk,122753f4-8779-4e41-b3e7-ce6e3b16ec69,BRAE,3,6
 Brian Lawler,Brian,Lawler,123bb828-6614-4576-80d7-26dfd02c99fa,GRC,3.47,46
@@ -392,7 +392,7 @@ Dennis Sun,Dennis,Sun,2b6b7a80-2e94-4a46-a3cd-94074c9a6935,STAT,3.22,9
 Ronald Taskey,Ronald,Taskey,2bbeb337-1a46-45ee-9571-ceba5314bef5,SS,1.88,15
 Theodore Foster,Theodore,Foster,2bc91266-9b2e-43bd-898a-6536b71d7082,PHYS,2.95,45
 Keith Abney,Keith,Abney,2bca8654-c149-4a7c-81af-0c620d9e67f9,PHIL,2.32,141
-Elena Dimitrova,Elena,Dimitrova,2be673cc-d6b8-483b-a02f-aba184b86a4d,MATH,3.28,21
+Elena Dimitrova,Elena,Dimitrova,2be673cc-d6b8-483b-a02f-aba184b86a4d,MATH,3.18,22
 James Bermann,James,Bermann,2bfc3bc9-5343-43c1-9439-49ff05c066dd,BRAE,2.5,1
 Blair London,Blair,London,2c0920ba-6188-41b8-83a8-41e2c513494f,MATE,0.99,102
 Ryan Jenkins,Ryan,Jenkins,2c4dc1e6-effa-436f-940a-0ab50532fc32,PHIL,3.76,35
@@ -465,7 +465,7 @@ Dallas Taylor Donnell,Dallas Taylor,Donnell,31a7bcad-9d07-4f6d-94db-4cb15faa22e5
 Julie Spencer Rodgers,Julie Spencer,Rodgers,31b36c17-43d1-4421-8d14-1fc432424f7d,PSY,3.5,4
 John McKinstry,John,McKinstry,31c57dd4-0bb3-4487-9add-e6e76f89d4ce,SOC,2.84,61
 Serim Denel,Serim,Denel,31cd2f5e-2927-4481-b09b-6588f5358a0a,ARCH,2.17,11
-Scott Hamilton,Scott,Hamilton,31f8e995-c234-47a1-9128-5308a772c12a,ENGL,2.28,14
+Scott Hamilton,Scott,Hamilton,31f8e995-c234-47a1-9128-5308a772c12a,ENGL,2.13,15
 Mike Marlow,Mike,Marlow,31fa4ff6-d393-412f-8663-2c1f138a099a,ECON,2.73,124
 Peter Brown,Peter,Brown,32143f19-71e5-4473-ba1c-713fed49f38c,CRP,1.17,5
 Connor Kingsbury,Connor,Kingsbury,321b942c-905c-4c13-888a-7ea7f9bcb810,ME,4,6
@@ -564,7 +564,7 @@ John Oliver,John,Oliver,3e33eecb-c14f-43b5-a111-17a0f06d2e4a,CPE,4,3
 Chance Hoellwarth,Chance,Hoellwarth,3e42a5b7-82d7-443f-96c0-0c63e79cc1f5,PHYS,1.59,47
 Tim Farrell,Tim,Farrell,3e4c67e4-619f-46eb-a815-28d9f26557ec,ENGL,3.86,14
 MD Salam,MD,Salam,3e73b179-df27-4a4b-bb5d-ceedbd726923,EE,3,2
-Marivel Lozano,Marivel,Lozano,3eb5db9a-6d17-480e-91d7-65b4cf86dac9,SPAN,0.5,2
+Marivel Lozano,Marivel,Lozano,3eb5db9a-6d17-480e-91d7-65b4cf86dac9,SPAN,0.33,3
 Michael Pence,Michael,Pence,3ebd24bf-c2ce-4a73-9fb1-ce416e72facd,AEPS,4,1
 Daniel Seiver,Daniel,Seiver,3ecc893e-02ef-468b-b460-ac4fa2158b4e,ECON,2.19,87
 Unny Menon,Unny,Menon,3f0eccd6-fb4a-4d3b-9de1-c12a4b6bef24,IME,3.67,8
@@ -710,7 +710,7 @@ Priya Verma,Priya,Verma,4f5b21f6-2fa2-4823-a142-40f6dc535226,NR,2.04,22
 Brian Pompeii,Brian,Pompeii,4f949353-ac11-4cd3-b891-bb9f4f30a9c8,SOC,3.35,30
 Milena Ramirez,Milena,Ramirez,4f9b4506-4603-4b30-a344-c210bf38966d,FSN,3,1
 Duane Morris,Duane,Morris,4fa5bf6c-1979-4149-bee7-41c0144a4a46,AEPS,2,1
-Bryan Mealy,Bryan,Mealy,4fab7fdd-0daa-4b84-a0b6-a35e31b33338,CPE,3.51,100
+Bryan Mealy,Bryan,Mealy,4fab7fdd-0daa-4b84-a0b6-a35e31b33338,CPE,3.48,101
 Alexia Arani,Alexia,Arani,4faf9c65-5878-4205-8912-4988dc6a09dc,WGS,3,6
 Peggy Rice,Peggy,Rice,4fb781b6-7c63-41d8-a1c9-2ea300eb98b1,CHEM,3.24,57
 Kirk Sturm,Kirk,Sturm,4ff24d53-a37e-4ecf-821b-a34c1bce63d2,AGED,3.57,7
@@ -806,7 +806,7 @@ Kenneth McKell,Kenneth,McKell,598ec6b5-865a-4587-8142-e68db70bd89e,EE,2.98,53
 Euel Kennedy,Euel,Kennedy,59aacf60-fff6-4af3-8028-e8b9d698085c,MATH,1.38,7
 Lauren Henley,Lauren,Henley,59abdfc0-49c7-4cf3-99ea-815dc87fb22c,ENGL,4,13
 Enar Tunc,Enar,Tunc,59f9a3a0-cdcf-4176-bf8f-36d682c0840b,ITP,2.15,13
-Rodney Mock,Rodney,Mock,5a06a8e3-f8b7-4c93-bf0f-a880042f64f0,GSA,3.02,49
+Rodney Mock,Rodney,Mock,5a06a8e3-f8b7-4c93-bf0f-a880042f64f0,GSA,2.96,50
 Nicole Daphnis,Nicole,Daphnis,5a135bb5-2042-4ccf-86d1-9eb3f3ad3b27,POLS,4,4
 Katrina Prow,Katrina,Prow,5a1d6068-4c33-4d49-9b07-87c2593c779e,ENGL,3.9,11
 Carl Hedge,Carl,Hedge,5a35866d-f198-43ca-9397-d7a560cbaa20,PHYS,2.67,2
