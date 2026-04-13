@@ -243,7 +243,7 @@ Alan Zhang,Alan,Zhang,16eb0060-6be7-466a-8459-082f7f640e4c,ME,3.1,22
 Aaron Kline,Aaron,Kline,17029dff-69dd-4344-bed9-83c69f1288d3,MU,4,7
 Joseph Castro,Joseph,Castro,17054b84-bb40-466e-beac-d5779f5738e8,BUS,2,2
 William Pendergast,William,Pendergast,171d9525-7da2-4b8f-848d-dcd25583ad82,BUS,2.29,38
-Dean Arakaki,Dean,Arakaki,173a6d6e-0279-4cc8-8a8f-9091a6afd7c8,EE,1.86,113
+Dean Arakaki,Dean,Arakaki,173a6d6e-0279-4cc8-8a8f-9091a6afd7c8,EE,1.88,114
 Micheal Costello,Micheal,Costello,17571b99-6cc9-437a-a173-29ac30f20861,AEPS,2.76,28
 Catherine Waitinas,Catherine,Waitinas,177105b8-0eff-4fdd-8592-f8fc78413445,ENGL,2.75,39
 Morgan Sherman,Morgan,Sherman,17c66353-0157-4dc3-90b8-b3d7415f646f,MATH,3.31,73
@@ -536,7 +536,7 @@ Susan Hawk,Susan,Hawk,35fcef80-76f9-4e04-ac2f-fced2877aee9,FSN,3.09,11
 Barry Williams,Barry,Williams,36741c81-b695-4e41-8202-070a9e430329,ARCH,4,2
 Francisco Alvarez,Francisco,Alvarez,368b5ef5-1453-433f-b243-db8adda64b60,MATH,3.5,2
 Tina Smilkstein,Tina,Smilkstein,36adeba9-671a-4895-9fc0-e8ba8ff16368,EE,2.36,32
-Greg Philbrick,Greg,Philbrick,36b9ba15-d6f9-4d5a-9768-e4876ec10f93,CSC,2.43,19
+Greg Philbrick,Greg,Philbrick,36b9ba15-d6f9-4d5a-9768-e4876ec10f93,CSC,2.36,20
 Marilyn Tseng,Marilyn,Tseng,36c1300e-27b0-4a89-ab05-285b745c4e89,FSN,2.03,37
 William Harrison,William,Harrison,36c9036d-6ae2-4dff-ae74-8213ca6f24e1,BUS,3.92,13
 Allan Hauck,Allan,Hauck,36d7394d-ef0d-4080-bb78-a095b4d17ecd,CM,1.8,3
@@ -941,7 +941,7 @@ Alex Hirsig,Alex,Hirsig,620e31d3-d103-483b-a832-3470fc08e759,ARCH,4,3
 Lidar Eini,Lidar,Eini,622babff-3199-48fa-8e66-051b81b703be,EDUC,4,1
 Jeff Hess,Jeff,Hess,6238327b-f70a-43d1-8541-cbacde1ed97d,BUS,2.22,25
 Rachel Lyons,Rachel,Lyons,62711b6c-6c86-400f-bb00-587fdd020cd4,ASCI,2.67,9
-Nicole Birdsall,Nicole,Birdsall,6287909f-1e0e-47fa-9d65-f556afab08d8,BUS,2.66,9
+Nicole Birdsall,Nicole,Birdsall,6287909f-1e0e-47fa-9d65-f556afab08d8,BUS,2.69,10
 Jaehun Woo,Jaehun,Woo,628e9237-9336-4cf0-aa88-3e7840550653,ARCH,3,2
 Jesse Maddren,Jesse,Maddren,62be5f17-c353-4095-bb1f-88e1ba73c5a7,ME,3.64,44
 Xanthipe Jordanides,Xanthipe,Jordanides,62c679f7-5818-452b-a695-6af12ca4139a,CHEM,2.29,16
@@ -1713,7 +1713,7 @@ Nancy Parham,Nancy,Parham,b66a4fb5-c4e8-470f-8de1-ac047793c671,CSC,2.87,78
 Paige Gill,Paige,Gill,b680762a-d68e-49a4-9da6-334244ec2e6d,AGB,1.4,14
 Hasan Palandoken,Hasan,Palandoken,b6894a93-bfb2-4512-8923-439055e9031b,CHEM,2.91,50
 Carlos Diaz Alvarenga,Carlos,Diaz Alvarenga,b6b6b20c-5b78-4f12-bf52-de9436063785,CPE,4,7
-Stacy Kolegraff,Stacy,Kolegraff,b6ca4acb-9a61-4a21-9f48-a76af2c49f53,CM,3.52,5
+Stacy Kolegraff,Stacy,Kolegraff,b6ca4acb-9a61-4a21-9f48-a76af2c49f53,CM,2.93,6
 Nicole Johnson-Glauch,Nicole,Johnson-Glauch,b6d4215d-ad9b-4a59-b7bb-731cb49b35d2,MATE,3.57,7
 Sholeh Prochello,Sholeh,Prochello,b704e402-d8f6-45ca-a175-36831e97b311,ENGL,2.33,3
 Stan Henderson,Stan,Henderson,b71585e7-1850-4ca8-a2c3-d9ec29205e98,DSCI,3.17,5
@@ -2262,7 +2262,7 @@ Daniel Biezad,Daniel,Biezad,f4d2e246-5487-4c15-96f7-20f18a0c7617,AERO,2.32,15
 Noelle LaBrie,Noelle,LaBrie,f4e2392d-4633-4c2b-be00-82fc2bfc2b54,MATH,3,1
 Dwight Harvey,Dwight,Harvey,f5116717-edc2-4e4a-8bbc-3aac794c8d3e,ME,2.9,21
 Ying Leighton,Ying,Leighton,f52bee40-d2d2-42a3-bcd6-cc64ba900d45,EE,1.55,11
-David Houghton,David,Houghton,f5567855-a840-4fd8-9d3d-9300b8175738,CE,3.41,9
+David Houghton,David,Houghton,f5567855-a840-4fd8-9d3d-9300b8175738,CE,3.27,10
 Kris Hamann,Kris,Hamann,f55e5e70-6b9e-4733-aac3-0429e44f325b,IME,3.69,8
 Ava Wright,Ava,Wright,f56a596e-f3da-4e32-b308-b6c1946842ff,PHIL,3.11,9
 Leann Alduenda,Leann,Alduenda,f5ecc004-1920-4196-845f-da62ed1389ca,DANC,4,3
@@ -2316,7 +2316,7 @@ Jeff Gervasi,Jeff,Gervasi,fa4c324a-d864-46d0-b151-1dbadf750ac9,MATH,3.78,78
 John Fabijanic,John,Fabijanic,fa4f2fc7-4a72-4596-b9de-eb5ad42fdeac,ME,2.43,24
 Martin Koch,Martin,Koch,fa55393a-1d3b-4208-b42a-c24a82af0f71,IME,3.66,63
 Anne Marie Bergen,Anne Marie,Bergen,fa57393d-2a25-44f7-b0ca-c9819c1a2148,BIO,3.27,14
-Taha Dawoodbhoy,Taha,Dawoodbhoy,fa5e3e0c-7aa5-47d2-bfe6-7e7dce6ea610,PHYS,3.69,30
+Taha Dawoodbhoy,Taha,Dawoodbhoy,fa5e3e0c-7aa5-47d2-bfe6-7e7dce6ea610,PHYS,3.57,31
 Michael Parolini,Michael,Parolini,fa643fe9-d35e-4ec9-b154-2a0bb20a7a9f,ARCE,3.25,2
 Lynn Metcalf,Lynn,Metcalf,fa68cdaa-c023-4ccb-a636-4adadc01c21f,BUS,2.36,32
 Bella Padavana,Bella,Padavana,fa6f1feb-355b-4d32-903c-5d229b3142a5,MATH,3.28,17
