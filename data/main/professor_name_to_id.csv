@@ -90,7 +90,7 @@ Malcolm Keif,Malcolm,Keif,08373b3b-7bbf-4246-b071-29b8a0b94305,GRC,2.9,18
 Michael Miller,Michael,Miller,08573d1b-e82d-4561-b5a2-520948285607,ART,2.79,33
 Michael Cornaire,Michael,Cornaire,08669d0c-55f5-4ce8-8dd7-97a48ace4067,CHEM,0.71,6
 Nick Kominitsky,Nick,Kominitsky,08cb78a7-2d35-4fd2-a30b-7a329623308b,ENGL,2.5,3
-Crystal Mercado,Crystal,Mercado,08e77cdf-18f1-4929-874d-87f4aab562d9,LS,4,2
+Crystal Mercado,Crystal,Mercado,08e77cdf-18f1-4929-874d-87f4aab562d9,LS,4,3
 Quemars Ahmed,Quemars,Ahmed,08ef301c-b849-473c-ba39-9d938030e5d2,POLS,4,5
 Zachary Scott,Zachary,Scott,08ef9e31-c359-44c4-8e47-3d5af6518ed1,ART,4,3
 Frances Mayer,Frances,Mayer,090de4b1-0d40-46de-bda9-3520b2e9ee4f,EDUC,3,5
@@ -862,7 +862,7 @@ Mira Rosenthal,Mira,Rosenthal,58be5600-2ea1-4a61-974d-1c5d156bdf47,ENGL,4,1
 Marshall Ford,Marshall,Ford,58d70b62-cfbc-4873-b3d8-d3a7df0ec2ce,ARCH,4,2
 Reza Eslami,Reza,Eslami,58e20dec-dd3a-4ec3-baaa-ba3efeeb94ad,CE,3.4,5
 Barbara Turner,Barbara,Turner,58e4c662-f3b8-437c-9b6b-7e8c90913104,CHEM,3.48,20
-Ryan Perry,Ryan,Perry,58ea5dbc-d90e-4bec-8c1a-65e4096fc066,PSC,4,5
+Ryan Perry,Ryan,Perry,58ea5dbc-d90e-4bec-8c1a-65e4096fc066,PSC,4,6
 John Patrick,John,Patrick,58f02ff9-49a2-4dfd-96ff-1de4ec4ff240,COMS,2.94,22
 Leanna Fogwell,Leanna,Fogwell,595b07bc-fd78-4842-8dc2-f55a616fc3d8,CHEM,4,8
 John Sharpe,John,Sharpe,596774b7-daf4-45c5-aa05-b0d5da0e7181,PHYS,3.41,66
@@ -1388,7 +1388,7 @@ Cameron Shields,Cameron,Shields,8feee440-81f1-450a-bbb3-b11923db3720,BIO,3.87,15
 Mark Stankus,Mark,Stankus,900c2457-ebc0-4e85-8f94-c7fe8bdc1252,MATH,1.78,165
 Robert Jones,Robert,Jones,9020d72b-79a0-45b4-9c42-855a79cf9a8e,CRP,1.63,15
 Marcy Mullen,Marcy,Mullen,90516772-72bd-4409-b332-b130eb421f44,BIO,2.24,11
-Alexa Loken,Alexa,Loken,906ab2bb-3cf6-4a58-9b2d-238d52d81ea6,COMS,3.91,21
+Alexa Loken,Alexa,Loken,906ab2bb-3cf6-4a58-9b2d-238d52d81ea6,COMS,3.91,22
 Michael Browne,Michael,Browne,9072349f-9bf4-41ec-abb4-282873617438,BUS,4,1
 Nazeih Botros,Nazeih,Botros,9098a0cf-9ee2-40cd-9567-2135fbc51a89,AERO,2.24,71
 Daniel Kletzing,Daniel,Kletzing,90aae5b6-5155-4f42-a091-207761945e22,LA,4,7
