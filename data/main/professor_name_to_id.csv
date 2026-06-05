@@ -34,7 +34,7 @@ Chase Gharrity,Chase,Gharrity,03515d54-d0b2-490d-949d-de1399a38ca2,BUS,4,1
 Carlos Soto,Carlos,Soto,0351fa69-28bb-44a9-8e15-98d3f296f0ec,ME,2.33,3
 Lei-da Chen,Lei-da,Chen,03614e87-82c5-4cc8-b96e-760137c06b49,BUS,3.55,10
 G.W. Bates,G.W.,Bates,03885fcb-8b6d-4ef4-a22f-93967d07515b,BRAE,2.91,22
-Mason OLeary,Mason,OLeary,03a195d6-44a4-4e94-bee6-976383c3b825,MATH,3.28,18
+Mason OLeary,Mason,OLeary,03a195d6-44a4-4e94-bee6-976383c3b825,MATH,3.16,19
 John Keller,John,Keller,03f34116-668c-4401-9ed9-d243b813edcb,PHYS,3.36,22
 Rod Schoonover,Rod,Schoonover,03fbfc37-b61c-4172-8a45-0b5a8cf359b1,CHEM,3.74,208
 Daniel Namyst,Daniel,Namyst,04338721-5118-4c24-850f-a87e72006dc0,BRAE,3.4,5
@@ -55,7 +55,7 @@ Lucy Bencharit,Lucy,Bencharit,05c6a4f1-d8c5-492b-8d65-0ad74f560584,PSY,0,1
 Noel Ellis,Noel,Ellis,05cc433b-cd90-4189-ad8a-99baadf5900f,EE,3.87,15
 Linda Vannasupa,Linda,Vannasupa,05d770d6-bd25-4703-b1d5-bed534f83c2e,MATE,2.54,14
 Jean-Francois Coget,Jean-Francois,Coget,05e0f746-f498-455f-9a08-e6e5dade0897,BUS,3.29,26
-Laura Hunkler,Laura,Hunkler,05f1ec78-a596-4c98-820a-d9ed186fb9e1,COMS,3.7,23
+Laura Hunkler,Laura,Hunkler,05f1ec78-a596-4c98-820a-d9ed186fb9e1,COMS,3.71,24
 Karen Bangs,Karen,Bangs,05f5070e-63cd-43f7-b0fd-3213c59fec71,IME,2.11,36
 Christopher Den Hartog,Christopher,Den Hartog,06073a33-d9f7-4353-98fb-3229ce966877,POLS,3.35,105
 Amy Wiley,Amy,Wiley,061e9c47-c43a-4721-b2fa-a576ecc32735,ENGL,3.01,90
@@ -132,7 +132,7 @@ Derek Gragson,Derek,Gragson,0c8fe2c4-73fa-4355-8a65-0c5af20b0207,CHEM,2.67,101
 Alberto Jimenez,Alberto,Jimenez,0c9674c5-825d-43ec-a54d-ca1d905523ee,MATH,2.44,110
 Ralph Merah,Ralph,Merah,0ca43d56-3ae2-498c-ac11-6167d9ffaf73,MATH,2.67,5
 Laurian Chirica,Laurian,Chirica,0cb36620-9830-4300-80d5-50e2db855bfe,CSC,3,26
-Alessandro Hill,Alessandro,Hill,0cd9fc81-f2c3-4435-93ae-6773db1310d4,IME,4,1
+Alessandro Hill,Alessandro,Hill,0cd9fc81-f2c3-4435-93ae-6773db1310d4,IME,2.5,2
 Glen Starkey,Glen,Starkey,0d0f9438-6115-407d-88ec-b1f0302dd49d,ENGL,2.85,118
 Vanessa Newsome-Slade,Vanessa,Newsome-Slade,0d17a5d0-b9fb-4fb3-96da-32f76cdb305f,MATH,1,4
 Nikki Adams,Nikki,Adams,0d3d29e7-c078-4eb8-b5e6-eb0813acd753,BIO,2.9,29
@@ -201,7 +201,7 @@ Mohammad Ghamari,Mohammad,Ghamari,12d7e661-c9d0-4c43-9681-b8c23cae20fb,EE,1.89,9
 William Horton,William,Horton,13562eb8-4c24-490e-9783-bb47d17a3213,EE,0.56,7
 Weston Mccool,Weston,Mccool,1357f9b4-59f1-493f-a8be-f34289a9aef3,ANT,3,5
 Dev Sisodia,Dev,Sisodia,138f93c1-0d91-486f-a7ef-c736eebd6204,CSC,3.86,27
-Verena Alexander,Verena,Alexander,13b2240c-b811-4db6-8bdc-a76c77421c59,FSN,3,1
+Verena Alexander,Verena,Alexander,13b2240c-b811-4db6-8bdc-a76c77421c59,FSN,3,2
 Jacques Belanger,Jacques,Belanger,13d63b30-4c27-4cc5-a201-f0f2c9e0fd70,ME,3.5,2
 Barry VanderKelen,Barry,VanderKelen,1422ccd2-3e5f-4480-b292-f2b0c4e649d2,BUS,2.39,18
 Norman Lai,Norman,Lai,1428b52d-4648-4065-9eb4-c70942f3e598,WGS,1,1
@@ -227,14 +227,14 @@ Paris Kalathas,Paris,Kalathas,1547bea3-a6d4-424b-9068-abf91529f64a,CSC,2.83,6
 Samuel Tiscareno,Samuel,Tiscareno,15489148-f387-4527-a289-99330477453e,MATH,1.15,21
 Payam Nayeri,Payam,Nayeri,1560360c-4c66-48a6-83e0-6bec9b350288,EE,3.75,4
 Charmaine Martinez,Charmaine,Martinez,1591b1c2-9ff3-4bf9-82c6-30fa4e7b4289,ART,1.95,12
-Marco Polo Juarez Cruz,Marco Polo,Juarez Cruz,15aa6152-e495-4ed3-857f-cf524c9dc9e3,ART,3.5,2
+Marco Polo Juarez Cruz,Marco Polo,Juarez Cruz,15aa6152-e495-4ed3-857f-cf524c9dc9e3,ART,3.67,3
 Barbara Frantz,Barbara,Frantz,15b1a27a-490b-4606-a1c3-92313c39c873,GER,3,22
 Lori Temko,Lori,Temko,15ea8982-a40e-404e-8cec-57e592e33e35,COMS,3.33,6
 David Braun,David,Braun,161914e9-31b0-4df6-bfc4-79b50ef56b32,EE,2.09,87
 Eric Anderson,Eric,Anderson,16247be2-b937-42c2-8857-b905c2ed0324,BIO,2.5,2
 Christiane Schroeter,Christiane,Schroeter,16784ab6-136f-449a-b1ad-d2a8554cc69b,AGB,1.39,60
 Nick Bockelman,Nick,Bockelman,167efafd-c4e5-4f9c-a4c3-27559065d451,ART,2.29,7
-Harish Moni Prakash,Harish,Moni Prakash,1685863d-a88c-49f8-94d6-c1153cac7072,PHYS,3.89,9
+Harish Moni Prakash,Harish,Moni Prakash,1685863d-a88c-49f8-94d6-c1153cac7072,PHYS,3.9,10
 Linda Lee,Linda,Lee,168973b1-c4a1-4d0f-8538-6b449a2718f9,PSY,3.72,37
 Susan Elrod,Susan,Elrod,169ebb4c-9de4-42ed-8d57-fdace8739ebd,BIO,2.58,11
 Chris Murphy,Chris,Murphy,16bcfcb5-854c-49b3-beda-cadad9d5779b,CE,3.11,26
@@ -253,7 +253,7 @@ Morgan Sherman,Morgan,Sherman,17c66353-0157-4dc3-90b8-b3d7415f646f,MATH,3.31,73
 Jaime Colome,Jaime,Colome,17e44356-8fb1-4780-89e2-be61765bfd67,BIO,1.15,26
 Jad Josey,Jad,Josey,17f69012-4857-48a7-a105-f4712dab29af,ENGL,3,2
 Robert McNeil,Robert,McNeil,1806db7d-8a82-45bf-b664-c09f59a75306,CE,1.88,6
-David Zigler,David,Zigler,1830667a-6dcf-4786-bab3-cc82629be48c,CHEM,1.36,44
+David Zigler,David,Zigler,1830667a-6dcf-4786-bab3-cc82629be48c,CHEM,1.3,46
 Keith Woodcock,Keith,Woodcock,18376dcd-a436-4dee-b836-62fd9fb312da,CRP,3.5,2
 Nicholas Waldron,Nicholas,Waldron,1846e94f-a6ba-4d76-8295-c0d260884da0,MU,4,6
 Emma Kuchera,Emma,Kuchera,1851bb62-32d6-455f-bfb6-29488ccd7753,JOUR,3,1
@@ -268,7 +268,7 @@ Patrick Wallen,Patrick,Wallen,18eea604-ace6-4f47-a2f8-f978e3375628,EE,0.38,12
 Richard Cobb,Richard,Cobb,18f1f30b-5e12-4f4e-8966-482f86727d52,NR,3.5,2
 Alfredo Sanchez,Alfredo,Sanchez,1923281e-fa12-4376-83ea-976776b2b27e,PHYS,0.54,15
 Joanna Laird,Joanna,Laird,19653bbf-c0d6-4566-a705-bcb4f918fe03,CHEM,2.83,6
-Christine Kurtz,Christine,Kurtz,196555a6-3123-4196-a5dd-f9b0cd077027,MATE,4,11
+Christine Kurtz,Christine,Kurtz,196555a6-3123-4196-a5dd-f9b0cd077027,MATE,4,12
 Clark Turner,Clark,Turner,196c694c-01cd-4de6-b8eb-ef14e3b0aa54,CSC,2.97,61
 Umut Toker,Umut,Toker,199d3d56-da74-4c36-b73a-2356a15f8928,CRP,3.7,12
 Carmen Trudell,Carmen,Trudell,19a35b42-8fd3-489c-afa2-bafbf0ec7fe7,ARCH,2.93,14
@@ -313,7 +313,7 @@ Michael Jones,Michael,Jones,1d8b12f6-2dbc-4123-ac71-ff8b13c23f1d,BIO,4,11
 Benjamin Shlaer,Benjamin,Shlaer,1dab4b1a-71d5-404f-82bc-e96df0519a4b,PHYS,2.09,11
 Marni Goldenberg,Marni,Goldenberg,1dc9c04b-d8c1-499d-8213-afb49e89f56e,NR,1.69,27
 Russel Westphal,Russel,Westphal,1de2b19e-427c-4e00-9fed-76ff0eb20b9e,ME,3.93,22
-Sara Daubert,Sara,Daubert,1e067e7f-5926-4120-9863-932f7f1ad870,BUS,1.62,8
+Sara Daubert,Sara,Daubert,1e067e7f-5926-4120-9863-932f7f1ad870,BUS,1.55,9
 Daniel Scheitrum,Daniel,Scheitrum,1e1cecbc-0feb-4bce-a6ad-2ab182787b66,AGB,4,4
 Richard Troy Hart,Richard Troy,Hart,1e1f1b79-7bb4-4b5c-9865-76ae1ab38ea0,CM,3.2,3
 Nicole Hagobian,Nicole,Hagobian,1e29c4e5-8818-43dd-a5d1-0e69ad25cd29,KINE,2.5,21
@@ -322,7 +322,7 @@ Robert Campbell,Robert,Campbell,1e9c9ab3-ebf0-4ce9-b262-430560c628d8,EE,2,1
 Patricia McQuaid,Patricia,McQuaid,1f02bcc2-e2e1-4d11-985d-2d15ca5e199c,BUS,1.67,102
 Stina Attebery,Stina,Attebery,1f3a1b46-fda2-4b26-a459-765781d7a701,ISLA,3.36,11
 Sharon Dobson,Sharon,Dobson,1f47e0ea-6a14-4f84-9aeb-898630ad566d,BUS,3.13,183
-Lubaba Alim,Lubaba,Alim,1f54990a-8c8f-4f6b-973a-0197e5eab9e9,STAT,3.04,24
+Lubaba Alim,Lubaba,Alim,1f54990a-8c8f-4f6b-973a-0197e5eab9e9,STAT,3,25
 Ian Johnson,Ian,Johnson,1f5fcf9c-26dd-4df7-851c-676208cf59f3,AERO,2.29,6
 Kevin Dong,Kevin,Dong,1f6fb852-b4d4-4d33-961b-7afa3cdb1256,ARCE,3,9
 Abe Lynn,Abe,Lynn,1f9f0c5d-4fcb-4112-8a98-da2ed562b629,ARCE,3.65,17
@@ -366,7 +366,7 @@ Kara Jew,Kara,Jew,24aa71f9-24ef-4e3d-b2fd-134a56ba797b,BIO,4,8
 John Perrine,John,Perrine,24bea13c-356a-4399-9f7f-0a7bddb4f797,BIO,3.27,14
 Nina Schleicher,Nina,Schleicher,24c20ef3-b133-48e7-97ba-628c9ecf6842,STAT,4,2
 Soinbhe Nic Dhonncha,Soinbhe,Nic Dhonncha,24f60825-60ad-4d81-9848-a0f8afb34f5c,MATH,0.69,70
-Christian Eckhardt,Christian,Eckhardt,24f82516-14fe-4893-955e-7963d5292f14,CSC,3.75,8
+Christian Eckhardt,Christian,Eckhardt,24f82516-14fe-4893-955e-7963d5292f14,CSC,3.78,9
 Aurora Matzke,Aurora,Matzke,25012776-78bf-44ab-b9d7-877443eeccdd,ENGL,3.33,2
 Robert Wallace,Robert,Wallace,25081287-f1a5-4de9-a5b1-e4bb737f4107,PHIL,4,2
 Michael Black,Michael,Black,251d57e5-7838-4752-88a6-12d4300e6a68,BIO,3.32,75
@@ -395,7 +395,7 @@ James Zetzsche,James,Zetzsche,2794c88f-efb2-4091-a104-ea8bde1d46b8,BRAE,3.27,11
 Lisa Kawamura,Lisa,Kawamura,27cad8e3-4c88-4e9a-a9e2-fa74681a2360,COMS,1.72,339
 Rosie Ojeda,Rosie,Ojeda,27d322f9-4f97-4300-8f73-1204d497bcd5,LS,4,1
 Elizabeth Jeffery,Elizabeth,Jeffery,27e56290-278a-40fa-a4a5-b5dd8b1eca7c,PHYS,4,9
-Emily Hickman,Emily,Hickman,27f53828-8c54-45bd-a75c-312a894061fe,AEPS,2.39,13
+Emily Hickman,Emily,Hickman,27f53828-8c54-45bd-a75c-312a894061fe,AEPS,2.51,14
 Scott Ferree,Scott,Ferree,27f7ec39-5049-4b6d-8fc8-b88dab313c9d,ENGL,2.88,8
 John Battenburg,John,Battenburg,281974f4-21f4-4098-aa21-cd9497bb29dc,ENGL,3.47,17
 Claire Moreno,Claire,Moreno,2825e6b2-6d93-4e1f-890d-bc3d7b4aca14,ASCI,4,3
@@ -435,9 +435,9 @@ Blair London,Blair,London,2c0920ba-6188-41b8-83a8-41e2c513494f,MATE,0.99,102
 Ryan Jenkins,Ryan,Jenkins,2c4dc1e6-effa-436f-940a-0ab50532fc32,PHIL,3.78,37
 Camillia Lanham,Camillia,Lanham,2c73dd80-b75f-4706-a262-6abce1cf421c,JOUR,3.5,6
 Neal MacDougall,Neal,MacDougall,2c770f03-2d67-459b-bbe5-fb0506e60d45,AGB,1.18,95
-Amelie Schinck,Amelie,Schinck,2c8e4241-4f53-4556-8eb9-f6d74455e4aa,MATH,2.94,15
+Amelie Schinck,Amelie,Schinck,2c8e4241-4f53-4556-8eb9-f6d74455e4aa,MATH,3.01,16
 Carol Littlefield-Halfman,Carol,Littlefield-Halfman,2ca012c8-b3f8-4856-847b-906141fc2b0c,LS,2.85,10
-Lindy Winter,Lindy,Winter,2cdbee98-7955-4b9e-856e-8eff59f37de0,ARCH,4,1
+Lindy Winter,Lindy,Winter,2cdbee98-7955-4b9e-856e-8eff59f37de0,ARCH,4,2
 Stephen Kwok-Choon,Stephen,Kwok-Choon,2ce31b5d-c4ff-45cb-bc2e-b56063a4d05d,ME,4,2
 Nicholas Sakellariou,Nicholas,Sakellariou,2ce8c1b8-2a6b-4990-887c-96091141be93,CSC,4,12
 Megan Hanson,Megan,Hanson,2cfcffdc-a856-487b-9130-fc3698345685,ARCE,4,1
@@ -466,22 +466,22 @@ Morgan Wonderly,Morgan,Wonderly,2ed2cdbe-89e0-476c-909d-d724d667685d,ASCI,4,4
 Victoria Adelman,Victoria,Adelman,2eddfb21-a7a4-4e84-bd90-78ad821e9b8a,KINE,3.2,5
 Damien Barnes,Damien,Barnes,2ee47326-1f5b-40f1-895e-a061b7f5a57a,PHIL,3.85,31
 Stephen Stern,Stephen,Stern,2ee69dc7-506a-47a8-b822-a56acdd6ae46,BUS,3.61,46
-Lauren Beck,Lauren,Beck,2eed0992-a5ac-4478-bcc3-7df2a4ac06ef,ISLA,3.61,13
+Lauren Beck,Lauren,Beck,2eed0992-a5ac-4478-bcc3-7df2a4ac06ef,ISLA,3.64,14
 Anton Kaul,Anton,Kaul,2efa98a4-d3da-420e-bc70-fc907156435f,MATH,3.58,166
 Samy Elangovan,Samy,Elangovan,2f08a398-4ed3-4eb1-862b-b93a246fd003,CHEM,0.5,6
 James Vilkitis,James,Vilkitis,2f1f8ab9-bfa4-44e9-8405-53d20f7e310f,NR,1,34
-Stephen Hamilton,Stephen,Hamilton,2f359626-536f-4322-81f0-293d61429a57,ECON,3.39,47
+Stephen Hamilton,Stephen,Hamilton,2f359626-536f-4322-81f0-293d61429a57,ECON,3.38,48
 Neal King,Neal,King,2f64b22e-2a22-4908-9bfe-d528077127e4,BUS,1.49,10
 Clint Staley,Clint,Staley,2f832159-0417-459d-8592-8bf20c99a0cb,CSC,2.31,209
 Richard Emberley,Richard,Emberley,2f91c685-dd65-4057-967b-f172fda20d01,ME,3.5,2
-Morgan White,Morgan,White,2fa02879-9ec0-4c35-a6dc-1e755cc1091a,ENGL,3.55,11
+Morgan White,Morgan,White,2fa02879-9ec0-4c35-a6dc-1e755cc1091a,ENGL,3.5,12
 Leslie Labhard,Leslie,Labhard,2fc4a599-8b33-4f80-bced-a7169635b458,ITP,3,3
 Patrick Howe,Patrick,Howe,2fcd13c7-b41e-4668-b0b2-2875159da73f,JOUR,2.15,11
 Anan Sheth,Anan,Sheth,2fd2e95d-265a-4f58-ace9-d09125f2d723,BUS,4,4
 Paul Hiltpold,Paul,Hiltpold,2ffb8075-976b-4331-8ea5-ce410735b49a,HIST,2.94,103
 Amanda Emberly,Amanda,Emberly,2ffcd9a9-9c66-470a-99cb-79678559847e,ME,2.64,11
 Joe Whitt,Joe,Whitt,301050f4-eea1-44cf-b7a2-b24626c91cad,COMS,4,6
-Colum Yip,Colum,Yip,301ef50a-d3ae-495d-90e4-8990ab1461c6,ENGL,3.5,6
+Colum Yip,Colum,Yip,301ef50a-d3ae-495d-90e4-8990ab1461c6,ENGL,3.57,7
 Mary Forte,Mary,Forte,3022383d-8545-4529-9320-c24a8fee2fad,ENGL,3.09,62
 Thomas Mackin,Thomas,Mackin,3036da17-d0a3-476d-9f31-cd268ed0e2df,ME,3.16,31
 Mark Lewis,Mark,Lewis,30527664-6bb5-4322-a36d-f743c3406aa2,COMS,2.5,3
@@ -503,7 +503,7 @@ Amber Lake,Amber,Lake,314f67ae-c712-4af4-ab43-0542679ea617,LA,3.67,6
 Keith Wiley,Keith,Wiley,316c4eac-bf24-409e-ae93-7e2bbc01a0a2,ARCH,3.56,32
 Bart Victor,Bart,Victor,31933a4e-c694-47f4-b957-484eccf248d6,BUS,4,1
 Chokri Sendi,Chokri,Sendi,319b2330-1591-44b7-892f-141c562384ec,AERO,2.27,11
-Dallas Taylor Donnell,Dallas Taylor,Donnell,31a7bcad-9d07-4f6d-94db-4cb15faa22e5,ES,3.76,34
+Dallas Taylor Donnell,Dallas Taylor,Donnell,31a7bcad-9d07-4f6d-94db-4cb15faa22e5,ES,3.77,35
 Julie Spencer Rodgers,Julie Spencer,Rodgers,31b36c17-43d1-4421-8d14-1fc432424f7d,PSY,3.5,4
 John McKinstry,John,McKinstry,31c57dd4-0bb3-4487-9add-e6e76f89d4ce,SOC,2.84,61
 Serim Denel,Serim,Denel,31cd2f5e-2927-4481-b09b-6588f5358a0a,ARCH,2.17,11
@@ -512,7 +512,7 @@ Mike Marlow,Mike,Marlow,31fa4ff6-d393-412f-8663-2c1f138a099a,ECON,2.73,124
 Peter Brown,Peter,Brown,32143f19-71e5-4473-ba1c-713fed49f38c,CRP,1.17,5
 Connor Kingsbury,Connor,Kingsbury,321b942c-905c-4c13-888a-7ea7f9bcb810,ME,4,9
 Hyeonik Song,Hyeonik,Song,3264539b-38c2-485f-b98d-3ea6f1fbd510,ME,3.75,4
-Craig Mark Law-Smith,Craig Mark,Law-Smith,327fc824-5f64-4e27-8f6f-147cd1045539,BUS,3.88,27
+Craig Mark Law-Smith,Craig Mark,Law-Smith,327fc824-5f64-4e27-8f6f-147cd1045539,BUS,3.86,29
 James Sena,James,Sena,32a1f4d6-48d5-4269-8b29-ca85338c1918,BUS,1.65,53
 Michael Blum,Michael,Blum,32ae918f-8b5e-4fed-ade0-861ac39bae02,GRC,2.75,5
 Leah Ransom,Leah,Ransom,32bf6d27-7e57-4bce-830d-b3381547f3e8,COMS,3.81,10
@@ -531,10 +531,10 @@ Patricia Engle,Patricia,Engle,34b22770-1fc8-48cf-922a-fb61ec6acf88,WGS,1,6
 Stern Neill,Stern,Neill,34b4116c-3b60-4c23-823a-33250d98cbe2,BUS,3.14,32
 Benjamin Hawkins,Benjamin,Hawkins,34c1c480-7590-4b17-ac8b-4f574092d813,EE,2.75,4
 Kathleen Hogue,Kathleen,Hogue,34c2c46f-132f-42cf-8375-7c9ec9c401de,MATH,3,2
-Michele Roest,Michele,Roest,3510e39e-ea82-44fc-8e33-a77b358fcbcb,BIO,3.38,24
+Michele Roest,Michele,Roest,3510e39e-ea82-44fc-8e33-a77b358fcbcb,BIO,3.36,25
 Sarah Harding,Sarah,Harding,35331f22-b167-4fd5-a391-9cd76c7ae566,ME,2.78,28
 Dylan Johnson,Dylan,Johnson,354120df-35fb-4825-8e9d-ea3b9e92bbfe,MU,4,1
-Diana Olave,Diana,Olave,35432006-b139-4b88-a35f-4c2953f553ad,ARCH,4,3
+Diana Olave,Diana,Olave,35432006-b139-4b88-a35f-4c2953f553ad,ARCH,4,4
 Joseph Callenes-Sloan,Joseph,Callenes-Sloan,35492fe1-2167-44a7-9717-1226bbac1710,CPE,3,3
 Eric Pulse,Eric,Pulse,356a4453-3567-4d2e-98f3-42f9d743c65a,IME,3.71,12
 Kendra Williams,Kendra,Williams,358dfdd2-9925-4f26-99f0-be3d8addc838,PSY,3.68,22
@@ -574,7 +574,7 @@ Peter Schuster,Peter,Schuster,39025e78-0f8a-480f-b74a-5d41c81848b4,ME,2.88,33
 Harry Busselen Jr.,Harry,Busselen Jr.,395ff327-9b3e-481a-b08e-0ca418d4e29b,PSY,1.65,26
 Benjamin Davidson,Benjamin,Davidson,39770a93-8c12-42fd-a8a9-96e028b0ea4c,BIO,0.33,2
 Katya Cengel,Katya,Cengel,39bb17d2-5b0a-44cc-9807-1504cf2d2237,JOUR,3.09,18
-Jafra Thomas,Jafra,Thomas,3a022846-d480-43a2-bd7f-da9f165b2f5b,KINE,3,2
+Jafra Thomas,Jafra,Thomas,3a022846-d480-43a2-bd7f-da9f165b2f5b,KINE,2.33,3
 Thomas Patchell,Thomas,Patchell,3a20fb78-33b9-4d40-be1f-da26dda3f680,ENGL,2.25,3
 Bradford Applin,Bradford,Applin,3a2fa76f-bc5f-4757-bc29-26cfefa3aa73,IME,4,2
 Ryan Hatch,Ryan,Hatch,3a576515-fde9-4927-b86a-65d59ac29c9a,ENGL,3.31,18
@@ -603,7 +603,7 @@ Ken Macro,Ken,Macro,3d44eb96-cc48-432a-886a-d762fb330024,GRC,3.85,31
 Kim Shollenberger,Kim,Shollenberger,3d5dda5f-6455-4bdd-81ed-4d80768a5a04,ME,2.75,39
 Heather Keefer,Heather,Keefer,3d867522-0ea0-45db-aa7b-b48989ded1fd,FSN,4,1
 Ryan Meza,Ryan,Meza,3d989c52-cb92-4b81-9ec6-838beb46fc23,ENGL,3.8,5
-Sean Echols,Sean,Echols,3dad6655-92e6-403d-91fc-af63ca736da6,PHYS,2.15,83
+Sean Echols,Sean,Echols,3dad6655-92e6-403d-91fc-af63ca736da6,PHYS,2.12,84
 Marion Hart,Marion,Hart,3db68996-5636-4327-b44b-6ee009b7f6d4,SPAN,3.45,17
 Christopher Lupo,Christopher,Lupo,3dbd8802-dfd5-4b1b-bd90-69577a1475ce,CPE,3.64,18
 John Saghri,John,Saghri,3dddff3b-08b6-4409-90ea-a5b177d56f69,EE,1.81,65
@@ -611,14 +611,14 @@ Howard Weisenthal,Howard,Weisenthal,3df57926-abfb-406e-a08d-47a1fccf6bfc,ARCH,2.
 John Oliver,John,Oliver,3e33eecb-c14f-43b5-a111-17a0f06d2e4a,CPE,4,3
 Chance Hoellwarth,Chance,Hoellwarth,3e42a5b7-82d7-443f-96c0-0c63e79cc1f5,PHYS,1.59,47
 Tim Farrell,Tim,Farrell,3e4c67e4-619f-46eb-a815-28d9f26557ec,ENGL,3.82,16
-Nahmoon Kim,Nahmoon,Kim,3e4d5941-359e-43cc-bc6d-c82a579e7726,MATE,4,11
+Nahmoon Kim,Nahmoon,Kim,3e4d5941-359e-43cc-bc6d-c82a579e7726,MATE,4,13
 MD Salam,MD,Salam,3e73b179-df27-4a4b-bb5d-ceedbd726923,EE,3,2
 Marivel Lozano,Marivel,Lozano,3eb5db9a-6d17-480e-91d7-65b4cf86dac9,SPAN,1,4
 Michael Pence,Michael,Pence,3ebd24bf-c2ce-4a73-9fb1-ce416e72facd,AEPS,4,1
 Daniel Seiver,Daniel,Seiver,3ecc893e-02ef-468b-b460-ac4fa2158b4e,ECON,2.21,90
 Unny Menon,Unny,Menon,3f0eccd6-fb4a-4d3b-9de1-c12a4b6bef24,IME,3.67,8
 William Little,William,Little,3f16f7b6-b9c5-47a9-844b-9101212b2ca3,SPAN,2.93,9
-Solina Lindahl,Solina,Lindahl,3f623886-df5f-4a2e-a7d3-c8b1b618fe4e,ECON,2.44,300
+Solina Lindahl,Solina,Lindahl,3f623886-df5f-4a2e-a7d3-c8b1b618fe4e,ECON,2.44,301
 Misgana Muleta,Misgana,Muleta,3fa9db1c-b73f-44cc-a724-7aa1d3ef4de1,CE,3.32,11
 Leslie Sklena,Leslie,Sklena,3fb23bac-74ca-482c-aea6-8a583606bb5a,ASCI,4,1
 Nianpin Cheng,Nianpin,Cheng,3fd1bfa2-524d-4ff4-a6e9-668ef1c2657b,ITP,2.45,26
@@ -628,7 +628,7 @@ David Mitchell,David,Mitchell,40468874-b2bd-472b-ba4f-987bba0813ea,PHYS,3.53,70
 Stephen Phillips,Stephen,Phillips,404ba100-a340-4dc1-833e-cad3777ca181,ARCH,3.24,33
 Chris Perello,Chris,Perello,404f625a-385c-499a-9bde-f4011411dca5,BUS,3.57,132
 Michael Silvestri,Michael,Silvestri,405a8f49-3108-48b3-b6b2-425e4de5324a,CHEM,3.06,38
-Daniel Franchi,Daniel,Franchi,409d97cc-6685-4792-937f-7836403f9b4c,IME,3.58,14
+Daniel Franchi,Daniel,Franchi,409d97cc-6685-4792-937f-7836403f9b4c,IME,3.61,15
 Bingyi (Nicole) Wu,Bingyi (Nicole),Wu,40b15aec-13fe-4831-82c1-6c68e13b3341,BUS,4,13
 Carlos Gomez,Carlos,Gomez,40e5be88-46bf-4ca6-8a60-3d4f1a4b4f2a,ES,4,2
 Lauren Manck,Lauren,Manck,40e7dc21-9217-4746-95cd-1c588ca3f3a6,CHEM,4,4
@@ -648,7 +648,7 @@ David Marshall,David,Marshall,41c3a5ba-b96b-40a6-ad55-69a9d7e39a27,AERO,2.06,17
 Sema Alptekin,Sema,Alptekin,41cf5aef-34b0-4a9b-82a8-6230f1d461a2,IME,1.88,8
 Tom DiSanto,Tom,DiSanto,41d846e9-0a1c-4629-914e-5e85c1b0dd75,ARCH,3.1,17
 Laura Backus,Laura,Backus,41dafa23-0af0-4540-807d-66e7f34e18cd,ASCI,4,12
-Afshin Montakhab,Afshin,Montakhab,41dd766d-fa70-42b6-946e-28fdca35ae9a,PHYS,2.37,61
+Afshin Montakhab,Afshin,Montakhab,41dd766d-fa70-42b6-946e-28fdca35ae9a,PHYS,2.49,67
 Themistoklis Mastoridis,Themistoklis,Mastoridis,41ea6378-4ef5-4b5b-b102-6cf410ab933b,PHYS,3.5,23
 Michael Multari,Michael,Multari,42193aec-91ea-462d-8ca0-f5fd25a0d81c,CRP,3.43,6
 Coleen M. Carrigan,Coleen M.,Carrigan,421f213c-ef45-44c9-a5a6-25392d4faac3,SOC,2.83,22
@@ -689,22 +689,22 @@ Lauren Chan,Lauren,Chan,45a82d2a-55d8-499b-9f2e-e5cb833be1ff,BIO,4,8
 Leanne Berning,Leanne,Berning,45baa272-390d-4f77-a142-fa2273ea869c,DSCI,3.89,43
 Tim Clark,Tim,Clark,45bdd2f9-a890-4629-b30f-3f02cdac0f8c,ITP,3.5,4
 Philip Valle,Philip,Valle,461245c0-275a-4da4-b409-8ba3ccd2b652,TH,2.8,103
-Virginia Callow-Adams,Virginia,Callow-Adams,463c26e0-711f-40d4-840e-abc08cbd9b29,IME,1.84,52
+Virginia Callow-Adams,Virginia,Callow-Adams,463c26e0-711f-40d4-840e-abc08cbd9b29,IME,1.86,53
 Martin Mehl,Martin,Mehl,4657585a-880a-430a-95b7-91b367520bc7,COMS,2.49,299
 Holly Newman,Holly,Newman,466b9ca1-f891-4ba2-af1a-cdf8c8e3532c,BUS,2.06,17
 Christina Abel,Christina,Abel,46b6e6af-7744-4b95-823b-e44cef5e8c9f,CHEM,3.22,28
 Nathan Keim,Nathan,Keim,46ba1deb-e8de-4d3c-8629-29aafb562db6,PHYS,2.05,18
 Gary Laver,Gary,Laver,46bb0366-5299-4e25-a8dd-338e3e75d8ce,PSY,2.77,54
 Craig Arceneaux,Craig,Arceneaux,47161e99-0ea5-4373-bbfa-5501cc4e70bb,POLS,3.11,59
-John Planck,John,Planck,4730925a-34d3-47b9-b66c-4efbb6f070c6,CPE,2.66,70
+John Planck,John,Planck,4730925a-34d3-47b9-b66c-4efbb6f070c6,CPE,2.68,71
 Matt White,Matt,White,47876259-968b-4e66-bd7f-5a91d9c20160,MATH,3.39,107
-Robert Easton,Robert,Easton,47945cd0-54af-44b0-bf4c-10bdd53b084f,MATH,3.81,84
+Robert Easton,Robert,Easton,47945cd0-54af-44b0-bf4c-10bdd53b084f,MATH,3.81,85
 William Amspacher,William,Amspacher,47a02aba-0492-4f2f-9bb7-07dde9074df8,AGB,2.42,22
 James Burleson,James,Burleson,47dbf43d-97ca-4d62-baf8-3696b3a9f4ab,BUS,3.15,28
 Daniel Kirk,Daniel,Kirk,480d5a00-8603-4ac6-a7cc-17be945f6bf7,ENGL,2.85,43
 Lara Nichols-Brown,Lara,Nichols-Brown,48223d07-b04f-485f-a6b1-7672426f2bf0,CSC,3,1
 Lawrence Domingo,Lawrence,Domingo,48542b5f-7740-446f-911d-29340f5bc2c6,ME,4,4
-Joshua Losoya,Joshua,Losoya,48607cff-a451-41ad-9243-1e76f5fc2437,COMS,3.92,29
+Joshua Losoya,Joshua,Losoya,48607cff-a451-41ad-9243-1e76f5fc2437,COMS,3.92,30
 Nicole Jacobs,Nicole,Jacobs,48694161-a64d-4a31-896c-3303b140603f,ENGL,2.82,22
 Alison Mackey,Alison,Mackey,4880b3fa-07a7-4989-8fb1-5ffa1d6d5e77,BUS,2.53,8
 Garrett Hall,Garrett,Hall,489f0f64-83d4-4c91-8cc6-59b1de5afdd6,CE,3.15,65
@@ -721,7 +721,7 @@ Anton Clarkson,Anton,Clarkson,49a79d06-17f6-44e9-91eb-089215dbafa4,EE,3.25,7
 Charlotte Decock,Charlotte,Decock,49cf2976-6864-4ea5-a93e-8d175955e16e,SS,1.67,3
 Maura Krause,Maura,Krause,4a0cbbe7-507f-4d15-a9ab-a635d4f20cb8,ENGL,3.52,17
 Casey McDonald-Liu,Casey,McDonald-Liu,4a107478-956f-4dcc-b8b3-d1ada1bb9d30,JOUR,4,4
-Jim Kaney,Jim,Kaney,4a1d52e6-a255-469e-990a-1fcbb9ecf62f,BUS,3.03,82
+Jim Kaney,Jim,Kaney,4a1d52e6-a255-469e-990a-1fcbb9ecf62f,BUS,3.02,83
 Rebekah Maples,Rebekah,Maples,4a333a8f-2d00-45d8-9b26-75c04a9cded6,ENGL,3.79,33
 Edward Himelblau,Edward,Himelblau,4a469193-899a-45b5-abcf-a3de59c8045d,BIO,3.58,71
 Cameron Jones,Cameron,Jones,4a658f84-62b7-43ec-bd5a-ee08e4900532,HIST,3.7,62
@@ -734,7 +734,7 @@ Ruth Biering,Ruth,Biering,4b5b1234-6d48-4bee-b7c5-55da277e195d,BUS,1.67,4
 Alicia Doyle,Alicia,Doyle,4b8391cb-7ece-4dc4-87d0-683bb7a27e58,MU,3,5
 George Famalett,George,Famalett,4b942243-0a71-4e9b-8e61-00c33c322a60,GSA,2,1
 Gary Brester,Gary,Brester,4bc393dd-7340-435b-a7e2-f4042d8bcf49,AGB,4,1
-Uma Balaji,Uma,Balaji,4bd2d791-0ba9-4c1e-a80c-aec893262725,EE,3.86,14
+Uma Balaji,Uma,Balaji,4bd2d791-0ba9-4c1e-a80c-aec893262725,EE,3.87,15
 Emad Hasani,Emad,Hasani,4bdc2b00-530e-4e62-9211-7e7f7b4bfc66,ME,3,22
 Michael Burlingame,Michael,Burlingame,4bfc5e4c-4277-424d-aa1c-f02b91dc492c,BRAE,1.33,4
 Nina Menon,Nina,Menon,4c08886c-7201-42c8-ad72-c1cec003e994,IME,4,1
@@ -751,7 +751,7 @@ Terran Brown,Terran,Brown,4d521b14-e686-4e12-a51c-06be18556267,STAT,1.23,11
 Richard Savage,Richard,Savage,4d685cdf-fbe9-4710-b6f0-ca62045dc30a,MATE,3.61,24
 Anika Leithner,Anika,Leithner,4d7522ad-b111-457b-9d44-dc2af5ce14b9,POLS,3.38,89
 Leslie Hamachi,Leslie,Hamachi,4d9621ef-13ab-4783-a45b-eda6f21b2a13,CHEM,3.69,19
-Blair Middlebrook,Blair,Middlebrook,4dd5eadc-a965-423c-856f-0e48df6f426d,BUS,4,9
+Blair Middlebrook,Blair,Middlebrook,4dd5eadc-a965-423c-856f-0e48df6f426d,BUS,4,10
 Ajay Kathuria,Ajay,Kathuria,4de0b45f-6c3e-4c6f-8dab-ab65dbf88f2d,ITP,2.87,16
 Amanda Frye,Amanda,Frye,4def0287-ca36-4f6d-8b50-ef6252b5e025,LS,2.8,10
 Elizabeth Will,Elizabeth,Will,4e03ec78-0505-49c9-8872-030bc8f45359,SS,2.56,31
@@ -778,7 +778,7 @@ Alexia Arani,Alexia,Arani,4faf9c65-5878-4205-8912-4988dc6a09dc,WGS,2.88,8
 Peggy Rice,Peggy,Rice,4fb781b6-7c63-41d8-a1c9-2ea300eb98b1,CHEM,3.24,57
 Kirk Sturm,Kirk,Sturm,4ff24d53-a37e-4ecf-821b-a34c1bce63d2,AGED,3.57,7
 Charles Chadwell,Charles,Chadwell,4ff4df6e-13b2-42d7-a12b-f1d62f629e96,CE,2.97,34
-Samir Amin,Samir,Amin,4ff4f00d-3625-4505-a958-68fb99c2c74f,FSN,2.73,16
+Samir Amin,Samir,Amin,4ff4f00d-3625-4505-a958-68fb99c2c74f,FSN,2.8,17
 Johanna Rubba,Johanna,Rubba,5010faa4-63e4-4642-afa6-1662d97f419c,ENGL,1.72,43
 Tim Ridout,Tim,Ridout,50431e30-0639-429d-947e-27df6fe7c4a8,BUS,3.67,71
 Logan Lossing,Logan,Lossing,508bc452-56fb-45b8-adc7-a068f36e054c,STAT,3.47,32
@@ -850,7 +850,7 @@ Fiona Robinson,Fiona,Robinson,57a9d53d-54c6-4cb2-a2fe-f3957ac1e265,BUS,3,2
 Dwayne Brummett,Dwayne,Brummett,57c560d9-3a84-4439-93d6-cee47edead84,AGB,4,5
 Erik Krivda,Erik,Krivda,57c5c99f-c8aa-4d54-a9a0-cea364a06760,MSL,3,2
 Michelle Ritter-Taylor,Michelle,Ritter-Taylor,57cbbee1-fc1d-45bf-ab25-72c50911c337,KINE,0.71,7
-Safwan Al-Subaihawi,Safwan,Al-Subaihawi,57d08e81-803f-46e1-a741-4e5c04be3a1f,CE,2.4,33
+Safwan Al-Subaihawi,Safwan,Al-Subaihawi,57d08e81-803f-46e1-a741-4e5c04be3a1f,CE,2.42,34
 Anita Rathi,Anita,Rathi,57e49b9a-5bbb-441a-91e6-04f53aa9f981,CSC,1.21,40
 Gary Hughes,Gary,Hughes,57eb0461-5310-4ec5-8b75-bd81c6786e71,STAT,2.45,42
 Kenneth Hillers,Kenneth,Hillers,57f36e45-094e-4ddd-93b0-15d0d8af6159,BIO,3,18
@@ -881,7 +881,7 @@ Vincent Yeung,Vincent,Yeung,59c5e098-2a3b-4850-83f9-34cc7a3d4af9,DSCI,4,4
 Alice Tomasini,Alice,Tomasini,59c6b9d5-660d-47f4-9c0c-713001096a60,EDUC,2,1
 Enar Tunc,Enar,Tunc,59f9a3a0-cdcf-4176-bf8f-36d682c0840b,ITP,2.2,19
 Rodney Mock,Rodney,Mock,5a06a8e3-f8b7-4c93-bf0f-a880042f64f0,GSA,2.98,51
-Nicole Daphnis,Nicole,Daphnis,5a135bb5-2042-4ccf-86d1-9eb3f3ad3b27,POLS,4,8
+Nicole Daphnis,Nicole,Daphnis,5a135bb5-2042-4ccf-86d1-9eb3f3ad3b27,POLS,4,9
 Katrina Prow,Katrina,Prow,5a1d6068-4c33-4d49-9b07-87c2593c779e,ENGL,3.92,13
 Carl Hedge,Carl,Hedge,5a35866d-f198-43ca-9397-d7a560cbaa20,PHYS,2.67,2
 Tom Mastin,Tom,Mastin,5a5e5a32-7280-422e-b21f-63628cbbc3e7,BRAE,3.34,42
@@ -911,8 +911,8 @@ Alejandra Yep-Rodriguez,Alejandra,Yep-Rodriguez,5c469df1-96ce-47cb-a099-22d35a5c
 Joseph Coates,Joseph,Coates,5cc6a6d5-fc9d-44ed-9835-9482a7d6ac0d,ART,0,2
 Andrew Maness,Andrew,Maness,5ccf6cbf-7f94-4e83-9c9f-24f8d439fe4b,ENGL,2.79,106
 Jeffery Wong,Jeffery,Wong,5d3fdb90-99d5-4ccd-80ee-85756d4b7dbc,AEPS,2,4
-Alexandre Champagne,Alexandre,Champagne,5d7072c5-a576-464a-9a61-14bcc2a68b91,LA,1,7
-Jon Kawashima,Jon,Kawashima,5d8245a2-0142-4c09-930c-78c2312c077e,COMS,4,35
+Alexandre Champagne,Alexandre,Champagne,5d7072c5-a576-464a-9a61-14bcc2a68b91,LA,1.01,11
+Jon Kawashima,Jon,Kawashima,5d8245a2-0142-4c09-930c-78c2312c077e,COMS,4,36
 Dale Clifford,Dale,Clifford,5d86baf8-1649-4e81-945d-40e95205a9d3,ARCH,1,1
 Jeff Sklar,Jeff,Sklar,5d87cc8e-e676-49ba-b462-a1b3f94c0d8f,STAT,4,1
 Janice Odell,Janice,Odell,5dcffb5f-4c3b-469a-b9f1-b2cab4974d9b,BUS,2.91,10
@@ -1035,7 +1035,7 @@ Vladimir Prodanov,Vladimir,Prodanov,693a2dcf-6faf-4065-bdc2-2a664a9482b1,EE,3.58
 Christine Shea,Christine,Shea,6954d890-80fb-4979-bc08-63a97160331a,COMS,2.94,95
 Steven Danowitz,Steven,Danowitz,698bbe14-95a4-4803-80e6-81d66237073d,BUS,1,2
 Ricky Reynoso,Ricky,Reynoso,69ba6687-604d-4724-a9c7-82102cacb702,ENGL,4,2
-Austin Christian,Austin,Christian,69cc75ee-260a-478d-a31d-67e6aab43beb,MATH,3.67,29
+Austin Christian,Austin,Christian,69cc75ee-260a-478d-a31d-67e6aab43beb,MATH,3.68,30
 Alex Flores,Alex,Flores,69cee8f9-2b35-4adf-8d6c-d384d2863732,SPAN,1.92,12
 Jeffrey Liese,Jeffrey,Liese,69dca2d3-8387-49e5-a912-b07ac1827a07,MATH,2.97,90
 David King,David,King,69f01610-4da9-440b-a7af-2cbd995d904d,PHIL,3.14,13
@@ -1046,7 +1046,7 @@ Brick Robbins,Brick,Robbins,6a422d34-d132-43d5-8b1c-ccbf1d248ae3,CM,4,2
 John Hagen,John,Hagen,6a5b72db-84a9-4537-a943-b9cf1cd10954,CHEM,2.29,73
 Muhammad Khan,Muhammad,Khan,6a5fbbf7-433c-4b68-869b-ab44131166cd,ME,1,1
 Emily Resner,Emily,Resner,6a6bce9a-1552-4c55-8051-06daa1e8a684,BIO,4,1
-Melinda Keller,Melinda,Keller,6a83003e-b8ed-4c8f-9632-20a93b5aedd2,CE,1.76,166
+Melinda Keller,Melinda,Keller,6a83003e-b8ed-4c8f-9632-20a93b5aedd2,CE,1.75,168
 Elena Levine,Elena,Levine,6a863eeb-06b0-47e8-ac7a-da76b457ac36,BIO,3.31,45
 Thomas Carpenter,Thomas,Carpenter,6a89ff46-f2c4-44c7-ba31-e053d7d63fd3,ME,0.73,9
 Matt Mewes,Matt,Mewes,6a8c5091-f5c2-4014-b1c5-ba7d53b860f4,PHYS,2.98,23
@@ -1077,9 +1077,9 @@ Steven Davis,Steven,Davis,6df0ff5e-d19f-4b6d-824d-7cdb40cdd695,KINE,3,3
 Hajera Ghori,Hajera,Ghori,6dfe91a7-e54b-4286-80ad-7a87c39b66f3,ENGL,2.67,2
 Shaimaa Ewais,Shaimaa,Ewais,6e2d970c-c94c-4cbc-8bdc-747a4eca0b25,BUS,3.2,15
 Janae Mudge,Janae,Mudge,6e425163-2adc-4994-8d3e-efd7043aef9c,FSN,4,9
-Natalie Fontana,Natalie,Fontana,6e469343-550c-444b-a763-4ce3e1d97429,NR,4,4
+Natalie Fontana,Natalie,Fontana,6e469343-550c-444b-a763-4ce3e1d97429,NR,3.4,5
 Andrew Elliott,Andrew,Elliott,6e79504a-14b9-4d22-a935-1dc5ef1f6124,CSC,1.5,1
-James C. Eason,James C.,Eason,6ede2f97-46b7-4c49-8f50-40bb7c6adf79,ENGR,3.49,22
+James C. Eason,James C.,Eason,6ede2f97-46b7-4c49-8f50-40bb7c6adf79,ENGR,3.51,23
 Austin Wright,Austin,Wright,6f08dee0-d287-4b0a-ac7b-aa842bcd8cfb,CSC,2.43,7
 Caryn Coffman,Caryn,Coffman,6f27793d-5c3d-4781-a40c-d04ffaf47ac0,FSN,1.5,1
 Jenna Kloosterman,Jenna,Kloosterman,6f493240-eda7-4da0-b321-88e35a8a96ea,EE,2.36,14
@@ -1088,7 +1088,7 @@ James Bingaman,James,Bingaman,6f5233ca-066e-4e6a-a58f-4c81a72759ce,AGC,4,6
 Jonathon Beckett,Jonathon,Beckett,6f896080-11f8-4dd5-9365-82e01c06e782,ASCI,3.21,22
 Emily Robinson,Emily,Robinson,6fb88aa6-9be8-4266-a82c-c3e945deb0df,STAT,3.11,20
 Mamadou Konate,Mamadou,Konate,6fbba008-5abb-4c62-93d6-d4e7a597685d,CE,1.97,33
-Kareesa Kron,Kareesa,Kron,6fc51431-eae4-46f1-91b5-1fb91b57911c,MATE,3.33,21
+Kareesa Kron,Kareesa,Kron,6fc51431-eae4-46f1-91b5-1fb91b57911c,MATE,3.39,23
 Beverly Bass,Beverly,Bass,6fe93b93-6cac-481a-ace7-ba8eca9ea495,LA,2.5,9
 Carl Brown,Carl,Brown,6ff81ece-e18f-4f47-920d-e63add1e9493,EDUC,3,2
 Brian Salvatore,Brian,Salvatore,70740760-727e-421b-bd31-807eb56f7116,CHEM,2.58,14
@@ -1131,9 +1131,9 @@ Christine O'Hara,Christine,O'Hara,7418bdd2-78e5-4eea-b4aa-f2b64ac2647a,LA,3.15,2
 Kate Riley,Kate,Riley,7429c539-7b64-4987-b0d6-3560431dc245,MATH,3.15,84
 Steven Ruszczycky,Steven,Ruszczycky,74446784-fc60-4b91-adf6-b9efe1656d67,ENGL,2.47,19
 Reginald Gooden,Reginald,Gooden,745f586f-502d-4f1e-a4e8-71474e03c7b7,POLS,0.97,33
-James Oksanish,James,Oksanish,74691784-dd61-4160-a11c-7f296fd108cf,STAT,3.17,27
+James Oksanish,James,Oksanish,74691784-dd61-4160-a11c-7f296fd108cf,STAT,3.23,29
 Eivis Qenani-Petrela,Eivis,Qenani-Petrela,746a1911-a32e-40a1-899b-841f24660af0,AGB,2.76,29
-Chuck Bland,Chuck,Bland,74845559-9ca7-4671-912d-7e21cbe26e47,EE,3.33,3
+Chuck Bland,Chuck,Bland,74845559-9ca7-4671-912d-7e21cbe26e47,EE,3.67,6
 Lynn Hamilton,Lynn,Hamilton,748664d2-24f4-4750-a1fe-25c59f0f4eac,AGB,2.32,102
 Brenda Baker,Brenda,Baker,749cf666-80e1-4762-8ad1-8de8cfa315d3,CHEM,3.08,63
 Donna Duerk,Donna,Duerk,74a5a2aa-0093-45cc-b711-f4a43938bd7e,ARCH,1.7,21
@@ -1153,15 +1153,15 @@ Paul Hatalsky,Paul,Hatalsky,7664d5bb-d9cf-435f-90d5-51411059b8fb,CSC,2.74,114
 Robert Densham,Robert,Densham,76653a11-a692-47d1-b959-c7255d0bacdd,ART,1.86,6
 Timothy Saucerman,Timothy,Saucerman,766c3271-386a-47b2-bb01-7c1c95a981c5,CE,4,3
 Kenneth Habib,Kenneth,Habib,76739e17-3611-482f-8f80-9e28c243d5f8,MU,2.63,41
-Mario Esola,Mario,Esola,767dceff-3b7f-45fb-bd64-5ed12a8ab7d7,CE,2.22,27
+Mario Esola,Mario,Esola,767dceff-3b7f-45fb-bd64-5ed12a8ab7d7,CE,2.28,28
 Ken Kubiak,Ken,Kubiak,768c16d7-6902-4233-adf8-6d8af4986921,CSC,3.88,8
 Albus Dumbledore,Albus,Dumbledore,76998b40-6d7f-4f73-851c-77ae7a3f1bdc,PHIL,3.58,6
 Pam Ridgely,Pam,Ridgely,76e0af89-403c-4b42-9d91-7e7a39b967f0,ME,0.63,30
-Donna Templeton,Donna,Templeton,76ebce24-2175-4045-8b0f-852d1ef65203,GRC,2.21,19
+Donna Templeton,Donna,Templeton,76ebce24-2175-4045-8b0f-852d1ef65203,GRC,2.3,20
 Ryan Brockett,Ryan,Brockett,76ee565a-5f86-4cdf-9b77-26783d2bf10e,ARCH,2.81,12
 Andrew Migler,Andrew,Migler,76f18c4a-9d86-4276-bab3-bf44955d38cb,CSC,3.83,12
 Barbara Curry,Barbara,Curry,76f23cee-9b55-4b8a-b4fb-eca6d0d79776,ECON,1,10
-Olga Dekhtyar,Olga,Dekhtyar,770eda96-5f64-4345-9371-3721f25bdd1e,STAT,3.42,140
+Olga Dekhtyar,Olga,Dekhtyar,770eda96-5f64-4345-9371-3721f25bdd1e,STAT,3.42,142
 Elsa Medina,Elsa,Medina,7712386a-36a0-4ea5-a995-4d9dfbdc30cf,MATH,3.52,68
 William Riggs,William,Riggs,7719cb14-8a0a-4ec4-be59-1c8b70e59f15,CRP,3.6,10
 Pasha Tabatabai,Pasha,Tabatabai,772c4b8a-ce23-4afb-a5e5-05987a599046,PHYS,2.77,18
@@ -1169,8 +1169,8 @@ Roric Christian Martens Biersach,Roric Christian,Martens Biersach,77355efd-cfb8-
 Cesar Bustamante,Cesar,Bustamante,776074ab-6257-481c-9a45-7cec968039de,LA,2.72,5
 Shien-yi Meng,Shien-yi,Meng,77650a20-f201-43fe-a6af-84d3b396407a,EE,1.21,12
 Patrick Lin,Patrick,Lin,7767e174-64d9-4083-a704-0f6dc0115f29,PHIL,3.39,17
-Bekir Keskin,Bekir,Keskin,7767f768-5fc5-4a86-93db-d608f2ebe9e9,GRC,4,1
-Sussan Einakian,Sussan,Einakian,777000c8-22f7-4113-b50d-3506b49e6d78,CSC,1.8,113
+Bekir Keskin,Bekir,Keskin,7767f768-5fc5-4a86-93db-d608f2ebe9e9,GRC,3.5,2
+Sussan Einakian,Sussan,Einakian,777000c8-22f7-4113-b50d-3506b49e6d78,CSC,1.8,114
 Wendy Daly,Wendy,Daly,7794a3b9-2746-4fc2-aec5-000d759b1e49,ENGL,0.53,15
 Kevin Clancy,Kevin,Clancy,779f3d01-469c-4a40-bfcf-3c0e16414f28,STAT,3.35,37
 Philip Mabry,Philip,Mabry,77aec8bf-57f6-4296-b616-b1f589e6ebc0,ES,2.69,13
@@ -1195,9 +1195,9 @@ Irene Carbonell,Irene,Carbonell,79cbd499-eda1-44ed-ae79-9e5682ec1599,ITP,3,7
 Amy Carter,Amy,Carter,79f33425-a832-4925-9bd2-f38e018265ba,BUS,4,3
 Andrew Brock,Andrew,Brock,7a006797-af01-4d69-a45f-373982c1d344,ME,1.43,2
 Menka Sethi,Menka,Sethi,7a35195b-2f93-4279-9165-38bccc07108d,BUS,2.92,12
-Lauren Rueda,Lauren,Rueda,7a3ef25a-14ac-467c-bbb8-377bbe0d0c72,ME,3.53,17
+Lauren Rueda,Lauren,Rueda,7a3ef25a-14ac-467c-bbb8-377bbe0d0c72,ME,3.56,18
 Erin O'Connor,Erin,O'Connor,7a4407d2-4dd1-41ea-ae15-aae7d9eb5d04,PHYS,2.12,14
-Dean Da Vee,Dean,Da Vee,7a641ab2-93a3-4f4c-a3d9-da9747a50c15,PHIL,3.26,8
+Dean Da Vee,Dean,Da Vee,7a641ab2-93a3-4f4c-a3d9-da9747a50c15,PHIL,3.34,9
 Vinicios Sant'Anna,Vinicios,Sant'Anna,7a6c637e-48ac-41c5-9a56-421a19ba804b,BUS,3.86,7
 Julie Garcia,Julie,Garcia,7a7213dd-3b37-46ce-a7eb-21bc32ca158f,PSY,2.86,17
 Jacquelyn Belknap,Jacquelyn,Belknap,7ab2b229-8a87-4aea-b3b7-364a0b433c86,ENGL,3.44,38
@@ -1212,12 +1212,12 @@ Davide Falessi,Davide,Falessi,7b91f48b-4983-4b00-97e6-e863ee20ae87,CSC,4,3
 Diana Franklin,Diana,Franklin,7b995fd2-ea14-4e9c-a61a-c7c86888147f,CSC,2.89,35
 Eric Noel,Eric,Noel,7ba122e6-5620-4900-8f9b-9833f12cb82c,BIO,3.7,19
 Alpen Razi,Alpen,Razi,7bab7919-6a02-4d7b-ab88-6a9e1c91251d,ES,3.93,35
-Ritch Woffinden,Ritch,Woffinden,7bac9d37-e73f-4b5c-8b89-f99fdabf2a7f,COMS,2.69,32
+Ritch Woffinden,Ritch,Woffinden,7bac9d37-e73f-4b5c-8b89-f99fdabf2a7f,COMS,2.73,33
 Sarah Bisbing,Sarah,Bisbing,7bc42e42-644e-4eeb-a114-44789b2e4725,NR,3.5,6
-Phyllis Wong,Phyllis,Wong,7bd30ced-4a5c-438d-896a-d22380692a95,TH,2.39,76
+Phyllis Wong,Phyllis,Wong,7bd30ced-4a5c-438d-896a-d22380692a95,TH,2.3,79
 Scott Hoppe,Scott,Hoppe,7bec7e44-ad46-4427-902e-d6fc48a43f2e,BUS,3.32,29
 Jessica Richardson,Jessica,Richardson,7c01310c-acde-4fda-8ffe-0237ad5a5f24,ITP,4,2
-Kyle Dickey,Kyle,Dickey,7c2c4d24-4950-414f-8a09-359ec4e406d7,PHIL,3.85,7
+Kyle Dickey,Kyle,Dickey,7c2c4d24-4950-414f-8a09-359ec4e406d7,PHIL,3.74,8
 Judith Gish,Judith,Gish,7c6a11be-e42b-41ff-8f76-063242a8b0f0,LS,0.75,4
 Chris Wright,Chris,Wright,7c6e556a-8682-422d-83d9-8be40066bd39,AGB,4,3
 William Demarest,William,Demarest,7c726604-e13d-4aa8-8a9b-3decaa342461,MATH,3.49,34
@@ -1259,9 +1259,9 @@ Brooks Hanley,Brooks,Hanley,8036e9b5-2701-4a84-85bd-36adf9432df0,EE,2.67,1
 Mary Beth Armstrong,Mary Beth,Armstrong,805e02fc-76b9-48b7-b880-7d667aa0c1c0,LA,3.2,4
 Ruth Saunders,Ruth,Saunders,808a140a-73cc-423f-963c-a2fd5041df85,PHYS,3.59,21
 William Ausmus,William,Ausmus,812625c4-0013-474f-87ec-c0a2c47b48ac,COMS,2.63,147
-Eric Yocam,Eric,Yocam,81270ba5-d799-465c-b9d7-61f4247bb13d,CSC,3,12
+Eric Yocam,Eric,Yocam,81270ba5-d799-465c-b9d7-61f4247bb13d,CSC,2.77,13
 David Yun,David,Yun,8127f6b5-a4b1-4f09-b1c6-bdfa3c30fec2,NR,3,15
-Bessy Liao,Bessy,Liao,814d230e-17aa-4898-a2e1-29222ec94619,ECON,1.24,38
+Bessy Liao,Bessy,Liao,814d230e-17aa-4898-a2e1-29222ec94619,ECON,1.31,39
 Gene Offermann,Gene,Offermann,8151940c-72ba-424c-b631-a7d170731965,AEPS,1.5,1
 Laura Yassa,Laura,Yassa,815c1251-26d1-4bc3-a076-678d956e94e9,HLTH,3.33,3
 Andrea Onate Madrazo,Andrea,Onate Madrazo,8171685e-5e66-424a-890c-ed7f783b8b69,HIST,3.33,6
@@ -1274,7 +1274,7 @@ Joan Lindsey-Mullikin,Joan,Lindsey-Mullikin,82085371-eb70-44f1-a8ca-d034a320c8bf
 William Benedict,William,Benedict,8211c7f8-e734-4c10-be19-2887690cc3c6,ARCH,2.27,9
 Gary Perks,Gary,Perks,821f8ff4-71fb-477c-96a6-ef64f54a6f4b,EE,3.55,222
 Hannah Parker,Hannah,Parker,823f6e43-1c51-474f-bcf7-a4a2f571d5da,AGED,4,1
-Glen Thorncroft,Glen,Thorncroft,824c1c43-8884-43fa-b2ed-f915bde3daab,ME,2.89,93
+Glen Thorncroft,Glen,Thorncroft,824c1c43-8884-43fa-b2ed-f915bde3daab,ME,2.86,94
 Scott Johnston,Scott,Johnston,825d1b87-2840-41c5-bb1b-c4c7be0f1b7f,PHYS,2.72,54
 Alison Preston,Alison,Preston,826958d4-4d5c-4690-a61e-caa28db999e5,ENGL,1.87,61
 Adam Werner,Adam,Werner,827f0fbc-a1aa-45d0-bb7d-3e0e214312f1,ECON,2.56,44
@@ -1282,7 +1282,7 @@ William Lindsay,William,Lindsay,828edd03-1cae-4f92-8a39-708dbaf1469e,ECON,3.6,51
 Mike Robertson,Mike,Robertson,82a5be11-a8a4-4790-94ab-90a13231443a,MATH,2.7,234
 Greg Wynn,Greg,Wynn,82b97898-c409-4c98-ab50-ba5ba49e8460,ARCH,1.82,65
 Joy Montoya,Joy,Montoya,82c397ef-c7c8-4572-a470-e27e04350c38,GRC,0.8,4
-Ashraf Elbarbary,Ashraf,Elbarbary,82d59a93-1ea4-4023-a44d-8678bdc61f3d,EE,3.41,25
+Ashraf Elbarbary,Ashraf,Elbarbary,82d59a93-1ea4-4023-a44d-8678bdc61f3d,EE,3.39,26
 Kira Abercromby,Kira,Abercromby,82ea81aa-9eea-49a2-aa91-e6c50712b592,AERO,3.42,21
 John Dalbey,John,Dalbey,82f68744-d501-4179-8a9e-df7a9b1e38ca,CSC,1.3,106
 Christina Firpo,Christina,Firpo,82f7f218-86b2-4b7f-a3d8-20749c517323,HIST,2.7,96
@@ -1309,7 +1309,7 @@ Karen Vaughan,Karen,Vaughan,861bce0b-f67c-45a8-bd7b-c345b9c14ea8,SS,3.75,4
 Leonard Deaton,Leonard,Deaton,864ea00e-ca18-49b2-925d-a7b4a2d8db07,MATH,1.8,71
 Madeline Schroth-Glanz,Madeline,Schroth-Glanz,868794af-4ad8-4edc-9374-e05de9a7caf7,STAT,1.88,66
 Corinne Lehr,Corinne,Lehr,868c827b-6fa4-4255-9b55-03b154160b74,CHEM,2,51
-Aubrey Davis,Aubrey,Davis,869c0e34-fe4b-4e79-8853-42e71202fe1c,BIO,1.91,21
+Aubrey Davis,Aubrey,Davis,869c0e34-fe4b-4e79-8853-42e71202fe1c,BIO,2.01,22
 Andrew Houghtelin,Andrew,Houghtelin,86c38458-c6cf-4258-a0f1-17c635221ab5,CRP,3.67,5
 Shannon Pileggi,Shannon,Pileggi,86ce7096-5a4d-44d4-aa72-85182252f8a7,STAT,2.78,9
 Kenneth Griggs,Kenneth,Griggs,86eb15cc-f021-4a29-bb18-81ddc2dbde26,BUS,1.64,72
@@ -1343,7 +1343,7 @@ Tom Goglio,Tom,Goglio,89ce0f7a-754d-42a6-b7ad-5a1178d2e4a0,GRC,2.12,15
 David Headrick,David,Headrick,89e59cd6-980e-4c3e-b70d-649c08988d75,AEPS,3.8,19
 Katie Anderson,Katie,Anderson,89e8e287-c432-413b-98aa-1e0a40bdc85b,CE,2.5,2
 Po Marie Yeung,Po Marie,Yeung,8a09d90a-dc01-457c-9f8f-a355ca8788ba,BIO,1.81,21
-German Serna,German,Serna,8a16e962-3dd9-43d0-97a7-c6bcd7bf3606,ITP,0.83,17
+German Serna,German,Serna,8a16e962-3dd9-43d0-97a7-c6bcd7bf3606,ITP,0.74,19
 Stephen Nutt,Stephen,Nutt,8a2a3a94-1600-4811-93e0-66fde0cf0ce6,MU,3.68,9
 Christine Ghent,Christine,Ghent,8acaf1b6-4ede-4340-8a2b-bfa825d7866a,MATE,3.67,8
 John Alongi,John,Alongi,8b0fa522-bc26-40df-84d0-8d004fdbe95f,MATH,3.63,53
@@ -1358,7 +1358,7 @@ Heather Liwanag,Heather,Liwanag,8bc4af2f-2d2f-48d5-9442-e35dbbd68f2e,BIO,2.49,19
 Chad Immoos,Chad,Immoos,8be6b042-e2ce-4b80-b501-9e494feb8b33,CHEM,3.26,41
 John Marlier,John,Marlier,8c07883b-b4f1-41c8-8ea7-49bd067dcc40,CHEM,3.2,31
 Alex Powers,Alex,Powers,8c33ff97-b8fa-4e9d-b3e9-db3fb2e87e55,ME,3.75,3
-Kara Samaniego,Kara,Samaniego,8c8d72a7-61e4-48e8-a482-ea650de1d21f,PSY,3.94,26
+Kara Samaniego,Kara,Samaniego,8c8d72a7-61e4-48e8-a482-ea650de1d21f,PSY,3.94,27
 Gabriel Medina-Kim,Gabriel,Medina-Kim,8cc1aa56-6c0d-4b0e-8a98-4469e7d1f533,WGS,0,3
 Diana Stanton,Diana,Stanton,8cd410f7-e422-4f27-843f-d880a832245f,TH,3.87,23
 Karl Lund,Karl,Lund,8ce7b479-5a95-4026-8ad8-48032021b20e,AGED,2.67,2
@@ -1384,7 +1384,7 @@ William Patterson,William,Patterson,8f0c5ee8-3cba-4bbc-9f1a-29646883e7f8,ME,1.5,
 Ruoxi Wang,Ruoxi,Wang,8f139b4e-2890-43a6-8b94-47d1a5122956,CHEM,4,25
 Paul Weber,Paul,Weber,8f5df72e-d39e-4f8d-9859-c1aec67fae7d,CM,3.59,27
 Vera DePass,Vera,DePass,8f72f93b-ff0c-450d-a666-b0e84ae7180a,PSY,2.67,2
-Mark Edwards,Mark,Edwards,8f7cdbf6-bf6a-4f59-9a4b-9e4b7e34d9d3,ASCI,2.46,47
+Mark Edwards,Mark,Edwards,8f7cdbf6-bf6a-4f59-9a4b-9e4b7e34d9d3,ASCI,2.46,49
 Patricia Dahm,Patricia,Dahm,8f821624-553c-4c8c-92ec-3ecfa5414e1e,BUS,3.17,16
 William Ozawa,William,Ozawa,8f8862f5-34d1-4e3f-a51e-1165a8bb14ad,CSC,2.18,10
 Thomas Katona,Thomas,Katona,8f946dc5-d5ff-45bf-9f58-4f3e867faf41,BUS,4,1
@@ -1409,7 +1409,7 @@ Rodrigo Canaan,Rodrigo,Canaan,90e0b35c-af79-46c7-aca2-f3983e59d872,CSC,3.92,12
 Jensen Jeung,Jensen,Jeung,90e5c201-ee18-429d-9c0c-ec50953b3db9,SOC,3.67,3
 Richard Graziano,Richard,Graziano,910353ad-a0c8-4620-b54c-0e8339fdbf7d,PHIL,2.52,74
 Gabriel Ramirez,Gabriel,Ramirez,91222f73-1b58-4328-a147-a0657a466c1a,HIST,3.33,3
-Timothy McHale,Timothy,McHale,913d797a-8acb-4552-a373-e997db729985,SS,4,4
+Timothy McHale,Timothy,McHale,913d797a-8acb-4552-a373-e997db729985,SS,4,5
 Christine Bohn,Christine,Bohn,9144cac3-84d5-4872-aa26-1fb573f88a38,CHEM,0.95,19
 Joseph Ragsdale,Joseph,Ragsdale,9148879e-1259-4dd9-bd06-b6cfba46144f,LA,3.27,11
 Richard Beller,Richard,Beller,915b94ef-c087-41f7-99c0-bc9eab8bdb6a,ARCH,2.33,9
@@ -1441,7 +1441,7 @@ Jayme Yen,Jayme,Yen,942dd8fc-d676-48b6-9229-7a549ffd6370,ART,4,1
 Thomas Fowler,Thomas,Fowler,94549e5e-ad62-4305-81c9-72559c50ea2a,ARCH,3.33,14
 Michael Haungs,Michael,Haungs,9464fe34-82f7-458a-8ee7-280b5a33fb52,CSC,3.18,39
 Brooke Muller,Brooke,Muller,946dd21e-9535-4e3b-b386-6776c2d838d5,ARCH,3.38,7
-Anu Aggarwal,Anu,Aggarwal,94803593-5bb7-4778-a758-a554481f6281,EE,1.18,18
+Anu Aggarwal,Anu,Aggarwal,94803593-5bb7-4778-a758-a554481f6281,EE,1.28,19
 Sarah Gravem,Sarah,Gravem,9489efa3-b99d-46ee-8c6e-4450bc5744f2,BIO,3.17,6
 Alicia Gauch,Alicia,Gauch,94aeaa18-8585-42ec-95ea-1f718f22a5b9,POLS,2,2
 Garland Durham,Garland,Durham,94b8e8f7-cd3a-461a-9d83-2b503a3d9cb1,BUS,2.7,9
@@ -1455,7 +1455,7 @@ Elahe Mahdavian,Elahe,Mahdavian,95b9945e-864c-4cf3-9694-ede68a93c49c,CHEM,1.92,1
 Junko Cleave,Junko,Cleave,95f3438a-70d4-4be3-8b9d-db07383ea2e2,JPNS,4,9
 Xiaoying Rong,Xiaoying,Rong,95f8c98e-9393-4cf0-9119-23749d39d1eb,GRC,3.59,12
 Cierra Street,Cierra,Street,961b34e0-5e20-49bf-9bca-3ecd6f1dfefa,MATH,4,15
-Hilary Jacks,Hilary,Jacks,96592e09-912d-4db1-8a1a-ac2d6bbd606d,PHYS,1,25
+Hilary Jacks,Hilary,Jacks,96592e09-912d-4db1-8a1a-ac2d6bbd606d,PHYS,0.96,26
 Xiaomin Jin,Xiaomin,Jin,965d8a4b-3a60-428a-8de8-402042806efe,EE,2.03,35
 Eric Boyle,Eric,Boyle,96650737-1d20-49ff-abfe-09115fa4632a,HIST,3.13,15
 Michael Selby,Michael,Selby,96751a12-3af5-4a50-96bb-8250c94720d6,PSY,3.09,12
@@ -1492,7 +1492,7 @@ Eshetu Erkihune,Eshetu,Erkihune,98f44bce-82e3-4354-9cc4-8ecf906828a6,BRAE,3.23,2
 Nicholas Brown,Nicholas,Brown,99732079-43bf-4f0d-88b8-01401c7298fd,PHYS,1.4,48
 Kun Hua,Kun,Hua,99a6658b-cdcf-4cfd-a908-c61f7ab9f347,EE,3.01,15
 Krista Kauffmann,Krista,Kauffmann,99b69438-7d1e-4417-b27d-e46e03e5e8ae,ENGL,2.89,29
-Kevin Ross,Kevin,Ross,99cbf65c-f534-4087-b71a-ce3754a62990,STAT,3.61,47
+Kevin Ross,Kevin,Ross,99cbf65c-f534-4087-b71a-ce3754a62990,STAT,3.62,48
 Matthew Moelter,Matthew,Moelter,9a5bee3b-f150-4d46-b3c7-f5d45e32e122,PHYS,3.47,85
 Jacqueline Badal,Jacqueline,Badal,9a5ea425-b59b-4abc-88d7-b2ebb8c0783f,CM,2.67,3
 Karl Saunders,Karl,Saunders,9a65845b-0e2e-4990-b73c-6bcd54e3f0f3,PHYS,2.71,93
@@ -1503,7 +1503,7 @@ Isinsu Toker,Isinsu,Toker,9ada0ff3-fd33-4a92-92b3-59731e511d73,PHYS,3.33,6
 Lindsey Ross,Lindsey,Ross,9afbf9cc-a1e8-4389-b850-6b06c087070b,FSN,2.5,4
 Mohamed Awwad,Mohamed,Awwad,9b13a7c2-22ae-4dc6-a3d6-b98a11552490,IME,4,2
 Shohreh Niku,Shohreh,Niku,9b341731-7a00-4838-adce-9c8e0b631897,FSN,3.5,4
-William L. Ahlgren,William L.,Ahlgren,9b4b605b-d19a-4f70-a7ec-2b6ba670505d,EE,1.9,64
+William L. Ahlgren,William L.,Ahlgren,9b4b605b-d19a-4f70-a7ec-2b6ba670505d,EE,1.89,65
 Tammy Campbell,Tammy,Campbell,9b5b3acc-98e7-414d-94cd-3aa65b269dc8,CHEM,1.33,53
 Henry Downey,Henry,Downey,9b665b95-6736-414f-9b7c-21851a95dfc2,ARCE,0.67,15
 Michael Heying,Michael,Heying,9b907391-d5b3-42bf-ab96-9e7616ecf4cd,CHEM,2.22,71
@@ -1513,7 +1513,7 @@ Timothy Hawkins,Timothy,Hawkins,9c51eb33-1e9a-41b6-8cd9-3feda3ad41bf,CPE,3.13,40
 Lucy Nelson,Lucy,Nelson,9c606af8-d444-477d-b1ba-b3ee6f03351f,BIO,2.5,2
 Sheree Twisseleman,Sheree,Twisseleman,9c652853-b050-4497-b107-1bc53bfc9061,COMS,2.93,154
 Barbara Morningstar,Barbara,Morningstar,9c837337-c257-47aa-8271-8cbe263f34bb,ART,1.9,73
-Immanuel Williams,Immanuel,Williams,9ca56b7a-49fc-48e0-bc8e-bda0c792807e,STAT,1.72,32
+Immanuel Williams,Immanuel,Williams,9ca56b7a-49fc-48e0-bc8e-bda0c792807e,STAT,1.76,33
 McKenna Willamson,McKenna,Willamson,9cb0dfc2-638e-4e10-b1c7-a210b3a0229a,BIO,4,6
 Vardha Bennert,Vardha,Bennert,9cb9b220-f200-4d37-b158-929772082c23,PHYS,2.95,36
 Elena Keeling,Elena,Keeling,9cd3bb05-bb8f-4e31-8055-d27271da5c60,BIO,2.55,80
@@ -1606,7 +1606,7 @@ Adam BenShea,Adam,BenShea,a62e6c9d-a92c-444a-969b-2d129aac96c0,PHIL,3.52,24
 Hannah Roberts,Hannah,Roberts,a6564320-c842-46d9-b3f7-54fad420361d,PSY,3.29,7
 David Chamberlain,David,Chamberlain,a6cc6ab3-f5f9-472f-80ce-3511e6e872bf,BUS,4,2
 Erin Solemsaas,Erin,Solemsaas,a6dfbcc0-8467-46ec-af81-f4dabd3cbeaa,TH,4,1
-Gregory Domber,Gregory,Domber,a6f9071e-d37e-40c8-a20c-577380633a3a,HIST,3.28,25
+Gregory Domber,Gregory,Domber,a6f9071e-d37e-40c8-a20c-577380633a3a,HIST,3.31,26
 Michael Lucas,Michael,Lucas,a72417c3-c1e2-4ac8-be8f-f2877c7046f2,ARCH,3.52,24
 Peggy Papathakis,Peggy,Papathakis,a7249e1f-5a5b-4fc7-a07a-b30cb7104373,FSN,3.17,11
 Randy Rovegno,Randy,Rovegno,a72d930a-2527-474c-b037-45ca14a72533,BUS,3.4,18
@@ -1638,7 +1638,7 @@ Serena Clark,Serena,Clark,a9ab5851-a561-40f7-8f84-4bcceb7beef9,POLS,3.2,10
 Jenny Wang,Jenny,Wang,a9d7da17-c872-47ab-af41-b17f6184e931,CSC,1.67,3
 Eric Ocegueda,Eric,Ocegueda,a9edc759-2b16-440d-a460-cab95836335b,ME,3.81,16
 Jeremy Medaris,Jeremy,Medaris,aa2c7732-c33e-4581-ab0c-c62e8bd51f73,MSL,3.6,3
-Anya Foxen,Anya,Foxen,aa4d939d-6760-4a66-8246-7200b5dfeb8e,RELS,2.5,2
+Anya Foxen,Anya,Foxen,aa4d939d-6760-4a66-8246-7200b5dfeb8e,RELS,3,3
 Mary A. Armstrong,Mary A.,Armstrong,aa58316b-473a-4140-a2d3-4bf0d5198f0c,ENGL,3.59,21
 Marisa Bolivar,Marisa,Bolivar,aa6264f9-1d7d-4368-af70-548ff623f409,FSN,4,11
 Jean Lee,Jean,Lee,aaa7e652-298a-4925-8ca4-205d2c87b7a0,MATE,1.29,51
@@ -1654,7 +1654,7 @@ Jane Zhang,Jane,Zhang,ab979c4c-d2cd-4d57-9985-7489b98c6752,EE,2.71,45
 Guadalupe Arellanes,Guadalupe,Arellanes,ac106829-16c3-4610-b9f1-5cbbf1d5bffb,ES,4,1
 Tim Kearns,Tim,Kearns,ac26d483-b612-4c3f-98bf-e4f94740434e,CSC,1.85,90
 Sanjiv Jaggia,Sanjiv,Jaggia,ac2d787e-4e1f-43f0-b4b9-a360c0edd5e8,BUS,2.68,25
-Kevin Houser,Kevin,Houser,ac3c624a-ef00-4f6c-94c7-397438375445,PHIL,2.78,13
+Kevin Houser,Kevin,Houser,ac3c624a-ef00-4f6c-94c7-397438375445,PHIL,2.87,14
 Christopher Siu,Christopher,Siu,ac61b440-bde7-4830-b20b-8ce2d302ea22,CSC,3.81,40
 Anne Baltimore,Anne,Baltimore,ac7b210e-e4f1-428f-b5fc-92fcf0656dac,ENGL,2.56,14
 Christine Irish Nelson,Christine Irish,Nelson,ac8fecac-8858-4b1c-b3f5-409a8b561be2,HLTH,3.91,12
@@ -1673,7 +1673,7 @@ Souvik Kundu,Souvik,Kundu,add4777b-7269-43d9-8fb3-e1fe0568e603,EE,2.6,5
 Connie Young-Johnson,Connie,Young-Johnson,add4db4e-770d-49e6-89b2-76bafcfcb6d4,COMS,3.64,22
 Aubrie Adams,Aubrie,Adams,ade1245a-e5f7-4119-9d9f-658a3abf969d,COMS,3.5,2
 Elizabeth Adan,Elizabeth,Adan,adf94e3b-8961-4899-80e7-7ff6455850d1,ART,3.56,37
-Juliana Trunzo,Juliana,Trunzo,ae16a561-5bdb-42be-a909-fabd1a9a3455,BIO,2.26,15
+Juliana Trunzo,Juliana,Trunzo,ae16a561-5bdb-42be-a909-fabd1a9a3455,BIO,2.37,16
 Ralph Roesling,Ralph,Roesling,ae675ff8-4700-4c3f-bde5-96f89be935ab,ARCH,2.6,5
 Sarah Cameron,Sarah,Cameron,aea36f9a-9e16-4c21-aec6-9894aeb6bcda,PHYS,3,4
 Elbert Speidel,Elbert,Speidel,aed49ed5-824c-4a91-863e-0ce6b13f7cf0,CM,3.44,8
@@ -1719,7 +1719,7 @@ Dave Amos,Dave,Amos,b3ebc752-9e02-4b0b-8f05-bf0d78f85ff4,CRP,4,10
 Mallory Stoffel,Mallory,Stoffel,b3f3bd06-33c1-4132-8242-e8b9a0da8601,BUS,4,5
 Charles Miller,Charles,Miller,b3fc9a02-d1c0-4916-b363-c0eb3d2ff5d6,BUS,3.02,79
 Alghoul Zahra,Alghoul,Zahra,b4384f54-b168-4361-a6c6-f795e2bf2046,CHEM,3.17,23
-Allison Myers,Allison,Myers,b46452ff-faaf-401d-b2b2-e063160f0884,ART,4,1
+Allison Myers,Allison,Myers,b46452ff-faaf-401d-b2b2-e063160f0884,ART,4,2
 Ashley Leitzell,Ashley,Leitzell,b4657f29-3b86-4aa3-9206-bc61d32551ce,ME,2.95,80
 Lizvette Villafana,Lizvette,Villafana,b46afa0f-1b70-4838-bb32-96a6e78e7eda,PHYS,2.93,27
 Cilnton Francis,Cilnton,Francis,b4806304-8d46-4040-ae3a-26aca65c4c2c,BIO,2.65,15
@@ -1786,7 +1786,7 @@ Dylan Retsek,Dylan,Retsek,bc48b82c-c3f3-4025-865c-83f6286664fb,MATH,3.89,137
 Patrick McCleskey,Patrick,McCleskey,bc578426-c964-40d6-a016-7e7bae627aa1,ITP,2.57,6
 Nicole Waterland,Nicole,Waterland,bc5a11bb-3caa-4af1-ac2e-55cef8757b04,PSC,2,1
 Lucy McGowan,Lucy,McGowan,bc612d3b-2f51-4ad6-99ff-eaf54d176254,AGB,4,9
-Ian Powell,Ian,Powell,bc6cf593-6ab0-4730-8a03-170e89a52af5,PHYS,3.75,36
+Ian Powell,Ian,Powell,bc6cf593-6ab0-4730-8a03-170e89a52af5,PHYS,3.76,37
 Norm Borin,Norm,Borin,bc813f7a-f19b-4ed1-b80d-88163a4b8539,BUS,1.52,44
 Rebecca Ellis,Rebecca,Ellis,bcab26b3-de9c-48f1-bedb-2979806f4951,BUS,2.91,20
 Cynthia Breaux,Cynthia,Breaux,bcb9f9d5-6a1b-4987-836b-5a12646710fe,PSY,3.84,56
@@ -1827,7 +1827,7 @@ Justin Hancock,Justin,Hancock,c0fb6abd-f92a-4209-bc7a-d85097fbee9e,CHEM,3.44,42
 Tom Trice,Tom,Trice,c10db745-222a-41a5-9f76-0d3e6469f84f,WGS,3.73,32
 Benjamin Richert,Benjamin,Richert,c116c1bf-a363-48ad-a609-0cad142b0674,MATH,3.13,88
 Chris Ainsworth,Chris,Ainsworth,c11b0874-8fd4-4c79-a693-0fb68e33dba5,BUS,4,3
-Jaimie Bunting,Jaimie,Bunting,c15b693a-c08e-4e15-9efc-f215b0b1fb88,BIO,3.85,36
+Jaimie Bunting,Jaimie,Bunting,c15b693a-c08e-4e15-9efc-f215b0b1fb88,BIO,3.85,37
 Christina McNeil,Christina,McNeil,c17f9053-58ae-4214-a0ee-fd4787aceb12,TH,3,6
 Nancy Ochs,Nancy,Ochs,c1822950-b8cf-4270-87a8-8cc61ae65f6e,AGB,3,3
 Mary Beth Brumit,Mary Beth,Brumit,c1a450ee-54f9-4dac-8ed0-43f0d27e5705,FSN,3.9,10
@@ -1837,11 +1837,11 @@ Chris Buckalew,Chris,Buckalew,c1c06eea-c7d1-4db3-8a06-11b3a9088080,CSC,3.35,47
 Kevin Fagan,Kevin,Fagan,c1c4e019-95f7-47dc-8cc5-ad7d72dd070c,SPAN,3.04,53
 Jim Beug,Jim,Beug,c1e51e8d-b8ac-485f-9b44-9378594d1c7e,CSC,1.75,10
 Robert Duffin,Robert,Duffin,c2145174-3fa8-40f4-9a80-f5a39fa70fa5,PHYS,0.45,19
-Billie-Jo Grant-Ghanotakis,Billie-Jo,Grant-Ghanotakis,c2152f06-bfae-4bb8-bf33-a2709cd4e3b4,STAT,4,9
+Billie-Jo Grant-Ghanotakis,Billie-Jo,Grant-Ghanotakis,c2152f06-bfae-4bb8-bf33-a2709cd4e3b4,STAT,4,10
 Sharon Elliston,Sharon,Elliston,c2490f21-941f-4bf1-b35d-021eb65eed0b,FSN,4,2
 Evie Ruiz,Evie,Ruiz,c27dc9f7-d582-4c02-92ca-407601874c88,HLTH,4,1
 Sheridan Reineck,Sheridan,Reineck,c2a2bd91-026b-42e2-93db-84c4ab2fd2df,ENGL,4,2
-Bradley Moran,Bradley,Moran,c3358d93-32a8-4f8b-be10-7319ac84265a,CHEM,2.96,22
+Bradley Moran,Bradley,Moran,c3358d93-32a8-4f8b-be10-7319ac84265a,CHEM,3.01,23
 Wendy Lampart,Wendy,Lampart,c366c80e-4d08-4796-acee-441a25fea702,CHEM,0.59,31
 Fahim Khan,Fahim,Khan,c3ab2424-86e5-4ef4-810c-7728ba4d69b4,CSC,3.25,4
 Michael Chang,Michael,Chang,c3bf322e-c42e-429c-b99e-488a4f3a2751,BUS,3.75,4
@@ -1874,14 +1874,14 @@ William Horst,William,Horst,c6ae31f9-a2dc-4483-8965-a75f07eba70f,PHYS,2.09,177
 Kurt Colvin,Kurt,Colvin,c6ae4309-59c6-4f24-875e-0e13b4fdd237,IME,3.5,21
 Mark Sitko,Mark,Sitko,c6bbdd69-6979-455a-b1d7-725076491f86,TH,3.6,5
 Jerry Balakrishnan,Jerry,Balakrishnan,c6ebb945-014a-4e2b-b2a3-b1027e059e56,STAT,2,1
-Jason Linn,Jason,Linn,c6fc3446-df7a-44d5-9e5d-034a66ec0dc2,HIST,3.42,117
-Gabriel Soldatenko,Gabriel,Soldatenko,c6fff02e-de89-48d5-8922-d8a512594cb5,ES,2.96,36
+Jason Linn,Jason,Linn,c6fc3446-df7a-44d5-9e5d-034a66ec0dc2,HIST,3.41,118
+Gabriel Soldatenko,Gabriel,Soldatenko,c6fff02e-de89-48d5-8922-d8a512594cb5,ES,2.99,37
 Anthony Randazzo,Anthony,Randazzo,c73101b6-d442-46e5-9bd4-15789a5c4d03,ITP,1.83,38
 Soph Ziemian,Soph,Ziemian,c74a434f-9f55-400b-ba9e-76507d0e000f,BMED,4,2
 Brent Nuttall,Brent,Nuttall,c764d48c-6bbc-4d3e-921a-d7f611081af1,ARCE,3.57,20
 Mallary Greenly-Wacker,Mallary,Greenly-Wacker,c79362fb-b5e6-4f81-8838-d785380cc966,BIO,3.06,22
 John Clements,John,Clements,c7b11934-d727-4d1f-a5f4-8d22d2896757,CSC,2.64,76
-Jose Huitron,Jose,Huitron,c7cf608c-b164-411b-90c5-1c0ce49c0ba4,BUS,3,7
+Jose Huitron,Jose,Huitron,c7cf608c-b164-411b-90c5-1c0ce49c0ba4,BUS,3,9
 Amanda Johnston,Amanda,Johnston,c7d50a9c-933f-46d7-9a43-82bcd85fd66d,ME,4,2
 Sandra Sarrouf,Sandra,Sarrouf,c7d9eeea-c7d0-4f0c-8711-3653dce1779f,DANC,4,1
 Ivan Hernandez,Ivan,Hernandez,c7e7507e-4756-48e6-b149-5a6529c28a49,PSY,4,2
@@ -1962,7 +1962,7 @@ Rebecca Heath,Rebecca,Heath,d1b7991f-f258-4f0f-8595-3359550da130,COMS,2.35,29
 Andrea DeBrish,Andrea,DeBrish,d1d72f5a-b3c2-4d22-83ec-61670e549704,BIO,1.5,1
 BJ Klingenberg,BJ,Klingenberg,d1f397d4-d592-4442-9104-93f0fefc2c4b,CSC,4,3
 Richard Grassl,Richard,Grassl,d21b68f0-f543-47e5-b821-159d6e2a09af,MATH,3.29,6
-Doug Sawyer,Doug,Sawyer,d22d116c-3391-49ec-80a3-25031a9559aa,AGB,3.43,7
+Doug Sawyer,Doug,Sawyer,d22d116c-3391-49ec-80a3-25031a9559aa,AGB,3.5,8
 Chris Manning,Chris,Manning,d234fa64-d044-493b-96ad-d53937be0d18,AEPS,1.2,4
 Barbara Mori,Barbara,Mori,d2353ab5-6aff-45a0-8b0a-89142f71294c,SOC,1.05,38
 Bwalya Malama,Bwalya,Malama,d23a8abb-c187-4673-93d4-bed5e571c758,SS,3.42,20
@@ -1979,7 +1979,7 @@ Heidi Keas,Heidi,Keas,d3003d9f-1907-49d0-8c52-b90d1217877a,MATH,2.38,7
 Julie Yuhas,Julie,Yuhas,d35b648c-fdd0-4936-a5cd-653b3c6ccafa,ASCI,4,3
 Humberto Norman,Humberto,Norman,d3678087-4d79-4deb-9466-57bd55f514e7,ARCH,3.63,18
 Michael Bordbar,Michael,Bordbar,d3725081-3f53-4823-b2d9-4551418ba729,CHEM,3,6
-Lisa Anderson,Lisa,Anderson,d374fb10-5e2a-4363-9ee3-991f7280eeed,BUS,3.38,13
+Lisa Anderson,Lisa,Anderson,d374fb10-5e2a-4363-9ee3-991f7280eeed,BUS,3.42,14
 Nishanta Rajakaruna,Nishanta,Rajakaruna,d38d3f0e-43ad-4719-bccd-2bb5629ee19a,BIO,1.75,4
 Jacob Odisho,Jacob,Odisho,d3bd93d4-5180-4843-9e5d-f0337618fc71,IME,3,1
 Elisabeth Deswart,Elisabeth,Deswart,d3cf264d-e7cb-48ec-a66d-40eef389da6c,FSN,2,1
@@ -2022,7 +2022,7 @@ Richard Thompson,Richard,Thompson,d6ccda0b-274c-44e7-8636-7dec23d7a7d0,NR,2.67,9
 Amro El Badawy,Amro,El Badawy,d6f61c56-f2bc-4e76-ab63-04b9654c1e01,CE,3.87,24
 Michael Latner,Michael,Latner,d7170b26-5836-4362-8775-ce104d4e1f72,POLS,2.06,81
 Matthew Moore,Matthew,Moore,d71efbb1-dc0e-4096-aeef-7c320b480caf,POLS,3.6,49
-Patrick Frisco,Patrick,Frisco,d762cb28-8c27-4598-975e-33a2c241816e,COMS,3.45,67
+Patrick Frisco,Patrick,Frisco,d762cb28-8c27-4598-975e-33a2c241816e,COMS,3.46,68
 Solveg Cooper,Solveg,Cooper,d76ba561-6ea7-4ab5-a15f-512cdc1d666b,BUS,2.14,5
 Trisha Daughtrey,Trisha,Daughtrey,d78e9acc-7503-43d4-9ac7-4dba66ca0651,BUS,3,4
 Alex Ruys de Perez,Alex,Ruys de Perez,d7994133-e7dc-4dad-9dcd-3bab5d740610,MATH,3.4,5
@@ -2053,7 +2053,7 @@ James Daly,James,Daly,d92d972a-40a9-44cf-8f4f-3dbf31d786f7,STAT,3.34,72
 Emily Fogle,Emily,Fogle,d94334e6-8777-451c-9e9a-5d448361ef06,CHEM,1.93,70
 Hannah Steagall,Hannah,Steagall,d97da0ba-5d8d-4cd6-9968-50506cf45b29,ASCI,4,7
 Trevor Franchi,Trevor,Franchi,d99929b0-9d0e-4b5d-9b41-5eaf778849d9,IME,2,1
-Fan Yang,Fan,Yang,d9c150e7-4368-40d9-8c0d-9692a276d57d,MATH,3.46,100
+Fan Yang,Fan,Yang,d9c150e7-4368-40d9-8c0d-9692a276d57d,MATH,3.47,101
 Steve Dunton,Steve,Dunton,d9e18ac0-143d-4ba5-b933-e8ea82bb8ac4,EE,2.5,12
 Susan Snyder,Susan,Snyder,d9fd53ed-5353-4f83-9ea1-8590296a1c68,AEPS,3.6,5
 Mark Montoya,Mark,Montoya,d9ff7b62-02e3-4682-a23f-fe14276f8960,CM,4,2
@@ -2069,7 +2069,7 @@ Ali Talebi,Ali,Talebi,db2a5278-1575-443e-abcf-5d68b6e82243,BUS,1,1
 Todd Hagobian,Todd,Hagobian,db2cfcbb-9cf6-46d7-b499-7b18233b2cf8,KINE,3.26,8
 Zachary Peterson,Zachary,Peterson,db43f247-ea98-414a-aaf6-ba9c37e001e2,CSC,3.71,25
 Carol Janssen,Carol,Janssen,db529e88-c479-44ee-9acb-0cc46c902b53,BUS,3.83,47
-Soma Roy,Soma,Roy,db5a6418-d394-4bb7-bf46-3ba1947e4601,STAT,3,54
+Soma Roy,Soma,Roy,db5a6418-d394-4bb7-bf46-3ba1947e4601,STAT,3.02,55
 Lindsay Ringer,Lindsay,Ringer,dbfadfb0-193b-49ad-8921-a05366b174ca,LA,0,1
 Colleen Twomey,Colleen,Twomey,dc04e02f-bdb0-4ddb-b40d-560441e02e32,GRC,2.83,6
 Beth O'Connor,Beth,O'Connor,dc05a1b1-f61c-4bcf-af3b-f7051b21fb8c,ENGL,2.43,7
@@ -2085,7 +2085,7 @@ Ken Harris,Ken,Harris,dce2c823-7b9c-41ea-aafd-665864f5bdb2,MSL,4,1
 Jon Ossie,Jon,Ossie,dd0fee5d-b694-45f2-ab3f-177d36cfef72,BUS,4,1
 Fred OToole,Fred,OToole,dd484786-e5da-4efb-825e-17ec44c92186,PHIL,2.19,36
 Kevin Kingsbury,Kevin,Kingsbury,dd5c7718-187e-4bfd-bb07-607f3fa53bdf,CHEM,2.97,52
-Kailey Herrmann,Kailey,Herrmann,dd7e3127-4cf5-4f3a-91d9-32a17782e892,ENGL,3.78,9
+Kailey Herrmann,Kailey,Herrmann,dd7e3127-4cf5-4f3a-91d9-32a17782e892,ENGL,3.64,11
 Samantha Gill,Samantha,Gill,dd7e7ab3-10d9-4207-9d58-85d683884d2a,NR,1.9,34
 Marco Piscitelli,Marco,Piscitelli,ddad0c2a-dc08-49c4-9a0c-1e98ee52b738,ARCH,4,1
 Emily Taylor,Emily,Taylor,ddcb95eb-a897-4858-aaaa-721bbcda8ed4,BIO,3.69,53
@@ -2106,13 +2106,13 @@ Megan O'Neill,Megan,O'Neill,dfcbd3ba-82f4-4c3e-a3fd-2908fd19b746,BIO,1.23,87
 Victoria Zamora,Victoria,Zamora,dfdb64d2-7c05-4dcd-b06f-7d6989c59e2a,COMS,4,4
 Elif Erisen,Elif,Erisen,dfee1266-b8b4-42a4-84dd-ce2b0dfc3240,POLS,2,2
 Corinne Kohlen,Corinne,Kohlen,e000e290-bc3b-4b9f-be68-afbf33fb740c,FSN,3.28,16
-Sean Gasiorek,Sean,Gasiorek,e0175751-ca70-45f8-bfbe-0dc73549597a,MATH,3.78,57
+Sean Gasiorek,Sean,Gasiorek,e0175751-ca70-45f8-bfbe-0dc73549597a,MATH,3.78,58
 Montserrat Dabkowski,Montserrat,Dabkowski,e05a1368-8a4e-4f5d-9592-8e3d17092e63,MATH,3.85,35
 Saad Merayyan,Saad,Merayyan,e0719651-08a4-43bd-9701-b218f36d1976,CE,2.25,1
 William Barkhuff,William,Barkhuff,e0836645-b687-45ad-a76c-1507d87cf151,MATE,2,1
 Charles Knight,Charles,Knight,e083670f-20ff-4745-936b-c2065a026c9d,BIO,1.49,129
 James Meagher,James,Meagher,e094e787-9966-49ba-af0e-5c8cb242bc7a,ME,2.33,25
-Ednie Garrison,Ednie,Garrison,e0b41199-72e4-48f9-9e22-c8be48259cf6,WGS,1.84,18
+Ednie Garrison,Ednie,Garrison,e0b41199-72e4-48f9-9e22-c8be48259cf6,WGS,1.95,19
 Jacob Nathans,Jacob,Nathans,e0bed313-8cec-4da1-9266-f2a7f34e7a6a,ENGL,3.67,3
 Tom Steffora,Tom,Steffora,e10c0dd5-9bd9-46fe-983d-affbd67c1763,PSY,3.62,8
 Kathleen Cairns,Kathleen,Cairns,e15943da-904a-4f1f-b5dc-f4e948336835,HIST,3.5,26
@@ -2129,11 +2129,11 @@ Lyndee Sing,Lyndee,Sing,e255fada-34e3-4e50-b5b0-819d09ca6f59,GRC,4,1
 Ryan Smith,Ryan,Smith,e270ec11-3156-492b-aed9-e92b9a4ec2bb,CE,3.79,22
 Dan Hawthorne,Dan,Hawthorne,e2796c6f-828c-4549-b34a-269ce013b986,PSY,3.29,21
 Kent MacDonald,Kent,MacDonald,e297635b-0d20-4823-a0e8-ebc8a0b1757d,ARCH,3.5,11
-Meilin Huang,Meilin,Huang,e29f813c-0973-4180-80fe-8fe215ef218a,CHEM,0.2,39
+Meilin Huang,Meilin,Huang,e29f813c-0973-4180-80fe-8fe215ef218a,CHEM,0.2,41
 Chrysanthos Kyriakides,Chrysanthos,Kyriakides,e2b76866-3a37-4c8b-9f63-e509761db5eb,PHYS,1.5,41
 Sam Cordero,Sam,Cordero,e2c74948-3e3a-4127-b968-55aa8ea89162,ME,1.14,15
 John Bellardo,John,Bellardo,e2c7ccdc-53be-4aec-9de7-6db237d035e8,CSC,2.6,37
-Mark Brazier,Mark,Brazier,e2cb7660-4480-40ae-a033-d7d74ab164b3,PHYS,4,11
+Mark Brazier,Mark,Brazier,e2cb7660-4480-40ae-a033-d7d74ab164b3,PHYS,4,12
 Timothy Barnes,Timothy,Barnes,e2cbe207-050c-4685-8309-14b9bc8af61d,HIST,3.08,129
 Bethany Conway,Bethany,Conway,e2d63c8d-174c-4181-8670-11f972e17039,COMS,2,26
 Benjamin Alexander,Benjamin,Alexander,e2e6efc9-1a74-4214-a057-cc2fbf547cba,BUS,1.83,23
@@ -2207,7 +2207,7 @@ Elizabeth Lamorre,Elizabeth,Lamorre,ea7b6d2c-7de8-4dc9-87b5-89205ad43334,ES,2.71
 Brooke-Ashley Lipson,Brooke-Ashley,Lipson,ea8375f2-127e-4960-9d00-843e15416758,COMS,4,4
 Kimberly Bisheff,Kimberly,Bisheff,eaad7534-67d9-4901-985e-43e0e9deed80,JOUR,2.33,3
 Paul Rinzler,Paul,Rinzler,eaaf820d-ff5d-4235-921c-07985fd6c248,MU,2.11,72
-Jennifer Bates,Jennifer,Bates,eabf9031-e937-4902-bf65-f70318e16e22,ENGL,2.14,53
+Jennifer Bates,Jennifer,Bates,eabf9031-e937-4902-bf65-f70318e16e22,ENGL,2.14,54
 Heidi Glunz,Heidi,Glunz,eb0a751f-8347-4f4c-ab94-4010ea1691d8,BUS,4,4
 Gregory Lascola,Gregory,Lascola,eb1c5f13-f3dd-48b6-aecb-4a9a57c317fb,PHYS,2.4,3
 Thomas Eltzroth,Thomas,Eltzroth,eb32b45a-6d6e-4180-9f0f-d221a96e5238,AEPS,3.33,13
@@ -2219,7 +2219,7 @@ William McLaughlin,William,McLaughlin,ebc57495-8db3-4062-b863-1a5ef5967866,COMS,
 Alexander Otruba,Alexander,Otruba,ebcc557c-77d4-4d73-b3ba-71e40f01cfc1,POLS,2.78,35
 Scott Jeffreys,Scott,Jeffreys,ebf63308-3053-483b-918d-9837c73d31f7,AEPS,2.67,2
 David Main,David,Main,ebfab5f3-cb02-4e55-addc-46f572993b9f,BRAE,0.57,6
-Sisi Pouraghabagher,Sisi,Pouraghabagher,ec0a9d80-dcba-4f4f-8b7c-b746effc60c5,BUS,3.66,91
+Sisi Pouraghabagher,Sisi,Pouraghabagher,ec0a9d80-dcba-4f4f-8b7c-b746effc60c5,BUS,3.66,92
 iian Black,iian,Black,ec34372e-e8f1-401f-ba0c-adb2cb1b0983,BMED,3,3
 Julie Elvin,Julie,Elvin,ec8baa42-6036-425d-9fee-f0f0c6be047e,ENGL,4,7
 Dan Banfield,Dan,Banfield,ec9ac2f1-d603-4fc1-833b-72d2e5e5c58c,BUS,3.78,28
@@ -2228,7 +2228,7 @@ Trisha Anderson,Trisha,Anderson,eca8d710-6996-4a45-9924-8b5065348ef4,BUS,2.72,33
 Lea Bouhakkou,Lea,Bouhakkou,ecac450c-fe1b-4091-bf4e-8322a562c8b0,BUS,1.5,2
 Russ Lascola,Russ,Lascola,ecd98ce2-fe34-4415-a278-ea8a885960f9,PHIL,1.5,17
 Saul Goldberg,Saul,Goldberg,ecec285c-524e-4a42-a99c-36365076cb95,EE,2.5,5
-Ka Yaw Teo,Ka Yaw,Teo,ed20ddc9-60f2-4852-a509-97a410e67413,CSC,2.5,26
+Ka Yaw Teo,Ka Yaw,Teo,ed20ddc9-60f2-4852-a509-97a410e67413,CSC,2.56,27
 Joseph Pinheiro,Joseph,Pinheiro,ed341406-4808-47d2-a048-9005dcdc35ab,ME,3.58,19
 William Murray,William,Murray,ed4666c2-b1a7-4ada-963c-d70b9c2f4e1d,ME,2.88,33
 Aniruddha Dive,Aniruddha,Dive,ed54bc01-3ab7-40c7-9a55-4cedbcfcf16d,MATE,4,4
@@ -2280,7 +2280,7 @@ Kenneth Brown,Kenneth,Brown,f1b066ec-a0b0-40e2-b5e8-726df2b85b16,IME,3.17,7
 Lynne Slivovsky,Lynne,Slivovsky,f20cc7c5-e033-49cc-96b1-13f7e2846265,EE,2.01,22
 Dan Villegas,Dan,Villegas,f249fd1d-c5c5-4292-aa74-614fca5085ba,ECON,1.47,187
 Rouxi Wang,Rouxi,Wang,f24b3bdb-0465-438f-8915-a144fd914c17,CHEM,3.29,7
-Debora Schwartz,Debora,Schwartz,f25c98db-1c3b-4f46-a476-1908630c7c6a,ENGL,1.3,184
+Debora Schwartz,Debora,Schwartz,f25c98db-1c3b-4f46-a476-1908630c7c6a,ENGL,1.29,185
 Maria Subert,Maria,Subert,f2633611-976b-424a-954f-8c2649da095b,COMS,3.12,40
 Hillary Lynne,Hillary,Lynne,f267c186-db77-4eb5-a671-791250401c98,ARCE,3.4,4
 Joydeep Mukherjee,Joydeep,Mukherjee,f2a432cf-3536-4254-857a-8ca69d3f2cdb,CSC,3.63,16
@@ -2323,7 +2323,7 @@ Amelia Andrews,Amelia,Andrews,f67eb822-bea8-4df0-a390-c2cfd0905e01,POLS,2.3,9
 Sarah Bridger,Sarah,Bridger,f6a51b5d-7a85-463f-8ef7-be780a53ac76,HIST,3.17,34
 Lisa Lindert,Lisa,Lindert,f6db88c3-00f7-4ed7-9f7d-fbb568a1a7f9,CHEM,1.63,27
 Rod Hoadley,Rod,Hoadley,f6edcb4a-49ad-49c7-9ee6-10af877dfc9e,ITP,2.89,32
-John Paniagua,John,Paniagua,f74a7bac-49c8-4b7a-b3d5-fd9eda539ef2,HIST,3.42,12
+John Paniagua,John,Paniagua,f74a7bac-49c8-4b7a-b3d5-fd9eda539ef2,HIST,3.46,13
 Debbie Beckett,Debbie,Beckett,f754c28c-de85-43e2-b3cc-941e866ff76c,ASCI,3.5,2
 Thomas Bell,Thomas,Bell,f756822e-758d-4b77-8c2a-9d11d10ebcad,CPE,1.25,19
 Shawn Burn,Shawn,Burn,f77ad898-eebf-43cb-af51-c07bee1ad448,PSY,3.58,72
@@ -2332,7 +2332,7 @@ Vivian Norton,Vivian,Norton,f79d0409-77d1-48fc-aaf5-ef76dce3257a,MATH,2.13,6
 Jennifer Klay,Jennifer,Klay,f79e4f1b-339f-43a2-bc22-551b23d2e1ac,PHYS,1.78,29
 Stacey White,Stacey,White,f7a8d5a9-8706-4587-8c84-20f547b88e59,AGB,4,10
 Paul Schmitt,Paul,Schmitt,f7cc86b6-540a-44ae-a5b6-a8863418fa0e,CSC,4,3
-Ryan Tully-Doyle,Ryan,Tully-Doyle,f7ea63da-9097-4396-8e5f-2b8c67ede3a2,MATH,4,40
+Ryan Tully-Doyle,Ryan,Tully-Doyle,f7ea63da-9097-4396-8e5f-2b8c67ede3a2,MATH,4,41
 Thomas Hughes,Thomas,Hughes,f7f020d1-dfa0-4be0-ab13-c22fa529d68c,MATH,0.75,3
 Stamatina Kotsakou,Stamatina,Kotsakou,f7f66e1e-39ff-48f6-bf99-343ffdd537a8,AGB,1.62,18
 Ramon Montez,Ramon,Montez,f801dd60-8a6e-4d3f-8e0f-d52f61088ebc,MSL,3,2
@@ -2368,7 +2368,7 @@ Taha Dawoodbhoy,Taha,Dawoodbhoy,fa5e3e0c-7aa5-47d2-bfe6-7e7dce6ea610,PHYS,3.52,3
 Michael Parolini,Michael,Parolini,fa643fe9-d35e-4ec9-b154-2a0bb20a7a9f,ARCE,3.25,2
 Lynn Metcalf,Lynn,Metcalf,fa68cdaa-c023-4ccb-a636-4adadc01c21f,BUS,2.36,32
 Bella Padavana,Bella,Padavana,fa6f1feb-355b-4d32-903c-5d229b3142a5,MATH,3.32,18
-Erik Loken,Erik,Loken,fa732a7c-5fca-483e-9621-7cd7008f6941,BUS,4,13
+Erik Loken,Erik,Loken,fa732a7c-5fca-483e-9621-7cd7008f6941,BUS,4,14
 Lizzie Lamoree,Lizzie,Lamoree,faa1bbc4-269b-4ea5-bf98-17df2a34040c,ES,3.54,13
 Michael Wilson,Michael,Wilson,fab98276-5984-4b8e-a6ff-9e1345c23c07,EE,3,5
 Derik Frantz,Derik,Frantz,fad6697d-139a-422c-b547-c87053c26b26,CHEM,3.66,45
@@ -2394,7 +2394,7 @@ Larisa Veloz,Larisa,Veloz,fcaedfcd-e9f6-4c80-9fce-9804fd312adf,HIST,3.43,7
 Beena Khurana,Beena,Khurana,fcaf22b2-0250-46b3-b97a-b351236ff5f5,BUS,3.17,5
 Nicholas Soares,Nicholas,Soares,fcd2159b-1fa8-4322-989b-bfc66dc7bba0,BIO,4,2
 Ronald Mussulman,Ronald,Mussulman,fceac681-db7b-4051-afc3-601abc8b229a,ME,0,0
-Mary Gibbs,Mary,Gibbs,fd0b38de-1183-4c27-ab5d-2a9e00159092,BUS,3,4
+Mary Gibbs,Mary,Gibbs,fd0b38de-1183-4c27-ab5d-2a9e00159092,BUS,3,5
 Karen Ellis,Karen,Ellis,fd200efd-a751-4945-957b-ff7a11a88803,MATH,0.75,2
 Christopher Appel,Christopher,Appel,fd39db49-0246-4d3e-a5b7-d1631229307d,SS,3.67,68
 Beth Meyer,Beth,Meyer,fd4ddaf5-0de5-4dd0-a992-b1969ef4a7aa,ENGL,3,13
@@ -2420,7 +2420,7 @@ Bradley Hutchinson,Bradley,Hutchinson,ff07da6e-b997-44cf-9ecc-ea361361e6b2,EE,3,
 Susan Bowerman,Susan,Bowerman,ff3ca29b-b39b-4d71-b5e3-5842283d67dd,FSN,2,1
 Sadie Martin,Sadie,Martin,ff3f1798-609a-47e9-91be-fa8156804df1,ENGL,3.61,14
 Erik Slayter,Erik,Slayter,ff474b8d-77f3-426b-ae8c-0766c332656a,BUS,3.67,73
-Emily Neal,Emily,Neal,ff913892-2f9b-49df-9335-2e1da565f492,BIO,2.07,73
+Emily Neal,Emily,Neal,ff913892-2f9b-49df-9335-2e1da565f492,BIO,2.07,74
 Matthew Glavan,Matthew,Glavan,ff9c4871-dacd-49a5-8cf2-65dd8b52d202,MATH,2.64,10
 Rebecca Jansen,Rebecca,Jansen,ffa116e5-61ad-412b-9282-d379e4065f3b,CE,1.26,2
 Cole Saucier,Cole,Saucier,ffa1ee89-8770-427e-a995-df27d943c7a2,AERO,2,5
