@@ -280,7 +280,7 @@ Earl Keller,Earl,Keller,19f0e319-a830-49b9-85e4-5aca2d44bb86,BUS,2.78,72
 Ziemowit Bednarek,Ziemowit,Bednarek,19f36a36-669d-4c41-abfb-abdeccf68ae6,BUS,2.02,48
 Stephen Beard,Stephen,Beard,1a048bb0-ab1e-4a0a-a7e8-1b1316bf16ff,CPE,4,13
 Dan Carney,Dan,Carney,1a0de56e-efa2-43e4-b5e0-67af886f2a6c,ARCE,4,1
-Amir Hajrasouliha,Amir,Hajrasouliha,1a71c4de-f9ad-40c0-a2aa-78433e23580d,CRP,2.33,3
+Amir Hajrasouliha,Amir,Hajrasouliha,1a71c4de-f9ad-40c0-a2aa-78433e23580d,CRP,1.75,4
 Brad Applin,Brad,Applin,1a85e02c-557c-421b-94f6-80b53affbf5f,IME,4,3
 Gary Epstein,Gary,Epstein,1a89a391-3dc2-4d41-8a3d-e01ed8cd3432,MATH,1.67,54
 Mahmood Nahvi,Mahmood,Nahvi,1a8ca89b-1a79-4493-a0dc-d79f2c18c36e,EE,1.69,47
@@ -329,7 +329,7 @@ Lubaba Alim,Lubaba,Alim,1f54990a-8c8f-4f6b-973a-0197e5eab9e9,STAT,2.92,27
 Ian Johnson,Ian,Johnson,1f5fcf9c-26dd-4df7-851c-676208cf59f3,AERO,2.29,6
 Kevin Dong,Kevin,Dong,1f6fb852-b4d4-4d33-961b-7afa3cdb1256,ARCE,3,9
 Abe Lynn,Abe,Lynn,1f9f0c5d-4fcb-4112-8a98-da2ed562b629,ARCE,3.65,17
-Dina Vees,Dina,Vees,1fa9ae7b-7f14-4459-8fd5-2f679ccfc3e8,GRC,0.67,37
+Dina Vees,Dina,Vees,1fa9ae7b-7f14-4459-8fd5-2f679ccfc3e8,GRC,0.73,38
 Candace Winstead,Candace,Winstead,1fa9bf45-9bc7-481a-8eea-086cb3453318,BIO,2.38,24
 Steve Rein,Steve,Rein,20163407-f9cf-4d2c-805c-cf3772366f97,STAT,2.21,98
 Javier Medina,Javier,Medina,2034d30d-af7c-4bd1-b74e-d26fff04595b,ECON,3.91,31
@@ -1178,7 +1178,7 @@ Roric Christian Martens Biersach,Roric Christian,Martens Biersach,77355efd-cfb8-
 Cesar Bustamante,Cesar,Bustamante,776074ab-6257-481c-9a45-7cec968039de,LA,2.72,5
 Shien-yi Meng,Shien-yi,Meng,77650a20-f201-43fe-a6af-84d3b396407a,EE,1.21,12
 Patrick Lin,Patrick,Lin,7767e174-64d9-4083-a704-0f6dc0115f29,PHIL,3.39,17
-Bekir Keskin,Bekir,Keskin,7767f768-5fc5-4a86-93db-d608f2ebe9e9,GRC,3.5,2
+Bekir Keskin,Bekir,Keskin,7767f768-5fc5-4a86-93db-d608f2ebe9e9,GRC,3.67,3
 Sussan Einakian,Sussan,Einakian,777000c8-22f7-4113-b50d-3506b49e6d78,CSC,1.77,118
 Wendy Daly,Wendy,Daly,7794a3b9-2746-4fc2-aec5-000d759b1e49,ENGL,0.53,15
 Kevin Clancy,Kevin,Clancy,779f3d01-469c-4a40-bfcf-3c0e16414f28,STAT,3.35,37
@@ -1511,7 +1511,7 @@ Vicki May,Vicki,May,9a928dd7-90b3-4ad5-9fd7-af2fb63797bf,ARCE,3,3
 Staci Pearson,Staci,Pearson,9a94e4f6-59c1-4e36-a1ee-dc27e57e6423,MATH,1.83,5
 Emily Hamilton,Emily,Hamilton,9abf2ea1-2592-4127-b063-d4895e2c1afe,MATH,3.6,51
 Isinsu Toker,Isinsu,Toker,9ada0ff3-fd33-4a92-92b3-59731e511d73,PHYS,3.33,6
-Peter Livingston,Peter,Livingston,9af87a46-95b3-4d8e-afd1-a5ba2fd178a9,BRAE,2,1
+Peter Livingston,Peter,Livingston,9af87a46-95b3-4d8e-afd1-a5ba2fd178a9,BRAE,3,2
 Lindsey Ross,Lindsey,Ross,9afbf9cc-a1e8-4389-b850-6b06c087070b,FSN,2.8,5
 Mohamed Awwad,Mohamed,Awwad,9b13a7c2-22ae-4dc6-a3d6-b98a11552490,IME,4,2
 Shohreh Niku,Shohreh,Niku,9b341731-7a00-4838-adce-9c8e0b631897,FSN,3.5,4
@@ -1770,7 +1770,7 @@ Gustavo Lascano,Gustavo,Lascano,b74bb8f8-15a8-4ee6-8c3d-926fe9e45e33,DSCI,1,5
 Charles Hagen,Charles,Hagen,b784fb1f-b86e-4213-8e5b-8cc15fa803aa,PHIL,3.22,71
 Debora Valencia-Laver,Debora,Valencia-Laver,b7d3b66b-1fde-4d9f-8ada-8cb1ec26ec00,PSY,4,12
 Megan Kornbluth,Megan,Kornbluth,b7dcbd94-719c-4bcf-aebf-71087efce67b,BIO,2,3
-Christopher Valdez,Christopher,Valdez,b7e29e4c-fc06-420f-af0e-d67fbd90a466,MATH,2.6,5
+Christopher Valdez,Christopher,Valdez,b7e29e4c-fc06-420f-af0e-d67fbd90a466,MATH,2.83,6
 Erin Zamora,Erin,Zamora,b806b5c2-5601-43bc-b8b2-659689fb967d,COMS,4,21
 Dianne DeTurris,Dianne,DeTurris,b80b1a21-c8b8-400f-8070-d58689d8a8a1,AERO,2.05,32
 Todd Pierce,Todd,Pierce,b823d69f-8e41-409e-91e0-e9c4a2098377,ENGL,3.08,50
@@ -1991,7 +1991,7 @@ Fabian Quintero,Fabian,Quintero,d28176c4-0c46-4310-b445-4d238d0dcf27,UNIV,4,1
 Alicia Moretti,Alicia,Moretti,d28e51ab-2559-423d-bebc-e6cca1465dcf,ENGL,3.27,26
 Allison Ellis,Allison,Ellis,d299f3b0-23f8-4f8d-a1b9-513c3f345e12,BUS,3.5,2
 Hannah Dutta,Hannah,Dutta,d2d333bb-215c-49f3-8436-610ff0d91745,BIO,4,3
-Hocheol Yang,Hocheol,Yang,d2d7b181-949b-4af5-9801-9e3a0d9b16dd,GRC,2,1
+Hocheol Yang,Hocheol,Yang,d2d7b181-949b-4af5-9801-9e3a0d9b16dd,GRC,3,2
 Maria Junco,Maria,Junco,d2ecfd48-bba6-408e-afc9-e928d7981b79,TH,1.71,19
 Tatiana Kuriabova,Tatiana,Kuriabova,d2f1154d-fdb9-4312-b462-4d9e3d371d90,PHYS,2.21,33
 Heidi Keas,Heidi,Keas,d3003d9f-1907-49d0-8c52-b90d1217877a,MATH,2.38,7
