@@ -382,7 +382,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 25cc92c7-1c61-423c-9533-684ea87dc713,Belinda,Morrill,Belinda Morrill,PSY,77,3.46,3.46,3.41,PSY 102; PSY 201; PSY 202; PSY 256; PSY 305; PSY 318; PSY 329; PSY 333; PSY 340; PSY 450,,10,0
 25d1f21b-9b0c-4b24-99fc-78ec923f1c79,Don,Rawlings,Don Rawlings,MATH,87,3.12,3.16,2.91,MATH 141; MATH 142; MATH 143; MATH 206; MATH 241; MATH 242; MATH 244; MATH 318; MATH 335; MATH 336; MATH 341; MATH 481,,12,0
 25e5ea32-c116-429f-a55d-07a7b1be0e92,Leticia,Ericson,Leticia Ericson,ENGL,3,2.67,3,3,ENGL 134,,1,0
-26178397-77b3-4f1c-a007-ec5bf80fc79a,Ronald,Den Otter,Ronald Den Otter,POLS,48,3.8,3.94,3.8,POLS 112; POLS 245; POLS 334; POLS 341; POLS 343; POLS 344; POLS 342; POLS 470,,8,0
+26178397-77b3-4f1c-a007-ec5bf80fc79a,Ronald,Den Otter,Ronald Den Otter,POLS,48,3.8,3.94,3.8,POLS 112; POLS 245; POLS 334; POLS 341; POLS 343; POLS 344; POLS 342; POLS 470,High In-Person Availability:13; Flexible Deadline Policy:3; Supplemental Study Material:1; Fast Response Time:11; Does Not Use Canvas:3; Flexible Attendance Policy:3; Honor DRC Accommodations:4; Flexible Grading Policy:1,8,8
 26451072-1d94-4327-b9b0-f6413f3f5e52,Daeun,Lee,Daeun Lee,BUS,17,2.88,2.71,2.76,BUS 321; BUS 214,Flexible Attendance Policy:3; Inflexible Grading Policy:2; Uploads Slides:6; Inflexible Deadline Policy:1; Fast Response Time:3; High In-Person Availability:2; Honor DRC Accommodations:1; Supplemental Study Material:3; Flexible Grading Policy:1,2,9
 26555ddb-47ad-4287-8563-f5d615df76dd,Lukas,Dakhlia,Lukas Dakhlia,MATH,22,4,4,3.91,MATH 118; MATH 161; MATH 162; MATH 141; MATH 221; MATH 112,High In-Person Availability:7; Fast Response Time:9; Flexible Attendance Policy:7; Flexible Deadline Policy:1; Flexible Grading Policy:2; Honor DRC Accommodations:2,6,6
 2658aaf4-6d48-405c-a9c1-7042fd5b2d2c,Jianbiao,Pan,Jianbiao Pan,IME,37,2.4,2.28,2.1,IME 156; IME 157; IME 305; IME 314; IME 326; IME 335; IME 430; IME 458; IME 507; IME 541,Flexible Deadline Policy:1; Flexible Grading Policy:1; Uploads Slides:1,10,3
@@ -779,7 +779,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 4f9b4506-4603-4b30-a344-c210bf38966d,Milena,Ramirez,Milena Ramirez,FSN,1,3,3,2,FSN,Flexible Attendance Policy:1; Uploads Slides:1,1,2
 4fa5bf6c-1979-4149-bee7-41c0144a4a46,Duane,Morris,Duane Morris,AEPS,1,2,2.5,3,EHS 232,,1,0
 4fab7fdd-0daa-4b84-a0b6-a35e31b33338,Bryan,Mealy,Bryan Mealy,CPE,106,3.47,3.4,3.47,CPE 129; CPE 133; CPE 169; CPE 219; CPE 229; CPE 233; CPE 259; CPE 269; CPE 327; CPE 329; CPE 336; CPE 432; CPE 439; EE 464; CPE 450,Recorded Lectures:9; Hybrid Option:2; Flexible Attendance Policy:3; Uploads Slides:5; Flexible Deadline Policy:1; Supplemental Study Material:3; Zoom Office Hours:4; Fast Response Time:6; High In-Person Availability:4; No Breaks During Lecture:1,15,10
-4faf9c65-5878-4205-8912-4988dc6a09dc,Alexia,Arani,Alexia Arani,WGS,9,2.78,3.34,3.11,WGS 301; WGS 201,Fast Response Time:2; Flexible Deadline Policy:1; Flexible Attendance Policy:2; Flexible Grading Policy:1; Uploads Slides:2; Supplemental Study Material:1; Zoom Office Hours:1; Inflexible Grading Policy:2,2,8
+4faf9c65-5878-4205-8912-4988dc6a09dc,Alexia,Arani,Alexia Arani,WGS,10,2.5,3.01,2.8,WGS 301; WGS 201,Fast Response Time:2; Flexible Deadline Policy:1; Flexible Attendance Policy:2; Flexible Grading Policy:1; Uploads Slides:2; Supplemental Study Material:1; Zoom Office Hours:1; Inflexible Grading Policy:2,2,8
 4fb781b6-7c63-41d8-a1c9-2ea300eb98b1,Peggy,Rice,Peggy Rice,CHEM,57,3.24,3.28,3.14,CHEM 111; CHEM 124; CHEM 127; CHEM 313; CHEM 327; CHEM 371; CHEM 372; CHEM 374; CHEM 472; CHEM 528,,10,0
 4ff24d53-a37e-4ecf-821b-a34c1bce63d2,Kirk,Sturm,Kirk Sturm,AGED,7,3.57,3.43,3.71,REC 205; REC 245; REC 324; REC 342; REC 350; JOUR 412,,6,0
 4ff4df6e-13b2-42d7-a12b-f1d62f629e96,Charles,Chadwell,Charles Chadwell,CE,34,2.97,3.11,2.78,CE 205; CE 207; CE 351; CE 355; CE 400; CE 452; CE 455; CE 552,,8,0
@@ -869,7 +869,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 5861dd6e-0ad2-487f-a06e-01681853c2d1,John,Harrington,John Harrington,ENGL,5,2,2.6,1.6,ENGL 372,,1,0
 589d2759-0e80-4e10-8321-3482b3f21826,Brad,Campbell,Brad Campbell,ENGL,57,3.72,3.76,3.71,ENGL 203; ENGL 204; ENGL 240; ENGL 242; ENGL 305; ENGL 310; ENGL 340; ENGL 347; ENGL 449; ENGL 202,Fast Response Time:2; Uploads Slides:4; Pop Quizzes:6; Does Not Use Canvas:1; Inflexible Grading Policy:1; No Breaks During Lecture:2; Flexible Attendance Policy:3,10,7
 58a346b7-3147-4bdf-b8af-846d4341243f,Zach,McFarlane,Zach McFarlane,ASCI,10,3.5,3.69,3.69,AEPS 221; ASCI 112; ASCI 221; ASCI 360,Uploads Slides:4; Supplemental Study Material:1; Flexible Deadline Policy:1; Pop Quizzes:1,4,4
-58b632ff-b167-4155-9500-6d54ceb169aa,Maren,Hufton,Maren Hufton,BUS,2,3,4,4,BUS 404,,1,0
+58b632ff-b167-4155-9500-6d54ceb169aa,Maren,Hufton,Maren Hufton,BUS,2,3,4,4,BUS 404,Flexible Attendance Policy:1; Supplemental Study Material:1; Uploads Slides:2,1,3
 58be5600-2ea1-4a61-974d-1c5d156bdf47,Mira,Rosenthal,Mira Rosenthal,ENGL,1,4,4,4,ENGL,Recorded Lectures:1; Fast Response Time:1,1,2
 58d70b62-cfbc-4873-b3d8-d3a7df0ec2ce,Marshall,Ford,Marshall Ford,ARCH,2,4,4,3.5,ARCH 133; ARCH 251,High In-Person Availability:2; Fast Response Time:2; Uploads Slides:1,2,3
 58e20dec-dd3a-4ec3-baaa-ba3efeeb94ad,Reza,Eslami,Reza Eslami,CE,6,3.5,2.67,3.5,CE 207; CE 208; CE 259; CE 356,Hybrid Option:1; Uploads Slides:3; No Breaks During Lecture:1; Pop Quizzes:1,4,4
@@ -1053,7 +1053,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 6a5b72db-84a9-4537-a943-b9cf1cd10954,John,Hagen,John Hagen,CHEM,73,2.29,2.08,2.23,CHEM 124; CHEM 125; CHEM 127; CHEM 128; CHEM 129; CHEM 305; CHEM 351; CHEM 352; CHEM 353; CHEM 354; CHEM 446,,11,0
 6a5fbbf7-433c-4b68-869b-ab44131166cd,Muhammad,Khan,Muhammad Khan,ME,1,1,4,4,ME 343,,1,0
 6a6bce9a-1552-4c55-8051-06daa1e8a684,Emily,Resner,Emily Resner,BIO,1,4,4,4,BIO 232,,1,0
-6a83003e-b8ed-4c8f-9632-20a93b5aedd2,Melinda,Keller,Melinda Keller,CE,182,1.78,1.97,1.71,CE 204; CE 211; ME 211; ME 212; CE 302; ME 302; ME 303; AERO 304; ME 318; ME 341; AERO 540; ME 448,,12,0
+6a83003e-b8ed-4c8f-9632-20a93b5aedd2,Melinda,Keller,Melinda Keller,CE,182,1.78,1.97,1.71,CE 204; CE 211; ME 211; ME 212; CE 302; ME 302; ME 303; AERO 304; ME 318; ME 341; AERO 540; ME 448,Flexible Attendance Policy:2; Flexible Deadline Policy:1; Class Handouts:5; Uploads Slides:2; No Breaks During Lecture:2; Inflexible Deadline Policy:4; Inflexible Grading Policy:8; Does Not Use Canvas:7; Pop Quizzes:5; Flexible Grading Policy:1; High In-Person Availability:7; Fast Response Time:6; Supplemental Study Material:2; Honor DRC Accommodations:1; Inflexible Attendance Policy:2; Recorded Lectures:1,12,16
 6a863eeb-06b0-47e8-ac7a-da76b457ac36,Elena,Levine,Elena Levine,BIO,45,3.31,3.33,3.31,BIO 111; MU 120; BIO 151; BIO 161; BIO 300; BIO 351; BIO 423; BIO 451; BIO 452; BIO 453; BIO 501; BIO 570,,12,0
 6a89ff46-f2c4-44c7-ba31-e053d7d63fd3,Thomas,Carpenter,Thomas Carpenter,ME,9,0.73,0.64,0.55,ME 302; ME 341; ME 541,,3,0
 6a8c5091-f5c2-4014-b1c5-ba7d53b860f4,Matt,Mewes,Matt Mewes,PHYS,23,2.98,3.12,2.48,PHYS 123; PHYS 132; PHYS 133; PHYS 141; PHYS 318; PHYS 143,Flexible Attendance Policy:1; Inflexible Deadline Policy:1; No Breaks During Lecture:1,6,3
@@ -1452,7 +1452,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 94549e5e-ad62-4305-81c9-72559c50ea2a,Thomas,Fowler,Thomas Fowler,ARCH,14,3.33,3.17,3,ARCH 351; ARCH 352; ARCH 353,,3,0
 9464fe34-82f7-458a-8ee7-280b5a33fb52,Michael,Haungs,Michael Haungs,CSC,39,3.18,3.07,3.03,CPE 101; CSC 101; CPE 123; CSC 123; CSC 171; CPE 453; CSC 453; CSC 543; CSC 371,Inflexible Attendance Policy:1; Inflexible Deadline Policy:1; Supplemental Study Material:1,9,3
 946dd21e-9535-4e3b-b386-6776c2d838d5,Brooke,Muller,Brooke Muller,ARCH,7,3.38,3.5,3.63,ARCH 106; ARCH 251; ARCH 252; ARCH 253,,4,0
-94803593-5bb7-4778-a758-a554481f6281,Anu,Aggarwal,Anu Aggarwal,EE,37,2.17,2.47,2.76,EE 251; EE 307; EE 347,,3,0
+94803593-5bb7-4778-a758-a554481f6281,Anu,Aggarwal,Anu Aggarwal,EE,37,2.17,2.47,2.76,EE 251; EE 307; EE 347,Does Not Use Canvas:2; Inflexible Attendance Policy:7; Recorded Lectures:5; Uploads Slides:4; Honor DRC Accommodations:1; Flexible Attendance Policy:1; Inflexible Grading Policy:1; Inflexible Deadline Policy:2; Flexible Grading Policy:1; Class Handouts:1,3,10
 9489efa3-b99d-46ee-8c6e-4450bc5744f2,Sarah,Gravem,Sarah Gravem,BIO,9,3.45,3.45,3.56,BIO 150; MSCI 300,Recorded Lectures:5; High In-Person Availability:5; Uploads Slides:5; Fast Response Time:2; Honor DRC Accommodations:2; Class Handouts:1; Supplemental Study Material:1,2,7
 94aeaa18-8585-42ec-95ea-1f718f22a5b9,Alicia,Gauch,Alicia Gauch,POLS,2,2,1.67,2.33,POLS 308; POLS 324,,2,0
 94b8e8f7-cd3a-461a-9d83-2b503a3d9cb1,Garland,Durham,Garland Durham,BUS,9,2.7,2.3,2.8,BUS 438; BUS 464,,2,0
