@@ -1452,7 +1452,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 94549e5e-ad62-4305-81c9-72559c50ea2a,Thomas,Fowler,Thomas Fowler,ARCH,14,3.33,3.17,3,ARCH 351; ARCH 352; ARCH 353,,3,0
 9464fe34-82f7-458a-8ee7-280b5a33fb52,Michael,Haungs,Michael Haungs,CSC,39,3.18,3.07,3.03,CPE 101; CSC 101; CPE 123; CSC 123; CSC 171; CPE 453; CSC 453; CSC 543; CSC 371,Inflexible Attendance Policy:1; Inflexible Deadline Policy:1; Supplemental Study Material:1,9,3
 946dd21e-9535-4e3b-b386-6776c2d838d5,Brooke,Muller,Brooke Muller,ARCH,7,3.38,3.5,3.63,ARCH 106; ARCH 251; ARCH 252; ARCH 253,,4,0
-94803593-5bb7-4778-a758-a554481f6281,Anu,Aggarwal,Anu Aggarwal,EE,37,2.17,2.47,2.76,EE 251; EE 307; EE 347,Does Not Use Canvas:2; Inflexible Attendance Policy:7; Recorded Lectures:5; Uploads Slides:4; Honor DRC Accommodations:1; Flexible Attendance Policy:1; Inflexible Grading Policy:1; Inflexible Deadline Policy:2; Flexible Grading Policy:1; Class Handouts:1,3,10
+94803593-5bb7-4778-a758-a554481f6281,Anu,Aggarwal,Anu Aggarwal,EE,38,2.11,2.41,2.69,EE 251; EE 307; EE 347,,3,0
 9489efa3-b99d-46ee-8c6e-4450bc5744f2,Sarah,Gravem,Sarah Gravem,BIO,9,3.45,3.45,3.56,BIO 150; MSCI 300,Recorded Lectures:5; High In-Person Availability:5; Uploads Slides:5; Fast Response Time:2; Honor DRC Accommodations:2; Class Handouts:1; Supplemental Study Material:1,2,7
 94aeaa18-8585-42ec-95ea-1f718f22a5b9,Alicia,Gauch,Alicia Gauch,POLS,2,2,1.67,2.33,POLS 308; POLS 324,,2,0
 94b8e8f7-cd3a-461a-9d83-2b503a3d9cb1,Garland,Durham,Garland Durham,BUS,9,2.7,2.3,2.8,BUS 438; BUS 464,,2,0
