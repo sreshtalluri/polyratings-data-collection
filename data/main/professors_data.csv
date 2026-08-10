@@ -1483,7 +1483,7 @@ id,firstName,lastName,fullName,department,numEvals,overallRating,materialClear,s
 972a7369-c470-46b7-94dd-d15872c51688,Yang,Liu,Yang Liu,BUS,5,3,3,3,BUS 342,,1,0
 9748836f-522e-405e-b12d-9abab526708e,Martin,Lang,Martin Lang,MATH,6,1,0,0,MATH 116; MATH 142; MATH 143,,3,0
 97552c91-37c2-4368-be0b-ba5c67aa0788,Rafael,Silva,Rafael Silva,ITP,2,2,2,3,ITP 260; ITP 390,Flexible Attendance Policy:2; Supplemental Study Material:1; Uploads Slides:1,2,3
-975ae5ae-66f6-4238-b431-bf0068ff2fad,Theresa,Migler,Theresa Migler,MATH,46,3.28,3.35,3.25,MATH 117; MATH 118; MATH 119; MATH 141; MATH 221; CPE 349; CSC 349; CPE 101; CSC 101; CSC 103; CPE 348; CSC 348; CSC 549; CSC 248,,14,0
+975ae5ae-66f6-4238-b431-bf0068ff2fad,Theresa,Migler,Theresa Migler,MATH,46,3.28,3.35,3.25,MATH 117; MATH 118; MATH 119; MATH 141; MATH 221; CPE 349; CSC 349; CPE 101; CSC 101; CSC 103; CPE 348; CSC 348; CSC 549; CSC 248,Honor DRC Accommodations:1; Uploads Slides:4; Recorded Lectures:1; High In-Person Availability:3; Flexible Grading Policy:1; Zoom Office Hours:1; Fast Response Time:2; Supplemental Study Material:3; Flexible Attendance Policy:2,14,9
 975de054-ac61-4b4c-92c4-7eb37c14c858,Cheyne,Kight,Cheyne Kight,ARCE,1,0,1,1,ARCE,Inflexible Grading Policy:1,1,1
 97788eff-9143-4359-8db8-70a640256c55,Dylan,Johnson,Dylan Johnson,MU,3,4,3.67,4,MU 221,Fast Response Time:2; Uploads Slides:2; Flexible Attendance Policy:1,1,3
 97991e5e-2c7f-4a2b-b3c2-8e0a0fa8ee94,Mohamed Ait,Nouh,Mohamed Ait Nouh,MATH,2,0.5,0.5,0.5,MATH 244; MATH 141,,2,0
@@ -2020,7 +2020,7 @@ d507b36c-cf24-4fa6-b06e-2df28d586086,Doug,Aversano,Doug Aversano,NR,10,3.55,3.55
 d5123a85-c0e9-49dd-9e9b-f4d42db24106,Laura,Moore,Laura Moore,ARCH,8,3.34,2.55,2.75,ARCH 131; ARCH 132,High In-Person Availability:1; Flexible Attendance Policy:1; Flexible Deadline Policy:1,2,3
 d52510ac-2130-4a08-9a13-844bcf5f6823,Ronald,Zammit,Ronald Zammit,PHYS,66,2.92,2.77,2.92,PHYS 121; PHYS 131; PHYS 133; PHYS 206; PHYS 256; PHYS 357,,6,0
 d54f27d7-2fd3-4f50-8521-540ea8173395,Jason,Kaltenbach,Jason Kaltenbach,ITP,1,2.5,2,2,IT 350,,1,0
-d55eeff3-e320-480f-89ab-fddcd6fac414,Devin,Kuhn,Devin Kuhn,PHIL,35,2.5,2.61,2.39,RELS 201; WS 301; WGS 340; RELS 370; WGS 370; WS 370; RELS 374; RELS 378,,8,0
+d55eeff3-e320-480f-89ab-fddcd6fac414,Devin,Kuhn,Devin Kuhn,PHIL,35,2.5,2.61,2.39,RELS 201; WS 301; WGS 340; RELS 370; WGS 370; WS 370; RELS 374; RELS 378,Zoom Office Hours:1; Honor DRC Accommodations:1; Uploads Slides:3; Fast Response Time:1; Supplemental Study Material:1; Flexible Grading Policy:1,8,6
 d568a6e6-88fd-4fb2-b161-8300cfdf2b58,Beth,O'Connor,Beth O'Connor,ENGL,12,2.5,3.59,3.17,ENGL 134; ENGL 145,Inflexible Attendance Policy:7; Class Handouts:4; Honor DRC Accommodations:1; Inflexible Deadline Policy:3; Fast Response Time:4; Zoom Office Hours:3; High In-Person Availability:3; Flexible Deadline Policy:1; Inflexible Grading Policy:2; Flexible Grading Policy:1; Flexible Attendance Policy:2,2,11
 d5789a88-3968-4f22-8a4a-0aa55d1b4a24,Eric,Espinoza-Wade,Eric Espinoza-Wade,ME,3,4,4,4,ME 322; ME 305,High In-Person Availability:1; Fast Response Time:2; Flexible Attendance Policy:1; Flexible Grading Policy:1; Uploads Slides:1,2,5
 d5a1a1b7-e9a7-4a71-8b26-5d2ad486b415,Melinda,Keller,Melinda Keller,ME,1,4,4,4,ME,Fast Response Time:1; Class Handouts:1; Honor DRC Accommodations:1,1,3
