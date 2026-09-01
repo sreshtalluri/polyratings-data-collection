@@ -314,7 +314,7 @@ Michael Jones,Michael,Jones,1d8b12f6-2dbc-4123-ac71-ff8b13c23f1d,BIO,3.75,12
 Benjamin Shlaer,Benjamin,Shlaer,1dab4b1a-71d5-404f-82bc-e96df0519a4b,PHYS,2.08,13
 Marni Goldenberg,Marni,Goldenberg,1dc9c04b-d8c1-499d-8213-afb49e89f56e,NR,1.63,28
 Russel Westphal,Russel,Westphal,1de2b19e-427c-4e00-9fed-76ff0eb20b9e,ME,3.93,22
-Sara Daubert,Sara,Daubert,1e067e7f-5926-4120-9863-932f7f1ad870,BUS,2.14,131
+Sara Daubert,Sara,Daubert,1e067e7f-5926-4120-9863-932f7f1ad870,BUS,2.13,132
 Daniel Scheitrum,Daniel,Scheitrum,1e1cecbc-0feb-4bce-a6ad-2ab182787b66,AGB,4,4
 Richard Troy Hart,Richard Troy,Hart,1e1f1b79-7bb4-4b5c-9865-76ae1ab38ea0,CM,3.2,3
 Nicole Hagobian,Nicole,Hagobian,1e29c4e5-8818-43dd-a5d1-0e69ad25cd29,KINE,2.63,23
@@ -900,7 +900,7 @@ Jenell Navarro,Jenell,Navarro,5b700494-6e9b-44b9-9020-b345b36310fc,ES,3.7,40
 Tom Frawley,Tom,Frawley,5b827029-e5fd-45de-9cff-8b27c2c41ec1,AGB,3.56,46
 Franklin Abshire,Franklin,Abshire,5b945665-7054-4dd6-aa17-ddb4b583ea9c,MATH,2.33,3
 John Thompson,John,Thompson,5bac952d-6482-4298-936e-9af1a058afe2,FR,3.59,30
-Ashley Clemons,Ashley,Clemons,5bb0c791-d425-44ba-83f2-f103dae2e9f3,ENGL,0.24,26
+Ashley Clemons,Ashley,Clemons,5bb0c791-d425-44ba-83f2-f103dae2e9f3,ENGL,0.23,27
 Jack Wroldsen,Jack,Wroldsen,5bb0d371-a4bb-4b7b-85e9-411e09dc2706,BUS,4,5
 Karla Carichner,Karla,Carichner,5bbc7200-9a5f-449b-99eb-578674732ade,BMED,3.44,9
 Adnan Awan,Adnan,Awan,5bc3ff7e-9a78-4471-850c-ea1455fce836,CSC,1.91,42
@@ -1098,7 +1098,7 @@ Beverly Bass,Beverly,Bass,6fe93b93-6cac-481a-ace7-ba8eca9ea495,LA,2.5,9
 Carl Brown,Carl,Brown,6ff81ece-e18f-4f47-920d-e63add1e9493,EDUC,3,2
 Brian Salvatore,Brian,Salvatore,70740760-727e-421b-bd31-807eb56f7116,CHEM,2.4,18
 Curtis Edson,Curtis,Edson,707c10e7-a744-4a1d-8cb2-f23c86d7ec02,BRAE,3.72,7
-Marjan Zare,Marjan,Zare,70821e35-0bc5-42de-b7b1-d821f6faad3c,ME,2,15
+Marjan Zare,Marjan,Zare,70821e35-0bc5-42de-b7b1-d821f6faad3c,ME,2.07,14
 Tali Freed,Tali,Freed,709eb4ef-21e2-4c8a-b4ed-0e23c3b9a4e5,IME,2.86,28
 Lauren Goldenberg Longoria,Lauren,Goldenberg Longoria,70e55d27-c6c6-431c-a3bb-eb2c3bc656fd,ART,2,1
 Julie Gonzalez,Julie,Gonzalez,70f11b8c-b500-47ab-a2c9-ca727c6464f5,ECON,2.11,17
@@ -1618,7 +1618,7 @@ Matthew Hopper,Matthew,Hopper,a5e4bab2-832d-4b80-b12b-c3ef2eb240cd,HIST,3.73,70
 Christina Madeleine Lefevre Latner,Christina Madeleine,Lefevre Latner,a5f5cd6b-cea1-4d5b-b7a7-014185b586a3,WGS,1.19,31
 Adam BenShea,Adam,BenShea,a62e6c9d-a92c-444a-969b-2d129aac96c0,PHIL,3.52,24
 Hannah Roberts,Hannah,Roberts,a6564320-c842-46d9-b3f7-54fad420361d,PSY,3.38,8
-David Chamberlain,David,Chamberlain,a6cc6ab3-f5f9-472f-80ce-3511e6e872bf,BUS,1.78,9
+David Chamberlain,David,Chamberlain,a6cc6ab3-f5f9-472f-80ce-3511e6e872bf,BUS,4,2
 Erin Solemsaas,Erin,Solemsaas,a6dfbcc0-8467-46ec-af81-f4dabd3cbeaa,TH,4,1
 Gregory Domber,Gregory,Domber,a6f9071e-d37e-40c8-a20c-577380633a3a,HIST,3.3,27
 Michael Lucas,Michael,Lucas,a72417c3-c1e2-4ac8-be8f-f2877c7046f2,ARCH,3.52,24
@@ -1986,7 +1986,7 @@ Barbara Mori,Barbara,Mori,d2353ab5-6aff-45a0-8b0a-89142f71294c,SOC,1.05,38
 Bwalya Malama,Bwalya,Malama,d23a8abb-c187-4673-93d4-bed5e571c758,SS,3.42,20
 Julie Evans,Julie,Evans,d23e208a-85ac-48db-b057-435ddc9346b9,AGB,0.33,2
 K Wormley,K,Wormley,d26a1456-27ee-48dc-870d-33edce9fdcb9,CE,4,3
-Fabian Quintero,Fabian,Quintero,d28176c4-0c46-4310-b445-4d238d0dcf27,UNIV,4,2
+Fabian Quintero,Fabian,Quintero,d28176c4-0c46-4310-b445-4d238d0dcf27,UNIV,4,1
 Alicia Moretti,Alicia,Moretti,d28e51ab-2559-423d-bebc-e6cca1465dcf,ENGL,3.27,26
 Allison Ellis,Allison,Ellis,d299f3b0-23f8-4f8d-a1b9-513c3f345e12,BUS,3.5,2
 Hannah Dutta,Hannah,Dutta,d2d333bb-215c-49f3-8436-610ff0d91745,BIO,4,3
@@ -2145,7 +2145,7 @@ Lyndee Sing,Lyndee,Sing,e255fada-34e3-4e50-b5b0-819d09ca6f59,GRC,4,1
 Ryan Smith,Ryan,Smith,e270ec11-3156-492b-aed9-e92b9a4ec2bb,CE,3.79,22
 Dan Hawthorne,Dan,Hawthorne,e2796c6f-828c-4549-b34a-269ce013b986,PSY,3.29,21
 Kent MacDonald,Kent,MacDonald,e297635b-0d20-4823-a0e8-ebc8a0b1757d,ARCH,3.5,11
-Meilin Huang,Meilin,Huang,e29f813c-0973-4180-80fe-8fe215ef218a,CHEM,0.28,45
+Meilin Huang,Meilin,Huang,e29f813c-0973-4180-80fe-8fe215ef218a,CHEM,0.27,46
 Chrysanthos Kyriakides,Chrysanthos,Kyriakides,e2b76866-3a37-4c8b-9f63-e509761db5eb,PHYS,1.5,41
 Sam Cordero,Sam,Cordero,e2c74948-3e3a-4127-b968-55aa8ea89162,ME,1.14,15
 John Bellardo,John,Bellardo,e2c7ccdc-53be-4aec-9de7-6db237d035e8,CSC,2.6,37
