@@ -51,7 +51,7 @@ Alypios Chatziioanou,Alypios,Chatziioanou,05419690-83c6-42cf-9736-b7d218b51f52,C
 Michael Winn,Michael,Winn,056fe509-c073-4dd1-b3b9-3e2495033075,ENGL,2.65,109
 Isaac Comelli,Isaac,Comelli,05710293-567d-496e-a721-9481316482f3,MATH,2.5,1
 Rachel Johnson,Rachel,Johnson,057f7178-7610-4370-98f0-864a73dc5e4f,CHEM,4,1
-Lucy Bencharit,Lucy,Bencharit,05c6a4f1-d8c5-492b-8d65-0ad74f560584,PSY,0,1
+Lucy Bencharit,Lucy,Bencharit,05c6a4f1-d8c5-492b-8d65-0ad74f560584,PSY,0,2
 Noel Ellis,Noel,Ellis,05cc433b-cd90-4189-ad8a-99baadf5900f,EE,3.87,15
 Linda Vannasupa,Linda,Vannasupa,05d770d6-bd25-4703-b1d5-bed534f83c2e,MATE,2.54,14
 Jean-Francois Coget,Jean-Francois,Coget,05e0f746-f498-455f-9a08-e6e5dade0897,BUS,3.29,26
@@ -1228,7 +1228,7 @@ Phyllis Wong,Phyllis,Wong,7bd30ced-4a5c-438d-896a-d22380692a95,TH,2.3,79
 Scott Hoppe,Scott,Hoppe,7bec7e44-ad46-4427-902e-d6fc48a43f2e,BUS,3.19,33
 Jessica Richardson,Jessica,Richardson,7c01310c-acde-4fda-8ffe-0237ad5a5f24,ITP,4,2
 Kyle Dickey,Kyle,Dickey,7c2c4d24-4950-414f-8a09-359ec4e406d7,PHIL,3.2,10
-Jennifer Prentice,Jennifer,Prentice,7c618a70-02d6-480e-a356-5de35b6e2182,RPTA,2.5,2
+Jennifer Prentice,Jennifer,Prentice,7c618a70-02d6-480e-a356-5de35b6e2182,RPTA,3.25,4
 Judith Gish,Judith,Gish,7c6a11be-e42b-41ff-8f76-063242a8b0f0,LS,0.75,4
 Chris Wright,Chris,Wright,7c6e556a-8682-422d-83d9-8be40066bd39,AGB,4,3
 William Demarest,William,Demarest,7c726604-e13d-4aa8-8a9b-3decaa342461,MATH,3.49,34
@@ -1614,7 +1614,7 @@ Emily White,Emily,White,a570f3a3-0c5b-435d-a7da-2fedad18c3a0,ARCH,3.08,12
 Vanessa Rivera,Vanessa,Rivera,a58067ee-9241-41f5-9065-29e8a03e9cd4,CSC,3.67,30
 Nicola Rathbun,Nicola,Rathbun,a58ceb67-f459-4a47-8139-5a5d39cce0b3,ECON,4,1
 Eric Brussel,Eric,Brussel,a5e30926-e729-4fbf-9127-1e30de1a0831,MATH,2.82,74
-Matthew Hopper,Matthew,Hopper,a5e4bab2-832d-4b80-b12b-c3ef2eb240cd,HIST,3.73,70
+Matthew Hopper,Matthew,Hopper,a5e4bab2-832d-4b80-b12b-c3ef2eb240cd,HIST,3.73,71
 Christina Madeleine Lefevre Latner,Christina Madeleine,Lefevre Latner,a5f5cd6b-cea1-4d5b-b7a7-014185b586a3,WGS,1.19,31
 Adam BenShea,Adam,BenShea,a62e6c9d-a92c-444a-969b-2d129aac96c0,PHIL,3.52,24
 Hannah Roberts,Hannah,Roberts,a6564320-c842-46d9-b3f7-54fad420361d,PSY,3.38,8
@@ -1655,7 +1655,7 @@ Jeremy Medaris,Jeremy,Medaris,aa2c7732-c33e-4581-ab0c-c62e8bd51f73,MSL,3.6,3
 Anya Foxen,Anya,Foxen,aa4d939d-6760-4a66-8246-7200b5dfeb8e,RELS,3.25,4
 Mary A. Armstrong,Mary A.,Armstrong,aa58316b-473a-4140-a2d3-4bf0d5198f0c,ENGL,3.59,21
 Marisa Bolivar,Marisa,Bolivar,aa6264f9-1d7d-4368-af70-548ff623f409,FSN,4,11
-Jean Lee,Jean,Lee,aaa7e652-298a-4925-8ca4-205d2c87b7a0,MATE,1.29,51
+Jean Lee,Jean,Lee,aaa7e652-298a-4925-8ca4-205d2c87b7a0,MATE,1.27,52
 Terry Roy,Terry,Roy,aaac5d2a-6bd7-4601-81c9-034b246a1b4f,CM,1.33,6
 Samuel Frame,Samuel,Frame,aab12eb6-8d0c-4fe1-9c09-e37963515767,STAT,1.94,89
 Margaret Bodemer,Margaret,Bodemer,aaed26e2-d4ee-4780-8e65-8f4d08abd84d,HIST,3.47,70
@@ -2145,9 +2145,9 @@ Lyndee Sing,Lyndee,Sing,e255fada-34e3-4e50-b5b0-819d09ca6f59,GRC,4,1
 Ryan Smith,Ryan,Smith,e270ec11-3156-492b-aed9-e92b9a4ec2bb,CE,3.79,22
 Dan Hawthorne,Dan,Hawthorne,e2796c6f-828c-4549-b34a-269ce013b986,PSY,3.29,21
 Kent MacDonald,Kent,MacDonald,e297635b-0d20-4823-a0e8-ebc8a0b1757d,ARCH,3.5,11
-Meilin Huang,Meilin,Huang,e29f813c-0973-4180-80fe-8fe215ef218a,CHEM,0.24,54
+Meilin Huang,Meilin,Huang,e29f813c-0973-4180-80fe-8fe215ef218a,CHEM,0.24,55
 Chrysanthos Kyriakides,Chrysanthos,Kyriakides,e2b76866-3a37-4c8b-9f63-e509761db5eb,PHYS,1.5,41
-Sam Cordero,Sam,Cordero,e2c74948-3e3a-4127-b968-55aa8ea89162,ME,1.14,15
+Sam Cordero,Sam,Cordero,e2c74948-3e3a-4127-b968-55aa8ea89162,ME,1.07,16
 John Bellardo,John,Bellardo,e2c7ccdc-53be-4aec-9de7-6db237d035e8,CSC,2.6,37
 Mark Brazier,Mark,Brazier,e2cb7660-4480-40ae-a033-d7d74ab164b3,PHYS,3.6,15
 Timothy Barnes,Timothy,Barnes,e2cbe207-050c-4685-8309-14b9bc8af61d,HIST,3.08,129
@@ -2239,7 +2239,7 @@ Scott Jeffreys,Scott,Jeffreys,ebf63308-3053-483b-918d-9837c73d31f7,AEPS,2.67,2
 David Main,David,Main,ebfab5f3-cb02-4e55-addc-46f572993b9f,BRAE,0.57,6
 Sisi Pouraghabagher,Sisi,Pouraghabagher,ec0a9d80-dcba-4f4f-8b7c-b746effc60c5,BUS,3.64,94
 iian Black,iian,Black,ec34372e-e8f1-401f-ba0c-adb2cb1b0983,BMED,3,3
-Dan Banfield,Dan,Banfield,ec9ac2f1-d603-4fc1-833b-72d2e5e5c58c,BUS,3.78,28
+Dan Banfield,Dan,Banfield,ec9ac2f1-d603-4fc1-833b-72d2e5e5c58c,BUS,3.79,29
 Tahmina Azmin,Tahmina,Azmin,eca07175-ac39-4dba-b887-73ac690f3c3f,CPE,0.34,21
 Trisha Anderson,Trisha,Anderson,eca8d710-6996-4a45-9924-8b5065348ef4,BUS,2.72,33
 Lea Bouhakkou,Lea,Bouhakkou,ecac450c-fe1b-4091-bf4e-8322a562c8b0,BUS,1.5,2
