@@ -96,7 +96,7 @@ Zachary Scott,Zachary,Scott,08ef9e31-c359-44c4-8e47-3d5af6518ed1,ART,4,3
 Frances Mayer,Frances,Mayer,090de4b1-0d40-46de-bda9-3520b2e9ee4f,EDUC,3,5
 Richard Besel,Richard,Besel,093a81c1-e2f9-425b-b220-403c57dd60cd,COMS,3.55,19
 John Gilmore,John,Gilmore,0961b0c1-e30e-4cdc-9593-b15e4d0f0e18,BUS,3,1
-Mahdi Rastad,Mahdi,Rastad,09ac10ca-f988-4d97-9f22-48c399b29648,BUS,2.31,32
+Mahdi Rastad,Mahdi,Rastad,09ac10ca-f988-4d97-9f22-48c399b29648,BUS,2.24,33
 Pat Fidopiastis,Pat,Fidopiastis,09b48d98-0615-4808-a211-e58c5de4ec27,BIO,3.29,30
 Stuart Goldenberg,Stuart,Goldenberg,09b970a1-c740-43e1-bff3-dfe2d6e4d193,MATH,2.01,70
 Larry Gay,Larry,Gay,09bfeea7-d956-4952-a8f8-3b308c8a5d2a,ITP,1.78,6
@@ -174,7 +174,7 @@ April Grow,April,Grow,0fe890dd-4fe2-4909-8b1a-72a371721672,CSC,1.68,26
 Alia Ajina,Alia,Ajina,102ed69d-628b-4fbf-a79f-a4dea6c3a0bf,CE,4,1
 Robert Szlavik,Robert,Szlavik,1039e65f-6c4a-4283-92dd-853d3d9ae861,BMED,3.06,17
 John Haley,John,Haley,104a99ba-287c-4ef7-add5-e67827bee1c7,POLS,1.67,2
-Chris Carr,Chris,Carr,10566fa1-e8c6-419c-967a-68057f2643f8,BUS,3.53,237
+Chris Carr,Chris,Carr,10566fa1-e8c6-419c-967a-68057f2643f8,BUS,3.52,238
 Jeremy Shermak,Jeremy,Shermak,105e5dee-049e-46dc-b748-51e656964250,JOUR,2.67,3
 Scott Fraser,Scott,Fraser,10bdbba7-9814-4631-b142-e047a22ec6fc,PHYS,3,56
 Johanna Johnson,Johanna,Johnson,10d3698e-68af-47ff-9b56-92420ef94dee,BUS,3,2
@@ -245,7 +245,7 @@ Brian Higgins,Brian,Higgins,16da5a77-652d-4d6b-ab52-bc114a23806d,ME,3.28,17
 Puneet Agarwal,Puneet,Agarwal,16ea9d43-1edf-476e-9a51-21ca48621342,IME,4,3
 Rebecca Michaud,Rebecca,Michaud,16ead9c1-21af-44e5-b290-dc015a28895c,MATH,3.44,19
 Alan Zhang,Alan,Zhang,16eb0060-6be7-466a-8459-082f7f640e4c,ME,3.1,23
-Aaron Kline,Aaron,Kline,17029dff-69dd-4344-bed9-83c69f1288d3,MU,4,8
+Aaron Kline,Aaron,Kline,17029dff-69dd-4344-bed9-83c69f1288d3,MU,4,9
 Joseph Castro,Joseph,Castro,17054b84-bb40-466e-beac-d5779f5738e8,BUS,2,2
 William Pendergast,William,Pendergast,171d9525-7da2-4b8f-848d-dcd25583ad82,BUS,2.29,38
 Dean Arakaki,Dean,Arakaki,173a6d6e-0279-4cc8-8a8f-9091a6afd7c8,EE,1.94,117
@@ -1011,7 +1011,7 @@ Carl Lutrin,Carl,Lutrin,664d6558-0b77-45d2-90f7-595c11c25a99,POLS,1.52,59
 Dennis Derickson,Dennis,Derickson,664fa4fa-9156-4af2-a43a-ca951955ee27,EE,2.49,30
 Travis Neel,Travis,Neel,6658da01-5d60-40a2-b0df-b33b81c6023e,ART,3.33,9
 Kirk Duran,Kirk,Duran,665ba44f-b7db-43b8-931f-8d79953e1284,CSC,3.15,34
-Jonathan James,Jonathan,James,66a8823c-ede7-41a2-b783-d36796fefe65,ECON,1.53,156
+Jonathan James,Jonathan,James,66a8823c-ede7-41a2-b783-d36796fefe65,ECON,1.52,157
 Michael Morrow,Michael,Morrow,66bf4033-7ea7-449b-9619-474f35f9970c,LA,1.69,12
 Mitch McDuff,Mitch,McDuff,66d16b76-baa9-449c-b5b7-7ca97ee39df8,MATH,3.07,58
 Nathan Heston,Nathan,Heston,66e2d70a-f3fc-4946-a17b-26db06b43bad,PHYS,3.57,51
@@ -2147,7 +2147,7 @@ Dan Hawthorne,Dan,Hawthorne,e2796c6f-828c-4549-b34a-269ce013b986,PSY,3.29,21
 Kent MacDonald,Kent,MacDonald,e297635b-0d20-4823-a0e8-ebc8a0b1757d,ARCH,3.5,11
 Meilin Huang,Meilin,Huang,e29f813c-0973-4180-80fe-8fe215ef218a,CHEM,0.24,55
 Chrysanthos Kyriakides,Chrysanthos,Kyriakides,e2b76866-3a37-4c8b-9f63-e509761db5eb,PHYS,1.5,41
-Sam Cordero,Sam,Cordero,e2c74948-3e3a-4127-b968-55aa8ea89162,ME,1.07,16
+Sam Cordero,Sam,Cordero,e2c74948-3e3a-4127-b968-55aa8ea89162,ME,1.01,17
 John Bellardo,John,Bellardo,e2c7ccdc-53be-4aec-9de7-6db237d035e8,CSC,2.6,37
 Mark Brazier,Mark,Brazier,e2cb7660-4480-40ae-a033-d7d74ab164b3,PHYS,3.6,15
 Timothy Barnes,Timothy,Barnes,e2cbe207-050c-4685-8309-14b9bc8af61d,HIST,3.08,129
@@ -2412,7 +2412,7 @@ Larisa Veloz,Larisa,Veloz,fcaedfcd-e9f6-4c80-9fce-9804fd312adf,HIST,3.43,7
 Beena Khurana,Beena,Khurana,fcaf22b2-0250-46b3-b97a-b351236ff5f5,BUS,3.17,5
 Nicholas Soares,Nicholas,Soares,fcd2159b-1fa8-4322-989b-bfc66dc7bba0,BIO,4,2
 Ronald Mussulman,Ronald,Mussulman,fceac681-db7b-4051-afc3-601abc8b229a,ME,0,0
-Mary Gibbs,Mary,Gibbs,fd0b38de-1183-4c27-ab5d-2a9e00159092,BUS,3,5
+Mary Gibbs,Mary,Gibbs,fd0b38de-1183-4c27-ab5d-2a9e00159092,BUS,3.17,6
 Karen Ellis,Karen,Ellis,fd200efd-a751-4945-957b-ff7a11a88803,MATH,0.75,2
 Christopher Appel,Christopher,Appel,fd39db49-0246-4d3e-a5b7-d1631229307d,SS,3.67,68
 Beth Meyer,Beth,Meyer,fd4ddaf5-0de5-4dd0-a992-b1969ef4a7aa,ENGL,3,13
