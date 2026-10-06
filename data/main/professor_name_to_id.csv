@@ -964,7 +964,7 @@ Adam Groves,Adam,Groves,61f9957f-7619-42f7-9324-759fce004228,CHEM,2.62,8
 Alex Hirsig,Alex,Hirsig,620e31d3-d103-483b-a832-3470fc08e759,ARCH,4,3
 Lidar Eini,Lidar,Eini,622babff-3199-48fa-8e66-051b81b703be,EDUC,4,1
 Jeff Hess,Jeff,Hess,6238327b-f70a-43d1-8541-cbacde1ed97d,BUS,2.22,25
-Rachel Lyons,Rachel,Lyons,62711b6c-6c86-400f-bb00-587fdd020cd4,ASCI,2.55,11
+Rachel Lyons,Rachel,Lyons,62711b6c-6c86-400f-bb00-587fdd020cd4,ASCI,2.42,12
 Nicole Birdsall,Nicole,Birdsall,6287909f-1e0e-47fa-9d65-f556afab08d8,BUS,2.91,12
 Jaehun Woo,Jaehun,Woo,628e9237-9336-4cf0-aa88-3e7840550653,ARCH,3,2
 Jesse Maddren,Jesse,Maddren,62be5f17-c353-4095-bb1f-88e1ba73c5a7,ME,3.64,44
@@ -1133,7 +1133,7 @@ John Herlihy,John,Herlihy,7397449f-4d09-42f5-b21c-d65e975b8b9b,AGB,1.5,1
 Darren Avrit,Darren,Avrit,739db4b5-f8c3-43e3-afd4-1b4ed5b2d793,KINE,3.67,6
 Liz Schlemer,Liz,Schlemer,73eb3f1b-a5da-4378-b455-c4e49e9ea592,IME,3.79,39
 David Janzen,David,Janzen,73f865a0-bc62-4a85-90e6-d8cd9115ab09,CSC,2.92,23
-Erika Meza,Erika,Meza,74059bdb-7eb5-470e-bc7c-688be93f36a3,HLTH,1.5,4
+Erika Meza,Erika,Meza,74059bdb-7eb5-470e-bc7c-688be93f36a3,HLTH,1.8,5
 Christine O'Hara,Christine,O'Hara,7418bdd2-78e5-4eea-b4aa-f2b64ac2647a,LA,3.15,23
 Kate Riley,Kate,Riley,7429c539-7b64-4987-b0d6-3560431dc245,MATH,3.15,84
 Steven Ruszczycky,Steven,Ruszczycky,74446784-fc60-4b91-adf6-b9efe1656d67,ENGL,2.55,20
@@ -1498,7 +1498,7 @@ Tad Walters,Tad,Walters,9840dc54-4ded-4a03-8afa-c986a7ad4e80,ENGL,3.2,5
 Javier Aguilera,Javier,Aguilera,98904beb-cda2-4fae-b968-431bb0f50f7a,CHEM,0.26,50
 Annie Frew,Annie,Frew,98dee929-d3aa-471f-b626-a2729fe651d6,POLS,3.25,20
 Vicente del Rio Nascimento,Vicente,del Rio Nascimento,98e0848c-3836-4bed-9bce-fcac01cf80dd,CRP,3.25,18
-Bryan Knakiewicz,Bryan,Knakiewicz,98ea6573-35f6-41ee-a09f-967931831fc0,CM,2.91,11
+Bryan Knakiewicz,Bryan,Knakiewicz,98ea6573-35f6-41ee-a09f-967931831fc0,CM,2.67,12
 Eshetu Erkihune,Eshetu,Erkihune,98f44bce-82e3-4354-9cc4-8ecf906828a6,BRAE,3.23,26
 Nicholas Brown,Nicholas,Brown,99732079-43bf-4f0d-88b8-01401c7298fd,PHYS,1.4,48
 Kun Hua,Kun,Hua,99a6658b-cdcf-4cfd-a908-c61f7ab9f347,EE,3.07,16
@@ -1655,7 +1655,7 @@ Jeremy Medaris,Jeremy,Medaris,aa2c7732-c33e-4581-ab0c-c62e8bd51f73,MSL,3.6,3
 Anya Foxen,Anya,Foxen,aa4d939d-6760-4a66-8246-7200b5dfeb8e,RELS,3.25,4
 Mary A. Armstrong,Mary A.,Armstrong,aa58316b-473a-4140-a2d3-4bf0d5198f0c,ENGL,3.59,21
 Marisa Bolivar,Marisa,Bolivar,aa6264f9-1d7d-4368-af70-548ff623f409,FSN,4,11
-Jean Lee,Jean,Lee,aaa7e652-298a-4925-8ca4-205d2c87b7a0,MATE,1.27,52
+Jean Lee,Jean,Lee,aaa7e652-298a-4925-8ca4-205d2c87b7a0,MATE,1.23,54
 Terry Roy,Terry,Roy,aaac5d2a-6bd7-4601-81c9-034b246a1b4f,CM,1.33,6
 Samuel Frame,Samuel,Frame,aab12eb6-8d0c-4fe1-9c09-e37963515767,STAT,1.94,89
 Margaret Bodemer,Margaret,Bodemer,aaed26e2-d4ee-4780-8e65-8f4d08abd84d,HIST,3.47,70
@@ -1742,7 +1742,7 @@ Sandra Lakeman,Sandra,Lakeman,b50d6cd8-df37-407b-bacf-b37d0d465d13,ARCH,1.3,29
 Scott Kelting,Scott,Kelting,b5295b45-c57a-4442-bb53-43d42b3dd7ea,CM,4,3
 Steve Mansfield,Steve,Mansfield,b540da66-e8fa-4d6f-a8f6-28793c03d99e,BUS,1.92,11
 Lisa Coffman,Lisa,Coffman,b55e721c-dbee-482f-9842-64c99be57798,ENGL,3.18,44
-Chuancai Zhang,Chuancai,Zhang,b56653d7-d5a3-409d-aa33-dc6e70e90f24,BUS,3.28,7
+Chuancai Zhang,Chuancai,Zhang,b56653d7-d5a3-409d-aa33-dc6e70e90f24,BUS,2.87,8
 Daniel Cruz,Daniel,Cruz,b56f16be-2e8d-47db-aade-f91dd95c6d79,MATH,1.71,14
 Dan Cashier,Dan,Cashier,b578a3a9-4ab1-4246-9e85-74f69e3a3039,BUS,1.43,6
 Kevin Williams,Kevin,Williams,b57dd3a1-8823-414f-9b29-72825699d326,IME,3.78,56
@@ -2365,7 +2365,7 @@ John Geringer,John,Geringer,f8e58283-5bc6-4896-9ca3-d0abf6770d83,BUS,3.59,24
 Jun-Hyun Kim,Jun-Hyun,Kim,f90033d1-88ab-4f9f-ba1d-511620af8197,LA,3,5
 Arthur Duarte,Arthur,Duarte,f93e99fc-b2a8-438e-80b3-fe4a4e24e282,AGB,1.67,6
 Grace Yeh,Grace,Yeh,f9678ddb-b323-4dd2-80e9-b2832215ed70,ES,3.29,49
-Sean Watson,Sean,Watson,f96d727a-f112-4c41-b3e4-c55719e5b1ea,MATH,1.86,72
+Sean Watson,Sean,Watson,f96d727a-f112-4c41-b3e4-c55719e5b1ea,MATH,1.83,73
 Kris Isaacson,Kris,Isaacson,f96d9470-2f04-4a5c-863c-ce3f279580fe,ENVE,3.8,5
 Gwen Altschuler,Gwen,Altschuler,f970e7b2-d8a7-4dd0-8297-9903aa05fbff,ENGL,3.51,8
 Praveen Babu,Praveen,Babu,f9876335-ef61-418d-9804-903770797b81,BIO,3.23,96
